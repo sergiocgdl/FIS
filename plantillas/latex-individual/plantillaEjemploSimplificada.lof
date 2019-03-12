@@ -1,11 +1,1 @@
 \select@language {spanish}
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Gr\IeC {\'a}fica del Algoritmo 1}}{4}
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Gr\IeC {\'a}fica de algoritmos con eficiencia O($n^2$)}}{5}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Gr\IeC {\'a}fica de algoritmos con eficiencia O($n*log(n)$)}}{6}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Gr\IeC {\'a}fica de algoritmos con eficiencia O($n^2$) y O($n*log(n)$)}}{7}
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Gr\IeC {\'a}fica de algoritmo con eficiencia O($n^3$)}}{8}
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Gr\IeC {\'a}fica de algoritmo con eficiencia O($2^n$)}}{9}
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Gr\IeC {\'a}fica h\IeC {\'\i }brida del algoritmo de Burbuja}}{10}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Gr\IeC {\'a}fica h\IeC {\'\i }brida del algoritmo de Mergesort}}{11}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Gr\IeC {\'a}fica h\IeC {\'\i }brida del algoritmo de Floyd}}{12}
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Gr\IeC {\'a}fica h\IeC {\'\i }brida del algoritmo de Hanoi}}{13}
