@@ -1,10 +1,9 @@
 \select@language {spanish}
-\contentsline {section}{\numberline {1}Objetivos}{3}
-\contentsline {section}{\numberline {2}Descripci\IeC {\'o}n general del sistema}{4}
-\contentsline {section}{\numberline {3}Requisitos}{5}
-\contentsline {subsection}{\numberline {3.1}Funcionales}{5}
-\contentsline {subsubsection}{\numberline {3.1.1}Gesti\IeC {\'o}n del pedido}{5}
-\contentsline {subsubsection}{\numberline {3.1.2}Gesti\IeC {\'o}n de cliente}{5}
-\contentsline {subsection}{\numberline {3.2}No funcionales}{6}
-\contentsline {subsection}{\numberline {3.3}De informaci\IeC {\'o}n}{7}
-\contentsline {section}{\numberline {4}Glosario de t\IeC {\'e}rminos}{8}
+\contentsline {section}{\numberline {1}Descripci\IeC {\'o}n general del sistema \& Objetivos principales}{3}
+\contentsline {section}{\numberline {2}Requisitos}{4}
+\contentsline {subsection}{\numberline {2.1}Funcionales}{4}
+\contentsline {subsubsection}{\numberline {2.1.1}Gesti\IeC {\'o}n del pedido}{4}
+\contentsline {subsubsection}{\numberline {2.1.2}Gesti\IeC {\'o}n de cliente}{4}
+\contentsline {subsection}{\numberline {2.2}No funcionales}{5}
+\contentsline {subsection}{\numberline {2.3}De informaci\IeC {\'o}n}{6}
+\contentsline {section}{\numberline {3}Glosario de t\IeC {\'e}rminos}{7}
