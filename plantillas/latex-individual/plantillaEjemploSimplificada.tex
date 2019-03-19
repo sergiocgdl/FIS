@@ -59,25 +59,25 @@ El sistema software a desarrollar está destinado a la gestión de una empresa d
 
 \section{Requisitos}
 \subsection{Funcionales}
+En esta sección se recogerán las características de alto nivel del sistema que permitirán facilitar las necesidades del usuario. Para facilitar su lectura y análisis, los requisitos se presentan en forma de lista estructurada. 
 \subsubsection{Gestión del pedido}
-que hago...
+Debemos almacenar información sobre el paquete a transportar y gestionar las devoluciones por parte de los clientes.  
+\begin{enumerate}
+	\item Localización de este
+	\item 
+\end{enumerate}
 
 \subsubsection{Gestión de cliente}
 Creación/modificación de usuario desde el que gestionar todos los pedidos.
 
-I. PERMITIR ENVIO DE PEDIDOS
-1. Datos de recepción, entrega, elección de seguro y método de pago. Especificando envío/recogida a domicilio o en oficina.
-2. En función de los datos introducidos: opciones y coste de envío.
-*DESGLOSAR*
-
-II. MODIFICAR DATOS DEL ENVÍO (ANTES DE SALIDA)
-
-III. PERMITIR SEGUIMIENTO DEL ENVÍO
-
-IV. VALORACIÓN DEL SERVICIO DADO
-
-
-
+\begin{enumerate}
+	\item PERMITIR ENVIO DE PEDIDOS
+	\subitem Datos de recepción, entrega, elección de seguro y método de pago. Especificando envío/recogida a domicilio o en oficina.
+	\subitem En función de los datos introducidos: opciones y coste de envío.
+	\item MODIFICAR DATOS DEL ENVÍO (ANTES DE SALIDA) 
+	\item PERMITIR SEGUIMIENTO DEL ENVÍO
+	\item VALORACIÓN DEL SERVICIO DADO
+\end{enumerate}
 
 
 
@@ -86,8 +86,28 @@ IV. VALORACIÓN DEL SERVICIO DADO
 -idea- el sistema permite recoger las valoraciones de los usuarios para mejorar la gestión.
 \newpage
 \subsection{No funcionales}
+\subsubsection{Usabilidad}
+\begin{enumerate}
+	\item Se deberá dar \textit{ayuda} en línea con instrucciones paso a paso para guiar al empleado en las tareas que debe realizar.
+	\item Documentación: factura del servicio
+\end{enumerate}
+\subsubsection{Fiabilidad}
 
+\subsubsection{Rendimiento}
+\begin{enumerate}
+	\item Para optimizar la recepción y entrega de los paquetes, habrá una flota de furgonetas especializada en la conexión entre almacenes. Cada almacén tendrá a su vez una pequeña flota de furgonetas para la recogida/entrega de paquetes al cliente.
+	\item Con la intención de reducir costes de transporte, se implementara un sistema de comunicación entre los transportistas. De esta forma podrán evitar viajes innecesarios, pudiendo delegar el trabajo al transportista más apropiado en cada caso.
+	\item Plazos de entrega: Dependiendo del tipo de envío, los plazos de entrega serán los siguientes: estándar (hasta 3 días hábiles), urgente (hasta 2 días hábiles) y express (hasta 24 horas).
+\end{enumerate}
+
+\subsubsection{Soporte}
+
+
+\subsubsection{Restricciones de implementación}
+
+\subsubsection{Requisitos físicos}
 \newpage
+
 \subsection{De información}
 
 \newpage
