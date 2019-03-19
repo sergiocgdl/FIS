@@ -3,6 +3,8 @@
 \contentsline {section}{\numberline {2}Descripci\IeC {\'o}n general del sistema}{4}
 \contentsline {section}{\numberline {3}Requisitos}{5}
 \contentsline {subsection}{\numberline {3.1}Funcionales}{5}
+\contentsline {subsubsection}{\numberline {3.1.1}Gesti\IeC {\'o}n del pedido}{5}
+\contentsline {subsubsection}{\numberline {3.1.2}Gesti\IeC {\'o}n de cliente}{5}
 \contentsline {subsection}{\numberline {3.2}No funcionales}{6}
 \contentsline {subsection}{\numberline {3.3}De informaci\IeC {\'o}n}{7}
 \contentsline {section}{\numberline {4}Glosario de t\IeC {\'e}rminos}{8}
