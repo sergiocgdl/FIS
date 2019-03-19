@@ -74,12 +74,12 @@ Debemos almacenar información sobre el paquete a transportar y gestionar las de
 Creación/modificación de usuario desde el que gestionar todos los pedidos.
 
 \begin{enumerate}
-	\item PERMITIR ENVIO DE PEDIDOS
+	\item Permitir envío de pedidos
 	\subitem Datos de recepción, entrega, elección de seguro y método de pago. Especificando envío/recogida a domicilio o en oficina.
 	\subitem En función de los datos introducidos: opciones y coste de envío.
-	\item MODIFICAR DATOS DEL ENVÍO (ANTES DE SALIDA) 
-	\item PERMITIR SEGUIMIENTO DEL ENVÍO
-	\item VALORACIÓN DEL SERVICIO DADO
+	\item Modificar datos del envío (antes de salida)
+	\item Permitir seguimiento del envío
+	\item Valoración del seguimiento dado
 \end{enumerate}
 
 
@@ -91,15 +91,16 @@ Creación/modificación de usuario desde el que gestionar todos los pedidos.
 \subsection{No funcionales}
 \subsubsection{Usabilidad}
 \begin{enumerate}
-	\item Se deberá dar \textit{ayuda} en línea con instrucciones paso a paso para guiar al empleado en las tareas que debe realizar.
-	\item Documentación: factura del servicio
+	\item Se deberá dar \textit{ayuda} en línea con instrucciones paso a paso para guiar al repartidor en las tareas que debe realizar.
+	\item Documentación: resguardo del servicio contratado.
+	
 \end{enumerate}
 \subsubsection{Fiabilidad}
 
 \subsubsection{Rendimiento}
 \begin{enumerate}
 	\item Para optimizar la recepción y entrega de los paquetes, habrá una flota de furgonetas especializada en la conexión entre almacenes. Cada almacén tendrá a su vez una pequeña flota de furgonetas para la recogida/entrega de paquetes al cliente.
-	\item Con la intención de reducir costes de transporte, se implementara un sistema de comunicación entre los transportistas. De esta forma podrán evitar viajes innecesarios, pudiendo delegar el trabajo al transportista más apropiado en cada caso.
+	\item Con la intención de reducir costes de transporte, se implementara un sistema de distribución del reparto de paquetes entre furgonetas. De esta forma se evitarán viajes innecesarios, pudiendo delegar el trabajo al transportista más apropiado en cada caso.
 	\item Plazos de entrega: Dependiendo del tipo de envío, los plazos de entrega serán los siguientes: estándar (hasta 3 días hábiles), urgente (hasta 2 días hábiles) y express (hasta 24 horas).
 \end{enumerate}
 
@@ -109,6 +110,18 @@ Creación/modificación de usuario desde el que gestionar todos los pedidos.
 \subsubsection{Restricciones de implementación}
 
 \subsubsection{Requisitos físicos}
+- disponibilidad furgonetas, almacenes y transportistas
+
+--------------------------------------------- \\
+extras usabilidad \\
+- Actualización por mail/sms del pedido en todo momento. \\
+- Aviso al repartidor "furgoneta lista para salir"
+fiabilidad \\
+extras -- \\
+- frente a una perdida/retraso del pedido, se informará al cliente por email/sms y se dará una/s solucion/es a ello.\\
+- cómo me recupero ante una perdida de paquete. trackear ultima localizacion de este,etc. \\
+
+
 \newpage
 
 \subsection{De información}
