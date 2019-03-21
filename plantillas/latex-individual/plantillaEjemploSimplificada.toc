@@ -1,15 +1,18 @@
 \select@language {spanish}
 \contentsline {section}{\numberline {1}Descripci\IeC {\'o}n general del sistema \& Objetivos principales}{3}
-\contentsline {section}{\numberline {2}Requisitos}{4}
-\contentsline {subsection}{\numberline {2.1}Funcionales}{4}
-\contentsline {subsubsection}{\numberline {2.1.1}Gesti\IeC {\'o}n del pedido}{4}
-\contentsline {subsubsection}{\numberline {2.1.2}Gesti\IeC {\'o}n de cliente}{4}
-\contentsline {subsection}{\numberline {2.2}No funcionales}{5}
-\contentsline {subsubsection}{\numberline {2.2.1}Usabilidad}{5}
-\contentsline {subsubsection}{\numberline {2.2.2}Fiabilidad}{5}
-\contentsline {subsubsection}{\numberline {2.2.3}Rendimiento}{5}
-\contentsline {subsubsection}{\numberline {2.2.4}Soporte}{5}
-\contentsline {subsubsection}{\numberline {2.2.5}Restricciones de implementaci\IeC {\'o}n}{5}
-\contentsline {subsubsection}{\numberline {2.2.6}Requisitos f\IeC {\'\i }sicos}{5}
-\contentsline {subsection}{\numberline {2.3}De informaci\IeC {\'o}n}{6}
-\contentsline {section}{\numberline {3}Glosario de t\IeC {\'e}rminos}{7}
+\contentsline {section}{\numberline {2}Descripci\IeC {\'o}n de los usuarios}{4}
+\contentsline {subsection}{\numberline {2.1}Entorno de usuario}{4}
+\contentsline {subsection}{\numberline {2.2}Resumen de los implicados}{4}
+\contentsline {section}{\numberline {3}Requisitos}{5}
+\contentsline {subsection}{\numberline {3.1}Funcionales}{5}
+\contentsline {subsubsection}{\numberline {3.1.1}Gesti\IeC {\'o}n del pedido}{5}
+\contentsline {subsubsection}{\numberline {3.1.2}Gesti\IeC {\'o}n de cliente}{5}
+\contentsline {subsection}{\numberline {3.2}No funcionales}{6}
+\contentsline {subsubsection}{\numberline {3.2.1}Usabilidad}{6}
+\contentsline {subsubsection}{\numberline {3.2.2}Fiabilidad}{6}
+\contentsline {subsubsection}{\numberline {3.2.3}Rendimiento}{6}
+\contentsline {subsubsection}{\numberline {3.2.4}Soporte}{6}
+\contentsline {subsubsection}{\numberline {3.2.5}Restricciones de implementaci\IeC {\'o}n}{6}
+\contentsline {subsubsection}{\numberline {3.2.6}Requisitos f\IeC {\'\i }sicos}{6}
+\contentsline {subsection}{\numberline {3.3}De informaci\IeC {\'o}n}{7}
+\contentsline {section}{\numberline {4}Glosario de t\IeC {\'e}rminos}{8}
