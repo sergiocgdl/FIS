@@ -47,15 +47,14 @@ En síntesis, los objetivos principales son los siguientes:
 \begin{enumerate}
 	\item El sistema deberá almacenar y gestionar la información correspondiente a los paquetes durante todo el proceso de envío y recepción, tal como la ruta de envío o el estado y situación del paquete.
 	\item El sistema automatizará todas las actividades relacionadas con el cálculo del coste de envío y tiempo estimado de llegada. Optimiza la ruta de envío en función de la distancia entre los almacenes origen-destino, la disponibilidad de furgonetas y transportistas y el estado de los almacenes.
-	\item El cliente puede seleccionar entre diversos modos de envío y elegir las fechas de recogida y entrega (una vez en almacen) del paquete.
+	\item El cliente puede seleccionar entre diversos modos de envío y elegir las fechas de recogida y entrega (una vez en almacén) del paquete.
 	\item EL sistema gestiona el estado de los almacenes y sus paquetes.
 	\item El seguimiento del pedido se podrá realizar a través de la aplicación.
 	\item El sistema podrá gestionar la disponibilidad de transportistas y vehículos destinados a cada envío a nivel nacional. Gestiona el reparto de paquetes entre furgonetas para agrupar aquellos con destinos cercanos, además de gestionar los conductores de las furgonetas, sus rutas y horarios, optimizando los repartos y desplazamientos.
 	\item El sistema permitirá la localización de la oficina más cercana al usuario.
-	\item El sistema permitirá recoger valoraciones/quejas de los usuarios con la intención de atenderlas.
+	\item El sistema permitirá recoger valoraciones/opiniones de los usuarios con la intención de atenderlas.\\
 	 
 \end{enumerate}
-\newpage
 
 %----------------------------------------------------------------------------------------
 %	Cuestión 2
@@ -63,13 +62,28 @@ En síntesis, los objetivos principales son los siguientes:
 
 \section{Descripción de los usuarios}
 	\subsection{Entorno de usuario}
-		El usuario del producto software es en esencia el transportista y empleado de la empresa. Por un lado, debe ofrecer una interfaz sencilla y práctica para todo tipo de cliente, pero está destinado a los empleados y repartidores cuyo nivel cultural es medio y tienen experiencia tanto en el negocio como en el uso previo de aplicaciones informáticas.
+		El usuario del producto software es en esencia el transportista y empleado de la empresa. Por un lado, debe ofrecer una interfaz sencilla y práctica para que todo tipo de cliente pueda gestionar su envío, pero está destinado a los empleados y repartidores cuyo nivel cultural es medio y tienen experiencia tanto en el negocio como en el uso previo de aplicaciones informáticas.
+	
 	\subsection{Resumen de los implicados}
 	\begin{itemize}
-		\item Cliente	
+		\item \textit{Cliente}: Representa un potencial socio. Usuario del sistema, es el que realiza los envíos de paquetes, puede realizar un seguimiento (manual) del pedido. Además, puede hacerse socio con sus correspondientes ventajas.
+		\item \textit{Socio}: Usuario del sistema, se trata de un cliente registrado en el sistema que puede guardar sus datos de envío, facturación... Desde su cuenta puede visualizar el seguimiento de todos sus pedidos, además de configurar si desea recibir una notificación o email en alguna de las distintas fases del envío. Puede valorar el servicio ofrecido por la empresa.
+		\item \textit{Transportista}: Representa al conductor de la furgoneta. Usuario del producto, realiza el reparto del paquete. Puede consultar su horario e itinerario de viajes.
+		\item \textit{Empleado de oficina}: Representa al empleado que atiende a los clientes en la oficina y gestiona los envíos. Usuario del producto, puede realizar la gestión del envío en lugar del cliente o socio si éste acude a la oficina, además de gestionar y consultar el estado de los repartos.
+		\item \textit{Empleado de almacén}: Representa al empleado encargado de organizar los paquetes en el almacén. Usuario del producto, puede consultar la información relativa a los paquetes en almacén y gestionar la distribución o reparto de paquetes entre furgonetas. \\ \\
+	\end{itemize}
 	
-\end{itemize}
-\newpage
+	\subsection{Necesidades principales de los implicados}
+	\begin{itemize}
+		\item \textit{Enviar un paquete}: Prioridad Alta. Se deben gestionar los datos del envío (dirección, modo de envío...), calcular el presupuesto y optimizar la ruta de envío.
+		\item \textit{Seguimiento del pedido}: Prioridad Alta. Se puede seguir el estado del paquete a partir del ID de envío o, en el caso de los socios, pueden visualizar todos sus envíos en su cuenta. Los socios pueden recibir notificaciones o emails en las distintas fases del reparto.
+		\item \textit{Valorar servicio}: Prioridad Media. Los socios pueden dejar valoraciones acerca del servicio.
+		\item \textit{Consultar itinerario de ruta}: Prioridad Alta. Los transportistas pueden consultar sus rutas de reparto. Los empleados de almacén también pueden consultar la disponibilidad de los conductores y desplazamientos.
+		\item \textit{Consultar ruta de envío}: Prioridad Alta. Se puede consultar los datos de envío de un paquete y su ruta de envío (ver glosario de términos)
+		\item \textit{Consultar valoraciones}: Prioridad Media. Los empleados de la empresa pueden visualizar las opiniones y valoraciones dejadas por los usuarios.\\ \\
+		
+		
+	\end{itemize}
 
 
 %----------------------------------------------------------------------------------------
@@ -103,7 +117,7 @@ Creación/modificación de usuario desde el que gestionar todos los pedidos.
 --------------------
 -idea- permite gestionar de forma óptima la furgoneta en la que se envia un paquete atendiendo al destino de ambos.
 -idea- el sistema permite recoger las valoraciones de los usuarios para mejorar la gestión.
-\newpage
+
 \subsection{No funcionales}
 \subsubsection{Usabilidad}
 \begin{enumerate}
@@ -148,7 +162,9 @@ extras -- \\
 %----------------------------------------------------------------------------------------
 
 \section{Glosario de términos}
-
+	\begin{enumerate}
+		\item \textit{Ruta de envío}: Se trata de las oficinas y almacenes por los que pasa un paquete hasta llegar al destino.
+	\end{enumerate}
 \newpage
 %------------------------------------------------
 
