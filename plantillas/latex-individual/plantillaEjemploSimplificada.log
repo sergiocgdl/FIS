@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2019.3.12)  21 MAR 2019 13:28
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.3)  21 MAR 2019 11:17
+>>>>>>> 27e51b6b814d5a0d1d86c43d3f6d8df182fe71f0
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -764,6 +768,7 @@ LaTeX Info: Redefining \% on input line 1.
 \tf@lot=\write5
 \openout5 = `plantillaEjemploSimplificada.lot'.
 
+<<<<<<< HEAD
 
 [2]
 Underfull \hbox (badness 10000) in paragraph at lines 55--56
@@ -798,6 +803,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 145--153
 [6] [7] [8] (./plantillaEjemploSimplificada.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
+=======
+ [2] [3] [4] [5]
+Underfull \hbox (badness 10000) in paragraph at lines 131--139
+
+ []
+
+[6] [7] [8] (plantillaEjemploSimplificada.aux
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+>>>>>>> 27e51b6b814d5a0d1d86c43d3f6d8df182fe71f0
 ) ) 
 Here is how much of TeX's memory you used:
  7482 strings out of 493029
@@ -806,6 +821,7 @@ Here is how much of TeX's memory you used:
  10870 multiletter control sequences out of 15000+600000
  19894 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
+<<<<<<< HEAD
  47i,11n,58p,644b,405s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf
 /fonts/type1/public/cm-super/sfbx2074.pfb></usr/share/texmf/fonts/type1/public/
@@ -820,6 +836,25 @@ Output written on plantillaEjemploSimplificada.pdf (8 pages, 183277 bytes).
 PDF statistics:
  72 PDF objects out of 1000 (max. 8388607)
  51 compressed objects within 1 object stream
+=======
+ 48i,11n,58p,8869b,489s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Javier Alcántara\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknapp
+en\ec\dpi600\ecti1095.pk> <C:\Users\Javier Alcántara\AppData\Local\MiKTeX\2.9\
+fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1200.pk> <C:\Users\Javier Alcántara\App
+Data\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1095.pk> <C:\Users
+\Javier Alcántara\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
+ecsx1440.pk> <C:\Users\Javier Alcántara\AppData\Local\MiKTeX\2.9\fonts\pk\ljfo
+ur\jknappen\ec\dpi600\ecrm1095.pk> <C:\Users\Javier Alcántara\AppData\Local\Mi
+KTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1440.pk> <C:\Users\Javier Alcá
+ntara\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm2074.pk> 
+<C:\Users\Javier Alcántara\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\e
+c\dpi600\ecbx2074.pk> <C:\Users\Javier Alcántara\AppData\Local\MiKTeX\2.9\font
+s\pk\ljfour\jknappen\ec\dpi600\eccc1095.pk> <C:\Users\Javier Alcántara\AppData
+\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecxc1095.pk>
+Output written on plantillaEjemploSimplificada.pdf (8 pages, 108140 bytes).
+PDF statistics:
+ 338 PDF objects out of 1000 (max. 8388607)
+>>>>>>> 27e51b6b814d5a0d1d86c43d3f6d8df182fe71f0
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
