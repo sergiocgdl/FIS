@@ -30,9 +30,6 @@
 
 \tableofcontents % para generar el índice de contenidos
 
-\listoffigures
-
-\listoftables
 
 \newpage
 
@@ -92,23 +89,39 @@ En síntesis, los objetivos principales son los siguientes:
 \section{Requisitos}
 \subsection{Funcionales}
 En esta sección se recogerán las características de alto nivel del sistema que permitirán facilitar las necesidades del usuario. Para facilitar su lectura y análisis, los requisitos se presentan en forma de lista estructurada. 
-\subsubsection{Gestión del pedido}
-Debemos almacenar información sobre el paquete a transportar y gestionar las devoluciones por parte de los clientes.  
+
+\subsubsection{Gestión del envío}	
+El sistema deberá almacenar información acerca del paquete a transportar poder gestionar las devoluciones por parte de los clientes.  
 \begin{enumerate}
-	\item Localización de este
+	\item Almacenar información acerca del envío.
+	\subitem Localización del producto
+	\subitem Tiempo estimado de llegada
 	\item 
 \end{enumerate}
 
-\subsubsection{Gestión de cliente}
+\subsubsection{Gestión de socios}
 Creación/modificación de usuario desde el que gestionar todos los pedidos.
 
 \begin{enumerate}
-	\item Permitir envío de pedidos
+	\item Permitir envío de pedidos.
 	\subitem Datos de recepción, entrega, elección de seguro y método de pago. Especificando envío/recogida a domicilio o en oficina.
 	\subitem En función de los datos introducidos: opciones y coste de envío.
-	\item Modificar datos del envío (antes de salida)
-	\item Permitir seguimiento del envío
-	\item Valoración del seguimiento dado
+	\item Modificar datos del envío (antes de salida).
+	\item Permitir seguimiento del envío.
+	\item Valoración del seguimiento dado.
+	
+\end{enumerate}
+
+\subsubsection{Gestión de transporte}
+
+\begin{enumerate}
+\item Furgonetas
+\subitem Se llevará un control de las distintas furgonetas disponibles para el reparto a domicilio y para el transporte entre localidades.
+\subitem
+\subitem Se controlará el transporte de paquetes para optimizar el tiempo de llegada al cliente, repartiendo los diferentes paquetes por las furgonetas y almacenes adecuados.
+\item Almacenes
+\item Empleados
+	
 \end{enumerate}
 
 
