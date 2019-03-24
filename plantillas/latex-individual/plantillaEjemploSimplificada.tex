@@ -30,10 +30,6 @@
 
 \tableofcontents % para generar el índice de contenidos
 
-\listoffigures
-
-\listoftables
-
 \newpage
 
 %----------------------------------------------------------------------------------------
@@ -92,30 +88,51 @@ En síntesis, los objetivos principales son los siguientes:
 \section{Requisitos}
 \subsection{Funcionales}
 En esta sección se recogerán las características de alto nivel del sistema que permitirán facilitar las necesidades del usuario. Para facilitar su lectura y análisis, los requisitos se presentan en forma de lista estructurada. 
-\subsubsection{Gestión del pedido}
-Debemos almacenar información sobre el paquete a transportar y gestionar las devoluciones por parte de los clientes.  
+
+\subsubsection{Gestión del envío}	
+El sistema deberá almacenar información acerca del paquete a transportar poder gestionar las devoluciones por parte de los clientes. 
 \begin{enumerate}
-	\item Localización de este
-	\item 
+	\item Solicitar el envío de un paquete
+	\subitem Modificar los datos del envío si se encuentra aún en fase de aceptación de envío.
+	\subitem Rechazar el envío del paquete.
+	\item Ver información actual del estado del pedido.	
+	\item Valorar el grado de satisfacción del pedido, solo si el cliente es socio.
+	
 \end{enumerate}
 
-\subsubsection{Gestión de cliente}
-Creación/modificación de usuario desde el que gestionar todos los pedidos.
-
+\subsubsection{Gestión de socios}
+Se llevará un control acerca de los clientes asociados a la empresa de transporte.
 \begin{enumerate}
-	\item Permitir envío de pedidos
-	\subitem Datos de recepción, entrega, elección de seguro y método de pago. Especificando envío/recogida a domicilio o en oficina.
-	\subitem En función de los datos introducidos: opciones y coste de envío.
-	\item Modificar datos del envío (antes de salida)
-	\item Permitir seguimiento del envío
-	\item Valoración del seguimiento dado
+	\item Permitir hacerse socio con el primer envío realizado.
+	\subitem Ver datos personales acerca de un socio.
+	\subitem Ver pedidos realizados desde una determinada fecha.
+	\item Modificar los datos de un socio.
+	\item Dar de baja a un determinado socio.
+	\item Obtener las ventajas de las que disfrutando por ser socio.
+	\item Ver el canal de comunicación que el socio prefiere para informarle del estado de sus pedidos.
+	\item Ver el grado de satisfacción y opinión de los pedidos realizados.
+	
 \end{enumerate}
 
+\subsubsection{Gestión de transporte}
+El sistema llevará una correcta coordinación acerca de la gestión interna del transporte de los paquetes.
+\begin{enumerate}
+	\item Coordinación de flota de furgonetas.
+	\subitem Se llevará un control de las distintas furgonetas disponibles para el reparto a domicilio y para el transporte entre localidades.
+	\subitem Se controlará el flujo de los paquetes para optimizar el tiempo de llegada al cliente, repartiendo los diferentes
+ paquetes por las furgonetas adecuadas.
+ 	\subitem Los transportistas podrán consultar su horario e itinerario de transporte para el buen funcionamiento de transporte.
+
+	\item Coordinación de oficinas.
+	\subitem Realizar la gestión de un pedido en lugar de un cliente.
+	\subitem Consultar y gestionar el estado de un pedido.
+	
+	\item Coordinación de almacenes.
+	\subitem Obtener información relativa a los paquetes almacenados.
+	\subitem Organizar el almacenaje y la distribución de los paquetes en transcurso de envío.
 
 
---------------------
--idea- permite gestionar de forma óptima la furgoneta en la que se envia un paquete atendiendo al destino de ambos.
--idea- el sistema permite recoger las valoraciones de los usuarios para mejorar la gestión.
+\end{enumerate}
 
 \subsection{No funcionales}
 \subsubsection{Usabilidad}
