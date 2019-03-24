@@ -175,6 +175,61 @@ El sistema llevará una correcta coordinación acerca de la gestión interna del
 \newpage
 
 \subsection{De información}
+	En esta sección se incluirá toda la información que debe ir recogida en una base de datos asociada al sistema.
+\subsubsection{Paquetes almacenados}
+	Descripción de cada uno de los paquetes que tiene la empresa y que tiene que trasladar. 
+\begin{itemize}
+	\item \textit{Contenido}: Identificador, peso, fecha de entrada, origen, destino, modo de envío, localización actual, método de entrega (oficina o a domicilio), ruta de envío, datos remitente, datos destinatario, coste.
+	\item \textit{Requisitos asociados}: \\
+\end{itemize}
+
+
+\subsubsection{Oficinas de envío/recepción}
+ 	Información sobre oficinas de entrega y recogida de paquetes pertenecientes a la empresa que se encargan de administrar la actividad a nivel local.
+\begin{itemize}
+	\item \textit{Contenido}: Dirección, código postal, ciudad, teléfono, lista de furgonetas. 
+	\item \textit{Requisitos asociados}: \\
+\end{itemize}
+
+
+\subsubsection{Usuarios}
+	Información sobre los clientes que han utilizado los servicios de la empresa. 
+\begin{itemize}
+	\item \textit{Contenido}: Nombre, apellidos, fecha de nacimiento, dirección, correo electrónico, datos bancarios, teléfono.
+	\item \textit{Requisitos asociados}: \\
+\end{itemize}
+
+\subsubsection{Furgonetas de empresa nivel nacional}
+	Información relativa a las furgonetas de grandes dimensiones que emplea la empresa para trasladar los paquetes de un almacén a otro.
+\begin{itemize}
+	\item \textit{Contenido}: Conductor, matrícula, almacén de origen, almacén de destino, lista de paquetes, capacidad.
+	\item \textit{Requisitos asociados}:\\
+\end{itemize}
+
+\subsubsection{Furgonetas de empresa nivel local}
+	Información relativa a las furgonetas de pequeñas dimensiones que emplea la empresa a nivel local para trasladar los paquetes de la oficina al almacén cuando ingresan en el proceso y para repartir a domicilio. 
+\begin{itemize}
+	\item \textit{Contenido}: Conductor, matrícula, almacén, ciudad, zona, lista de paquetes, oficina, capacidad.
+	\item \textit{Requisitos asociados}: \\
+\end{itemize}
+
+
+\subsubsection{Personal}
+	Descripción de los trabajadores contratados por la empresa.
+\begin{itemize}
+	\item \textit{Contenido}: Nombre, apellidos, salario, puesto de trabajo, ciudad, teléfono.
+	
+	\item \textit{Requisitos asociados}: \\
+\end{itemize}
+
+
+\subsubsection{Almacén}
+Información sobre los distintos almacenes utilizados por la empresa para almacenar los paquetes durante el proceso de envío.
+\begin{itemize}
+	\item \textit{Contenido}: Dirección, teléfono, lista de paquetes almacenados, capacidad.
+	
+	\item \textit{Requisitos asociados}: \\
+\end{itemize}
 
 \newpage
 %----------------------------------------------------------------------------------------
@@ -184,6 +239,7 @@ El sistema llevará una correcta coordinación acerca de la gestión interna del
 \section{Glosario de términos}
 	\begin{enumerate}
 		\item \textit{Ruta de envío}: Se trata de las oficinas y almacenes por los que pasa un paquete hasta llegar al destino.
+		\item \textit{Identificador de paquete}: Código que se le asigna a un paquete cuando entra al sistema de envíos de la empresa, permitiendo diferenciarlo de todos los demás y simplificar operaciones como la localización.
 	\end{enumerate}
 \newpage
 %------------------------------------------------
