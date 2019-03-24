@@ -90,7 +90,7 @@ En síntesis, los objetivos principales son los siguientes:
 En esta sección se recogerán las características de alto nivel del sistema que permitirán facilitar las necesidades del usuario. Para facilitar su lectura y análisis, los requisitos se presentan en forma de lista estructurada. 
 
 \subsubsection{Gestión del envío}	
-El sistema deberá almacenar información acerca del paquete a transportar poder gestionar las devoluciones por parte de los clientes. 
+El sistema deberá almacenar información acerca del paquete a transportar para poder gestionar las devoluciones por parte de los clientes. 
 \begin{enumerate}
 	\item Solicitar el envío de un paquete
 	\subitem Modificar los datos del envío si se encuentra aún en fase de aceptación de envío.
@@ -180,7 +180,7 @@ El sistema llevará una correcta coordinación acerca de la gestión interna del
 	Descripción de cada uno de los paquetes que tiene la empresa y que tiene que trasladar. 
 \begin{itemize}
 	\item \textit{Contenido}: Identificador, peso, fecha de entrada, origen, destino, modo de envío, localización actual, método de entrega (oficina o a domicilio), ruta de envío, datos remitente, datos destinatario, coste.
-	\item \textit{Requisitos asociados}: \\
+	\item \textit{Requisitos asociados}: Gestión del envío. \\
 \end{itemize}
 
 
@@ -188,29 +188,29 @@ El sistema llevará una correcta coordinación acerca de la gestión interna del
  	Información sobre oficinas de entrega y recogida de paquetes pertenecientes a la empresa que se encargan de administrar la actividad a nivel local.
 \begin{itemize}
 	\item \textit{Contenido}: Dirección, código postal, ciudad, teléfono, lista de furgonetas. 
-	\item \textit{Requisitos asociados}: \\
+	\item \textit{Requisitos asociados}: Gestión del envío, gestión de transporte. \\
 \end{itemize}
 
 
 \subsubsection{Usuarios}
 	Información sobre los clientes que han utilizado los servicios de la empresa. 
 \begin{itemize}
-	\item \textit{Contenido}: Nombre, apellidos, fecha de nacimiento, dirección, correo electrónico, datos bancarios, teléfono.
-	\item \textit{Requisitos asociados}: \\
+	\item \textit{Contenido}: Nombre, apellidos, fecha de nacimiento, dirección, correo electrónico, datos bancarios, teléfono, condición o no de socio.
+	\item \textit{Requisitos asociados}: Gestión de socios. \\
 \end{itemize}
 
 \subsubsection{Furgonetas de empresa nivel nacional}
 	Información relativa a las furgonetas de grandes dimensiones que emplea la empresa para trasladar los paquetes de un almacén a otro.
 \begin{itemize}
 	\item \textit{Contenido}: Conductor, matrícula, almacén de origen, almacén de destino, lista de paquetes, capacidad.
-	\item \textit{Requisitos asociados}:\\
+	\item \textit{Requisitos asociados}: Gestión de transporte.\\
 \end{itemize}
 
 \subsubsection{Furgonetas de empresa nivel local}
 	Información relativa a las furgonetas de pequeñas dimensiones que emplea la empresa a nivel local para trasladar los paquetes de la oficina al almacén cuando ingresan en el proceso y para repartir a domicilio. 
 \begin{itemize}
 	\item \textit{Contenido}: Conductor, matrícula, almacén, ciudad, zona, lista de paquetes, oficina, capacidad.
-	\item \textit{Requisitos asociados}: \\
+	\item \textit{Requisitos asociados}: Gestión de transporte. \\
 \end{itemize}
 
 
@@ -219,7 +219,7 @@ El sistema llevará una correcta coordinación acerca de la gestión interna del
 \begin{itemize}
 	\item \textit{Contenido}: Nombre, apellidos, salario, puesto de trabajo, ciudad, teléfono.
 	
-	\item \textit{Requisitos asociados}: \\
+	\item \textit{Requisitos asociados}: Gestión del envío, gestión de socios, gestión de transporte. \\
 \end{itemize}
 
 
@@ -228,7 +228,7 @@ Información sobre los distintos almacenes utilizados por la empresa para almace
 \begin{itemize}
 	\item \textit{Contenido}: Dirección, teléfono, lista de paquetes almacenados, capacidad.
 	
-	\item \textit{Requisitos asociados}: \\
+	\item \textit{Requisitos asociados}: Gestión de transporte. \\
 \end{itemize}
 
 \newpage
@@ -240,6 +240,7 @@ Información sobre los distintos almacenes utilizados por la empresa para almace
 	\begin{enumerate}
 		\item \textit{Ruta de envío}: Se trata de las oficinas y almacenes por los que pasa un paquete hasta llegar al destino.
 		\item \textit{Identificador de paquete}: Código que se le asigna a un paquete cuando entra al sistema de envíos de la empresa, permitiendo diferenciarlo de todos los demás y simplificar operaciones como la localización.
+		\item \textit{Coste de envío}: Coste variable del servicio de envío en función del peso del paquete, dimensiones, distancia, modo de envío (certificado, urgente, etc) y condición de socio.
 	\end{enumerate}
 \newpage
 %------------------------------------------------
