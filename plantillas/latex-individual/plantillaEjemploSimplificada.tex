@@ -30,6 +30,9 @@
 
 \tableofcontents % para generar el índice de contenidos
 
+\listoffigures
+
+\listoftables
 
 \newpage
 
@@ -89,39 +92,23 @@ En síntesis, los objetivos principales son los siguientes:
 \section{Requisitos}
 \subsection{Funcionales}
 En esta sección se recogerán las características de alto nivel del sistema que permitirán facilitar las necesidades del usuario. Para facilitar su lectura y análisis, los requisitos se presentan en forma de lista estructurada. 
-
-\subsubsection{Gestión del envío}	
-El sistema deberá almacenar información acerca del paquete a transportar poder gestionar las devoluciones por parte de los clientes.  
+\subsubsection{Gestión del pedido}
+Debemos almacenar información sobre el paquete a transportar y gestionar las devoluciones por parte de los clientes.  
 \begin{enumerate}
-	\item Almacenar información acerca del envío.
-	\subitem Localización del producto
-	\subitem Tiempo estimado de llegada
+	\item Localización de este
 	\item 
 \end{enumerate}
 
-\subsubsection{Gestión de socios}
+\subsubsection{Gestión de cliente}
 Creación/modificación de usuario desde el que gestionar todos los pedidos.
 
 \begin{enumerate}
-	\item Permitir envío de pedidos.
+	\item Permitir envío de pedidos
 	\subitem Datos de recepción, entrega, elección de seguro y método de pago. Especificando envío/recogida a domicilio o en oficina.
 	\subitem En función de los datos introducidos: opciones y coste de envío.
-	\item Modificar datos del envío (antes de salida).
-	\item Permitir seguimiento del envío.
-	\item Valoración del seguimiento dado.
-	
-\end{enumerate}
-
-\subsubsection{Gestión de transporte}
-
-\begin{enumerate}
-\item Furgonetas
-\subitem Se llevará un control de las distintas furgonetas disponibles para el reparto a domicilio y para el transporte entre localidades.
-\subitem
-\subitem Se controlará el transporte de paquetes para optimizar el tiempo de llegada al cliente, repartiendo los diferentes paquetes por las furgonetas y almacenes adecuados.
-\item Almacenes
-\item Empleados
-	
+	\item Modificar datos del envío (antes de salida)
+	\item Permitir seguimiento del envío
+	\item Valoración del seguimiento dado
 \end{enumerate}
 
 
@@ -135,9 +122,16 @@ Creación/modificación de usuario desde el que gestionar todos los pedidos.
 \begin{enumerate}
 	\item Se deberá dar \textit{ayuda} en línea con instrucciones paso a paso para guiar al repartidor en las tareas que debe realizar.
 	\item Documentación: resguardo del servicio contratado.
+	\item Actualización por mail/sms del pedido en todo momento.
+	\item Aviso al repartidor "furgoneta lista para salir"
+	fiabilidad.
 	
 \end{enumerate}
 \subsubsection{Fiabilidad}
+\begin{enumerate}
+	\item Se realizarán copias de seguridad del sistema de forma periódica. De esta forma se podrá resolver cualquier fallo interno o caída de forma sencilla.
+	\item Con la intención de introducir el sistema de la forma más orgánica posible, se seguirá ofreciendo el sistema manual convencional durante un tiempo.
+\end{enumerate}
 
 \subsubsection{Rendimiento}
 \begin{enumerate}
@@ -147,21 +141,18 @@ Creación/modificación de usuario desde el que gestionar todos los pedidos.
 \end{enumerate}
 
 \subsubsection{Soporte}
-
-
+\begin{enumerate}
+	\item Todo dato introducido por los clientes debe ser pasado por un filtro previo que compruebe que efectivamente son correctos. De esta forma se verá si, por ejemplo, la calle coincide con el código postal introduciendo. Así, evitaremos fallos y malentendidos durante el reparto.
+\end{enumerate}
+	
 \subsubsection{Restricciones de implementación}
-
+\begin{enumerate}
+	\item Deberá emplearse la última versión de Java compatible con jsdk 1.8 y Oracle 8.
+\end{enumerate}
 \subsubsection{Requisitos físicos}
 - disponibilidad furgonetas, almacenes y transportistas
-
---------------------------------------------- \\
-extras usabilidad \\
-- Actualización por mail/sms del pedido en todo momento. \\
-- Aviso al repartidor "furgoneta lista para salir"
-fiabilidad \\
-extras -- \\
 - frente a una perdida/retraso del pedido, se informará al cliente por email/sms y se dará una/s solucion/es a ello.\\
-- cómo me recupero ante una perdida de paquete. trackear ultima localizacion de este,etc. \\
+- cómo me recupero ante una perdida de paquete. trackear ultima localizacion de este,etc.
 
 
 \newpage
