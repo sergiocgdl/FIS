@@ -44,7 +44,7 @@ En síntesis, los objetivos principales son los siguientes:
 	\item El sistema deberá almacenar y gestionar la información correspondiente a los paquetes durante todo el proceso de envío y recepción, tal como la ruta de envío o el estado y situación del paquete.
 	\item El sistema automatizará todas las actividades relacionadas con el cálculo del coste de envío y tiempo estimado de llegada. Optimiza la ruta de envío en función de la distancia entre los almacenes origen-destino, la disponibilidad de furgonetas y transportistas y el estado de los almacenes.
 	\item El cliente puede seleccionar entre diversos modos de envío y elegir las fechas de recogida y entrega (una vez en almacén) del paquete.
-	\item EL sistema gestiona el estado de los almacenes y sus paquetes.
+	\item El sistema gestiona el estado de los almacenes y sus paquetes.
 	\item El seguimiento del pedido se podrá realizar a través de la aplicación.
 	\item El sistema podrá gestionar la disponibilidad de transportistas y vehículos destinados a cada envío a nivel nacional. Gestiona el reparto de paquetes entre furgonetas para agrupar aquellos con destinos cercanos, además de gestionar los conductores de las furgonetas, sus rutas y horarios, optimizando los repartos y desplazamientos.
 	\item El sistema permitirá la localización de la oficina más cercana al usuario.
@@ -92,12 +92,14 @@ En esta sección se recogerán las características de alto nivel del sistema qu
 \subsubsection{Gestión del envío}	
 El sistema deberá almacenar información acerca del paquete a transportar para poder gestionar las devoluciones por parte de los clientes. 
 \begin{enumerate}
-	\item Solicitar el envío de un paquete
+	\item Solicitar el envío de un paquete.
 	\subitem Modificar los datos del envío si se encuentra aún en fase de aceptación de envío.
 	\subitem Rechazar el envío del paquete.
+	\item Cálculo de coste del envío.
+	\subitem Cálculo de distancia entre destinatario y emisor.
+	\subitem Cálculo de precio en cuanto a dimensiones y peso del paquete.
 	\item Ver información actual del estado del pedido.	
 	\item Valorar el grado de satisfacción del pedido, solo si el cliente es socio.
-	
 \end{enumerate}
 
 \subsubsection{Gestión de socios}
@@ -111,7 +113,6 @@ Se llevará un control acerca de los clientes asociados a la empresa de transpor
 	\item Obtener las ventajas de las que disfrutando por ser socio.
 	\item Ver el canal de comunicación que el socio prefiere para informarle del estado de sus pedidos.
 	\item Ver el grado de satisfacción y opinión de los pedidos realizados.
-	
 \end{enumerate}
 
 \subsubsection{Gestión de transporte}
@@ -130,8 +131,6 @@ El sistema llevará una correcta coordinación acerca de la gestión interna del
 	\item Coordinación de almacenes.
 	\subitem Obtener información relativa a los paquetes almacenados.
 	\subitem Organizar el almacenaje y la distribución de los paquetes en transcurso de envío.
-
-
 \end{enumerate}
 
 \subsection{No funcionales}
@@ -243,6 +242,9 @@ Información sobre los distintos almacenes utilizados por la empresa para almace
 		\item \textit{Identificador de paquete}: Código que se le asigna a un paquete cuando entra al sistema de envíos de la empresa, permitiendo diferenciarlo de todos los demás y simplificar operaciones como la localización.
 		\item \textit{Coste de envío}: Coste variable del servicio de envío en función del peso del paquete, dimensiones, distancia, modo de envío (certificado, urgente, etc) y condición de socio.
 		\item \textit{Filtro}: Herramienta externa (ej. Google Maps) que se implementa  en el sistema para comprobar si hay algún error de entrada por parte del usuario que solicita una recogida/entrega de paquete.
+		\item \textit{Canal de comunicación}: Medio por el que se transmite la información sobre el envío siendo destinatario el usuario(via e-mail o SMS).
+		\item \textit{Valoraciones}: Calificación de 0 a 5 y comentarios respecto a el servicio prestado por parte de la empresa.
+		
  	\end{enumerate}
 \newpage
 %------------------------------------------------

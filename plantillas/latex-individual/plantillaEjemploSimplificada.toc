@@ -1,4 +1,4 @@
-\select@language {spanish}
+\babel@toc {spanish}{}
 \contentsline {section}{\numberline {1}Descripci\IeC {\'o}n general del sistema \& Objetivos principales}{3}
 \contentsline {section}{\numberline {2}Descripci\IeC {\'o}n de los usuarios}{4}
 \contentsline {subsection}{\numberline {2.1}Entorno de usuario}{4}
@@ -8,11 +8,11 @@
 \contentsline {subsection}{\numberline {3.1}Funcionales}{6}
 \contentsline {subsubsection}{\numberline {3.1.1}Gesti\IeC {\'o}n del env\IeC {\'\i }o}{6}
 \contentsline {subsubsection}{\numberline {3.1.2}Gesti\IeC {\'o}n de socios}{6}
-\contentsline {subsubsection}{\numberline {3.1.3}Gesti\IeC {\'o}n de transporte}{6}
+\contentsline {subsubsection}{\numberline {3.1.3}Gesti\IeC {\'o}n de transporte}{7}
 \contentsline {subsection}{\numberline {3.2}No funcionales}{7}
 \contentsline {subsubsection}{\numberline {3.2.1}Usabilidad}{7}
 \contentsline {subsubsection}{\numberline {3.2.2}Fiabilidad}{7}
-\contentsline {subsubsection}{\numberline {3.2.3}Rendimiento}{7}
+\contentsline {subsubsection}{\numberline {3.2.3}Rendimiento}{8}
 \contentsline {subsubsection}{\numberline {3.2.4}Soporte}{8}
 \contentsline {subsubsection}{\numberline {3.2.5}Restricciones de implementaci\IeC {\'o}n}{8}
 \contentsline {subsubsection}{\numberline {3.2.6}Requisitos f\IeC {\'\i }sicos}{8}
