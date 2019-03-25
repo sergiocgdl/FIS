@@ -37,18 +37,18 @@
 %----------------------------------------------------------------------------------------
 
 \section{Descripción general del sistema \& Objetivos principales}
-El sistema software a desarrollar está destinado a la gestión de una empresa de transportes (Envíamelo S.A). Este sistema debe almacenar toda información relativa al envío de paquetes, su transporte y almacenaje. Junto con aquellos datos de envío por parte del cliente, debe gestionar el estado de los almacenes, con información relativa a los paquetes que dispone y sus rutas de envío, además de la flota de furgonetas y transportistas de los que dispone la empresa para el transporte y reparto, optimizando los viajes para minimizar los tiempos de envío y desplazamientos entre almacenes.
+El sistema software a desarrollar está destinado a la gestión de una empresa de transportes (Envíamelo S.A). Este sistema almacena toda información relativa al envío de paquetes, su transporte y almacenaje. Junto con aquellos datos de envío por parte del cliente, gestiona el estado de los almacenes, con información relativa a los paquetes que dispone y sus rutas de envío, además de la flota de furgonetas y transportistas de los que dispone la empresa para el transporte y reparto, optimizando los viajes para minimizar los tiempos de envío y desplazamientos entre almacenes.
 En síntesis, los objetivos principales son los siguientes:
 
 \begin{enumerate}
-	\item El sistema deberá almacenar y gestionar la información correspondiente a los paquetes durante todo el proceso de envío y recepción, tal como la ruta de envío o el estado y situación del paquete.
+	\item El sistema debe almacenar y gestionar la información correspondiente a los paquetes durante todo el proceso de envío y recepción, tal como la ruta de envío o el estado y situación del paquete.
 	\item El sistema automatizará todas las actividades relacionadas con el cálculo del coste de envío y tiempo estimado de llegada. Optimiza la ruta de envío en función de la distancia entre los almacenes origen-destino, la disponibilidad de furgonetas y transportistas y el estado de los almacenes.
 	\item El cliente puede seleccionar entre diversos modos de envío y elegir las fechas de recogida y entrega (una vez en almacén) del paquete.
 	\item El sistema gestiona el estado de los almacenes y sus paquetes.
 	\item El seguimiento del pedido se podrá realizar a través de la aplicación.
 	\item El sistema podrá gestionar la disponibilidad de transportistas y vehículos destinados a cada envío a nivel nacional. Gestiona el reparto de paquetes entre furgonetas para agrupar aquellos con destinos cercanos, además de gestionar los conductores de las furgonetas, sus rutas y horarios, optimizando los repartos y desplazamientos.
-	\item El sistema permitirá la localización de la oficina más cercana al usuario.
-	\item El sistema permitirá recoger valoraciones/opiniones de los usuarios con la intención de atenderlas.\\
+	\item El sistema permite localizar la oficina más cercana al usuario.
+	\item El sistema permite recoger valoraciones/opiniones de los usuarios con la intención de atenderlas.\\
 	 
 \end{enumerate}
 
@@ -63,7 +63,7 @@ En síntesis, los objetivos principales son los siguientes:
 	
 	\subsection{Resumen de los implicados}
 	\begin{itemize}
-		\item \textit{Cliente}: Representa un potencial socio. Usuario del sistema, es el que realiza los envíos de paquetes, puede realizar un seguimiento (manual) del pedido. Además, puede hacerse socio con sus correspondientes ventajas.
+		\item \textit{Cliente}: Representa un potencial socio. Usuario del sistema, es el que solicita el envío del paquete, además de realizar un seguimiento (manual) del pedido. Puede hacerse socio con sus correspondientes ventajas.
 		\item \textit{Socio}: Usuario del sistema, se trata de un cliente registrado en el sistema que puede guardar sus datos de envío, facturación... Desde su cuenta puede visualizar el seguimiento de todos sus pedidos, además de configurar si desea recibir una notificación o email en alguna de las distintas fases del envío. Puede valorar el servicio ofrecido por la empresa.
 		\item \textit{Transportista}: Representa al conductor de la furgoneta. Usuario del producto, realiza el reparto del paquete. Puede consultar su horario e itinerario de viajes.
 		\item \textit{Empleado de oficina}: Representa al empleado que atiende a los clientes en la oficina y gestiona los envíos. Usuario del producto, puede realizar la gestión del envío en lugar del cliente o socio si éste acude a la oficina, además de gestionar y consultar el estado de los repartos.
@@ -75,7 +75,7 @@ En síntesis, los objetivos principales son los siguientes:
 		\item \textit{Enviar un paquete}: Prioridad Alta. Se deben gestionar los datos del envío (dirección, modo de envío...), calcular el presupuesto y optimizar la ruta de envío.
 		\item \textit{Seguimiento del pedido}: Prioridad Alta. Se puede seguir el estado del paquete a partir del ID de envío o, en el caso de los socios, pueden visualizar todos sus envíos en su cuenta. Los socios pueden recibir notificaciones o emails en las distintas fases del reparto.
 		\item \textit{Valorar servicio}: Prioridad Media. Los socios pueden dejar valoraciones acerca del servicio.
-		\item \textit{Consultar itinerario de ruta}: Prioridad Alta. Los transportistas pueden consultar sus rutas de reparto. Los empleados de almacén también pueden consultar la disponibilidad de los conductores y desplazamientos.
+		\item \textit{Consultar itinerario de ruta}: Prioridad Alta. Los transportistas pueden consultar sus rutas de reparto. Los empleados de almacén pueden consultar y gestionar la disponibilidad  y desplazamientos de los conductores.
 		\item \textit{Consultar ruta de envío}: Prioridad Alta. Se puede consultar los datos de envío de un paquete y su ruta de envío (ver glosario de términos)
 		\item \textit{Consultar valoraciones}: Prioridad Media. Los empleados de la empresa pueden visualizar las opiniones y valoraciones dejadas por los usuarios.\\ \\
 	\end{itemize}
@@ -90,28 +90,27 @@ En síntesis, los objetivos principales son los siguientes:
 En esta sección se recogerán las características de alto nivel del sistema que permitirán facilitar las necesidades del usuario. Para facilitar su lectura y análisis, los requisitos se presentan en forma de lista estructurada. 
 
 \subsubsection{Gestión del envío}	
-El sistema deberá almacenar información acerca del paquete a transportar para poder gestionar las devoluciones por parte de los clientes. 
+El sistema deberá almacenar información acerca del paquete y datos de envío para poder gestionar su ruta y transporte, además de posibles devoluciones por parte del cliente. 
 \begin{enumerate}
-	\item Solicitar el envío de un paquete.
-	\subitem Modificar los datos del envío si se encuentra aún en fase de aceptación de envío.
-	\subitem Rechazar el envío del paquete.
-	\item Cálculo de coste del envío.
-	\subitem Cálculo de distancia entre destinatario y emisor.
-	\subitem Cálculo de precio en cuanto a dimensiones y peso del paquete.
-	\item Ver información actual del estado del pedido.	
+	\item Enviar un paquete
+	\subitem El sistema calcula el precio de envío.
+	\subitem Modificar los datos del envío si se encuentra aún en fase de aceptación.
+	\subitem Cancelar el envío del paquete.
+	\item Ver toda la información relativa al estado actual de un envío.
+	\item El cliente puede ver en qué fase de envío se encuentra el paquete.
 	\item Valorar el grado de satisfacción del pedido, solo si el cliente es socio.
 \end{enumerate}
 
 \subsubsection{Gestión de socios}
 Se llevará un control acerca de los clientes asociados a la empresa de transporte.
 \begin{enumerate}
-	\item Permitir hacerse socio con el primer envío realizado.
+	\item Permitir al cliente hacerse socio con el primer envío realizado.
 	\subitem Ver datos personales acerca de un socio.
 	\subitem Ver pedidos realizados desde una determinada fecha.
 	\item Modificar los datos de un socio.
 	\item Dar de baja a un determinado socio.
-	\item Obtener las ventajas de las que disfrutando por ser socio.
-	\item Ver el canal de comunicación que el socio prefiere para informarle del estado de sus pedidos.
+	\item Obtener las ventajas de seguimiento del pedido, valoración y descuentos entre otras de las que disfrutan los socios.
+	\item Ver el canal de comunicación  el socio para informarle acerca del estado de sus pedidos.
 	\item Ver el grado de satisfacción y opinión de los pedidos realizados.
 \end{enumerate}
 
@@ -119,9 +118,9 @@ Se llevará un control acerca de los clientes asociados a la empresa de transpor
 El sistema llevará una correcta coordinación acerca de la gestión interna del transporte de los paquetes.
 \begin{enumerate}
 	\item Coordinación de flota de furgonetas.
-	\subitem Se llevará un control de las distintas furgonetas disponibles para el reparto a domicilio y para el transporte entre localidades.
-	\subitem Se controlará el flujo de los paquetes para optimizar el tiempo de llegada al cliente, repartiendo los diferentes
- paquetes por las furgonetas adecuadas.
+	\subitem Se llevará un control de las distintas furgonetas disponibles para el reparto a domicilio y para el transporte entre almacenes.
+	\subitem El sistema debe calcular la ruta óptima de transporte del paquete entre las diversas oficinas y almacenes de la empresa. 
+	\subitem El sistema controla el flujo y distribución de paquetes en los almacenes, permitiendo repartir los paquetes en las furgonetas de transporte de forma adecuada.
  	\subitem Los transportistas podrán consultar su horario e itinerario de transporte para el buen funcionamiento de transporte.
 
 	\item Coordinación de oficinas.
