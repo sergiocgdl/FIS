@@ -9,7 +9,7 @@
 \normalfont \normalsize 
 \textsc{\textbf{Fundamentos de Ingeniería del Software (2018-2019)} \\ Doble Grado en Ingeniería Informática Y Matemáticas \\ Universidad de Granada} \\ [25pt] % Your university, school and/or department name(s)
 \horrule{0.5pt} \\[0.4cm] % Thin top horizontal rule
-\huge \textbf{Práctica 1} \\ Lista de requisitos \\ % The assignment title
+\huge \textbf{Práctica 2} \\ Modelo de casos de uso \\ % The assignment title
 \horrule{2pt} \\[0.5cm] % Thick bottom horizontal rule
 }
 
@@ -32,208 +32,31 @@
 
 \newpage
 
-%----------------------------------------------------------------------------------------
-%	Cuestión 1
-%----------------------------------------------------------------------------------------
-
-\section{Descripción general del sistema \& Objetivos principales}
-El sistema software a desarrollar está destinado a la gestión de una empresa de transportes (Envíamelo S.A). Este sistema almacena toda información relativa al envío de paquetes, su transporte y almacenaje. Junto con aquellos datos de envío por parte del cliente, gestiona el estado de los almacenes, con información relativa a los paquetes que dispone y sus rutas de envío, además de la flota de furgonetas y transportistas de los que dispone la empresa para el transporte y reparto, optimizando los viajes para minimizar los tiempos de envío y desplazamientos entre almacenes.
-En síntesis, los objetivos principales son los siguientes:
-
-\begin{enumerate}
-	\item El sistema debe almacenar y gestionar la información correspondiente a los paquetes durante todo el proceso de envío y recepción, tal como la ruta de envío o el estado y situación del paquete.
-	\item El sistema automatizará todas las actividades relacionadas con el cálculo del coste de envío y tiempo estimado de llegada. Optimiza la ruta de envío en función de la distancia entre los almacenes origen-destino, la disponibilidad de furgonetas y transportistas y el estado de los almacenes.
-	\item El cliente puede seleccionar entre diversos modos de envío y elegir las fechas de recogida y entrega (una vez en almacén) del paquete.
-	\item El sistema gestiona el estado de los almacenes y sus paquetes.
-	\item El seguimiento del pedido se podrá realizar a través de la aplicación.
-	\item El sistema podrá gestionar la disponibilidad de transportistas y vehículos destinados a cada envío a nivel nacional. Gestiona el reparto de paquetes entre furgonetas para agrupar aquellos con destinos cercanos, además de gestionar los conductores de las furgonetas, sus rutas y horarios, optimizando los repartos y desplazamientos.
-	\item El sistema permite localizar la oficina más cercana al usuario.
-	\item El sistema permite recoger valoraciones/opiniones de los usuarios con la intención de atenderlas.\\
-	 
-\end{enumerate}
-
-\newpage
-%----------------------------------------------------------------------------------------
-%	Cuestión 2
-%----------------------------------------------------------------------------------------
-
-\section{Descripción de los usuarios}
-	\subsection{Entorno de usuario}
-		El usuario del producto software es en esencia el transportista y empleado de la empresa. Por un lado, debe ofrecer una interfaz sencilla y práctica para que todo tipo de cliente pueda gestionar su envío, pero está destinado a los empleados y repartidores cuyo nivel cultural es medio y tienen experiencia tanto en el negocio como en el uso previo de aplicaciones informáticas.
-	
-	\subsection{Resumen de los implicados}
-	\begin{itemize}
-		\item \textit{Cliente}: Representa un potencial socio. Usuario del sistema, es el que solicita el envío del paquete, además de realizar un seguimiento (manual) del pedido. Puede hacerse socio con sus correspondientes ventajas.
-		\item \textit{Socio}: Usuario del sistema, se trata de un cliente registrado en el sistema que puede guardar sus datos de envío, facturación... Desde su cuenta puede visualizar el seguimiento de todos sus pedidos, además de configurar si desea recibir una notificación o email en alguna de las distintas fases del envío. Puede valorar el servicio ofrecido por la empresa.
-		\item \textit{Transportista}: Representa al conductor de la furgoneta. Usuario del producto, realiza el reparto del paquete. Puede consultar su horario e itinerario de viajes.
-		\item \textit{Empleado de oficina}: Representa al empleado que atiende a los clientes en la oficina y gestiona los envíos. Usuario del producto, puede realizar la gestión del envío en lugar del cliente o socio si éste acude a la oficina, además de gestionar y consultar el estado de los repartos.
-		\item \textit{Empleado de almacén}: Representa al empleado encargado de organizar los paquetes en el almacén. Usuario del producto, puede consultar la información relativa a los paquetes en almacén y gestionar la distribución o reparto de paquetes entre furgonetas. \\ \\
-	\end{itemize}
-	
-	\subsection{Necesidades principales de los implicados}
-	\begin{itemize}
-		\item \textit{Enviar un paquete}: Prioridad Alta. Se deben gestionar los datos del envío (dirección, modo de envío...), calcular el presupuesto y optimizar la ruta de envío.
-		\item \textit{Seguimiento del pedido}: Prioridad Alta. Se puede seguir el estado del paquete a partir del ID de envío o, en el caso de los socios, pueden visualizar todos sus envíos en su cuenta. Los socios pueden recibir notificaciones o emails en las distintas fases del reparto.
-		\item \textit{Valorar servicio}: Prioridad Media. Los socios pueden dejar valoraciones acerca del servicio.
-		\item \textit{Consultar itinerario de ruta}: Prioridad Alta. Los transportistas pueden consultar sus rutas de reparto. Los empleados de almacén pueden consultar y gestionar la disponibilidad  y desplazamientos de los conductores.
-		\item \textit{Consultar ruta de envío}: Prioridad Alta. Se puede consultar los datos de envío de un paquete y su ruta de envío (ver glosario de términos)
-		\item \textit{Consultar valoraciones}: Prioridad Media. Los empleados de la empresa pueden visualizar las opiniones y valoraciones dejadas por los usuarios.\\ \\
-	\end{itemize}
+\section{Introducción}
+\section{Jerarquía de casos de uso}
+\subsection{Gestión del envío}	
+Descripción:
+Escenarios asociados con el envío de los paquetes.
+Casos de uso:
+ Identificar socio, Solicitar envío, Obtener coste, Ver datos del envío, Modificar un envío, Cancelar un envío, Ver fase de envío, Seguir los pedidos, Valorar el envío.
+Actores:
+Socio, Cliente, Empleado de oficina.
+\subsection{Gestión del socios}	
+Descripción:
+Escenarios asociados con la gestión de los socios.
+Casos de uso:
+ Darse de alta, Darse de baja, Visualizar datos, Visualizar pedidos, Modificar datos, Identificar socio, Notificar descuentos, Valorar el envío, Ver valoraciones.
+Actores:
+Socio, Cliente, Empleado de oficina.
+\subsection{Gestión del transporte}	
+Descripción:
+Escenarios asociados con la gestión del transporte de los paquetes.
+Casos de uso:
+Visualizar furgonetas disponibles, Modificar furgonetas disponibles, Obtener ruta de paquete, Modificar ruta de paquete, Visualizar paquetes en almacén, Recibir paquete en almacén, Sacar paquete de almacén, Distribuir paquetes en furgonetas, Visualizar itinerario de transportista, Modificar itinerario de transportista.
+Actores:
+Empleado de oficina, Empleado de almacén, Transportista.
 
 \newpage
-%----------------------------------------------------------------------------------------
-%	Cuestión 3
-%----------------------------------------------------------------------------------------
-
-\section{Requisitos}
-\subsection{Funcionales}
-En esta sección se recogerán las características de alto nivel del sistema que permitirán facilitar las necesidades del usuario. Para facilitar su lectura y análisis, los requisitos se presentan en forma de lista estructurada. 
-
-\subsubsection{Gestión del envío}	
-El sistema deberá almacenar información acerca del paquete y datos de envío para poder gestionar su ruta y transporte, además de posibles devoluciones por parte del cliente. 
-\begin{enumerate}
-	\item Enviar un paquete
-	\subitem El sistema calcula el precio de envío.
-	\subitem Modificar los datos del envío si se encuentra aún en fase de aceptación.
-	\subitem Cancelar el envío del paquete.
-	\item Ver toda la información relativa al estado actual de un envío.
-	\item El cliente puede ver en qué fase de envío se encuentra el paquete.
-	\item Valorar el grado de satisfacción del pedido, solo si el cliente es socio.
-\end{enumerate}
-
-\subsubsection{Gestión de socios}
-Se llevará un control acerca de los clientes asociados a la empresa de transporte.
-\begin{enumerate}
-	\item Permitir al cliente hacerse socio con el primer envío realizado.
-	\subitem Ver datos personales acerca de un socio.
-	\subitem Ver pedidos realizados desde una determinada fecha.
-	\item Modificar los datos de un socio.
-	\item Dar de baja a un determinado socio.
-	\item Obtener las ventajas de seguimiento del pedido, valoración y descuentos entre otras de las que disfrutan los socios.
-	\item Ver el canal de comunicación  el socio para informarle acerca del estado de sus pedidos.
-	\item Ver el grado de satisfacción y opinión de los pedidos realizados.
-\end{enumerate}
-
-\subsubsection{Gestión de transporte}
-El sistema llevará una correcta coordinación acerca de la gestión interna del transporte de los paquetes.
-\begin{enumerate}
-	\item Coordinación de flota de furgonetas.
-	\subitem Se llevará un control de las distintas furgonetas disponibles para el reparto a domicilio y para el transporte entre almacenes.
-	\subitem El sistema debe calcular la ruta óptima de transporte del paquete entre las diversas oficinas y almacenes de la empresa. 
-	\subitem El sistema controla el flujo y distribución de paquetes en los almacenes, permitiendo repartir los paquetes en las furgonetas de transporte de forma adecuada.
- 	\subitem Los transportistas podrán consultar su horario e itinerario de transporte para el buen funcionamiento de transporte.
-
-	\item Coordinación de oficinas.
-	\subitem Realizar la gestión de un pedido en lugar de un cliente.
-	\subitem Consultar y gestionar el estado de un pedido.
-	
-	\item Coordinación de almacenes.
-	\subitem Obtener información relativa a los paquetes almacenados.
-	\subitem Organizar el almacenaje y la distribución de los paquetes en transcurso de envío.
-\end{enumerate}
-
-\subsection{No funcionales}
-\subsubsection{Usabilidad}
-\begin{enumerate}
-	\item Se deberá dar \textit{ayuda} en línea con instrucciones paso a paso para guiar al repartidor en las tareas que debe realizar.
-	\item Documentación: resguardo del servicio contratado.
-	\item Actualización por mail/sms del pedido en todo momento.
-	\item Aviso al repartidor "furgoneta lista para salir".
-	
-\end{enumerate}
-\subsubsection{Fiabilidad}
-\begin{enumerate}
-	\item Se realizarán copias de seguridad del sistema de forma periódica. De esta forma se podrá resolver cualquier fallo interno o caída de forma sencilla.
-	\item Con la intención de introducir el sistema de la forma más orgánica posible, se seguirá ofreciendo el sistema manual convencional durante un tiempo.
-\end{enumerate}
-
-\subsubsection{Rendimiento}
-\begin{enumerate}
-	\item Para optimizar la recepción y entrega de los paquetes, habrá una flota de furgonetas especializada en la conexión entre almacenes. Cada almacén tendrá a su vez una pequeña flota de furgonetas para la recogida/entrega de paquetes al cliente.
-	\item Con la intención de reducir costes de transporte, se implementará un sistema de distribución del reparto de paquetes entre furgonetas. De esta forma se evitarán viajes innecesarios, pudiendo delegar el trabajo al transportista más apropiado en cada caso.
-	\item Plazos de entrega: Dependiendo del tipo de envío, los plazos de entrega serán los siguientes: estándar (hasta 3 días hábiles), urgente (hasta 2 días hábiles) y express (hasta 24 horas).
-\end{enumerate}
-
-\subsubsection{Soporte}
-\begin{enumerate}
-	\item Todo dato introducido por los clientes debe ser pasado por un filtro previo que compruebe que efectivamente son correctos. De esta forma se verá si, por ejemplo, la calle coincide con el código postal introduciendo. Así, evitaremos fallos y malentendidos durante el reparto.
-\end{enumerate}
-	
-\subsubsection{Restricciones de implementación}
-\begin{enumerate}
-	\item Deberá emplearse la última versión de Java compatible con jsdk 1.8 y Oracle 8.
-\end{enumerate}
-\subsubsection{Requisitos físicos}
-\begin{enumerate}
-	\item Todo paquete llevará un código de barras identificativo. De esta forma el repartidor podrá distinguir cada paquete con mayor eficiencia y rapidez.
-    \item El sistema permitirá ver la disponibilidad  de furgonetas, almacenes y transportistas de forma sencilla y automatizada.
-    \item Frente a una perdida/retraso del pedido, se informará al cliente por email/sms y se dará una/s solucion/es a ello.
-    \end{enumerate}
-
-
-\newpage
-
-\subsection{De información}
-	En esta sección se incluirá toda la información que debe ir recogida en una base de datos asociada al sistema.
-\subsubsection{Paquetes almacenados}
-	Descripción de cada uno de los paquetes que tiene la empresa y que tiene que trasladar. 
-\begin{itemize}
-	\item \textit{Contenido}: Identificador, peso, fecha de entrada, origen, destino, modo de envío, localización actual, método de entrega (oficina o a domicilio), ruta de envío, datos remitente, datos destinatario, coste.
-	\item \textit{Requisitos asociados}: Gestión del envío. \\
-\end{itemize}
-
-
-\subsubsection{Oficinas de envío/recepción}
- 	Información sobre oficinas de entrega y recogida de paquetes pertenecientes a la empresa que se encargan de administrar la actividad a nivel local.
-\begin{itemize}
-	\item \textit{Contenido}: Dirección, código postal, ciudad, teléfono, lista de furgonetas. 
-	\item \textit{Requisitos asociados}: Gestión del envío, gestión de transporte. \\
-\end{itemize}
-
-
-\subsubsection{Usuarios}
-	Información sobre los clientes que han utilizado los servicios de la empresa. 
-\begin{itemize}
-	\item \textit{Contenido}: Nombre, apellidos, fecha de nacimiento, dirección, correo electrónico, datos bancarios, teléfono, condición o no de socio.
-	\item \textit{Requisitos asociados}: Gestión de socios. \\
-\end{itemize}
-
-\subsubsection{Furgonetas de empresa nivel nacional}
-	Información relativa a las furgonetas de grandes dimensiones que emplea la empresa para trasladar los paquetes de un almacén a otro.
-\begin{itemize}
-	\item \textit{Contenido}: Conductor, matrícula, almacén de origen, almacén de destino, lista de paquetes, capacidad.
-	\item \textit{Requisitos asociados}: Gestión de transporte.\\
-\end{itemize}
-
-\subsubsection{Furgonetas de empresa nivel local}
-	Información relativa a las furgonetas de pequeñas dimensiones que emplea la empresa a nivel local para trasladar los paquetes de la oficina al almacén cuando ingresan en el proceso y para repartir a domicilio. 
-\begin{itemize}
-	\item \textit{Contenido}: Conductor, matrícula, almacén, ciudad, zona, lista de paquetes, oficina, capacidad.
-	\item \textit{Requisitos asociados}: Gestión de transporte. \\
-\end{itemize}
-
-
-\subsubsection{Personal}
-	Descripción de los trabajadores contratados por la empresa.
-\begin{itemize}
-	\item \textit{Contenido}: Nombre, apellidos, salario, puesto de trabajo, ciudad, teléfono.
-	
-	\item \textit{Requisitos asociados}: Gestión del envío, gestión de socios, gestión de transporte. \\
-\end{itemize}
-
-
-\subsubsection{Almacén}
-Información sobre los distintos almacenes utilizados por la empresa para almacenar los paquetes durante el proceso de envío.
-\begin{itemize}
-	\item \textit{Contenido}: Dirección, teléfono, lista de paquetes almacenados, capacidad.
-	
-	\item \textit{Requisitos asociados}: Gestión de transporte. \\
-\end{itemize}
-
-\newpage
-%----------------------------------------------------------------------------------------
-%	Cuestión 4
-%----------------------------------------------------------------------------------------
 
 \section{Glosario de términos}
 	\begin{enumerate}
