@@ -33,28 +33,31 @@
 \newpage
 
 \section{Introducción}
+Esta presente memoria recoge la descripción de los actores y los modelos de casos de uso del sistema software de gestión de la empresa de transportes Envíamelo S.A como resultado del proceso de análisis del mismo. Estos modelos de uso se pueden agrupar en 3 grandes paquetes que recogen las funcionalidades principales del sistema, expuestas a continuación.
+
 \section{Jerarquía de casos de uso}
 \subsection{Gestión del envío}	
-Descripción:\\
-Escenarios asociados con el envío de los paquetes.\\
-Casos de uso:\\
- Identificar socio, Solicitar envío, Obtener coste, Ver datos del envío, Modificar un envío, Cancelar un envío, Ver fase de envío, Seguir los pedidos, Valorar el envío.\\
-Actores:\\
-Socio, Cliente, Empleado de oficina.\\
-\subsection{Gestión del socios}	
-Descripción:\\
-Escenarios asociados con la gestión de los socios.\\
-Casos de uso:\\
- Darse de alta, Darse de baja, Visualizar datos, Visualizar pedidos, Modificar datos, Identificar socio, Notificar descuentos, Valorar el envío, Ver valoraciones.\\
-Actores:\\
-Socio, Cliente, Empleado de oficina.\\
+
+\textit{Descripción}: \newline
+Escenarios asociados con el envío de los paquetes. \newline
+\textit{Casos de uso}: \newline
+ Identificar socio, Solicitar envío, Obtener coste, Ver datos del envío, Modificar un envío, Cancelar un envío, Seguir un envío (visualizar fase de envío), Lozalizar un envío, Valorar el envío. \newline
+\textit{Actores}: \newline
+Socio, Cliente, Empleado de oficina.
+\subsection{Gestión de socios}	
+\textit{Descripción}: \newline
+Escenarios asociados con la gestión de los socios. \newline
+\textit{Casos de uso}: \newline
+ Darse de alta, Darse de baja, Visualizar datos, Visualizar pedidos, Modificar datos, Identificar socio, Notificar descuentos, Valorar el envío, Ver valoraciones. \newline
+\textit{Actores}: \newline
+Socio, Cliente, Empleado de oficina.
 \subsection{Gestión del transporte}	
-Descripción:\\
-Escenarios asociados con la gestión del transporte de los paquetes.\\
-Casos de uso:\\
-Visualizar furgonetas disponibles, Modificar furgonetas disponibles, Obtener ruta de paquete, Modificar ruta de paquete, Visualizar paquetes en almacén, Recibir paquete en almacén, Sacar paquete de almacén, Distribuir paquetes en furgonetas, Visualizar itinerario de transportista, Modificar itinerario de transportista.\\
-Actores:\\
-Empleado de oficina, Empleado de almacén, Transportista.\\
+\textit{Descripción}: \newline
+Escenarios asociados con la gestión del transporte de los paquetes. \newline
+\textit{Casos de uso}: \newline
+Visualizar furgonetas disponibles, Modificar furgonetas disponibles, Obtener ruta de paquete, Modificar ruta de paquete, Visualizar paquetes en almacén, Recibir paquete en almacén, Sacar paquete de almacén, Distribuir paquetes en furgonetas, Visualizar itinerario de transportista, Modificar itinerario de transportista. \newline
+\textit{Actores}: \newline
+Empleado de oficina, Empleado de almacén, Transportista.
 
 \newpage
 
@@ -63,6 +66,11 @@ Empleado de oficina, Empleado de almacén, Transportista.\\
 		\item \textit{Ruta de envío}: Se trata de las oficinas y almacenes por los que pasa un paquete hasta llegar al destino.
 		\item \textit{Identificador de paquete}: Código que se le asigna a un paquete cuando entra al sistema de envíos de la empresa, permitiendo diferenciarlo de todos los demás y simplificar operaciones como la localización.
 		\item \textit{Coste de envío}: Coste variable del servicio de envío en función del peso del paquete, dimensiones, distancia, modo de envío (certificado, urgente, etc) y condición de socio.
+		\item \textit{Fase de envío}: El transporte de un paquete se divide en diversas fases: \newline - Recepción del paquete (en oficina)
+		\newline - Aceptación del envío (periodo antes de que el paquete salga para su transporte para modificar el envío)
+		\newline - Transporte del paquete (entre oficinas y almacenes hasta la oficina destino)
+		\newline - Llegada a oficina destino
+		\newline - Llegada a destino (llegada del paquete a la dirección destino)
 		\item \textit{Filtro}: Herramienta externa (ej. Google Maps) que se implementa  en el sistema para comprobar si hay algún error de entrada por parte del usuario que solicita una recogida/entrega de paquete.
 		\item \textit{Canal de comunicación}: Medio por el que se transmite la información sobre el envío siendo destinatario el usuario(via e-mail o SMS).
 		\item \textit{Valoraciones}: Calificación de 0 a 5 y comentarios respecto a el servicio prestado por parte de la empresa.

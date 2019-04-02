@@ -1,7 +1,7 @@
-\babel@toc {spanish}{}
+\select@language {spanish}
 \contentsline {section}{\numberline {1}Introducci\IeC {\'o}n}{3}
 \contentsline {section}{\numberline {2}Jerarqu\IeC {\'\i }a de casos de uso}{3}
 \contentsline {subsection}{\numberline {2.1}Gesti\IeC {\'o}n del env\IeC {\'\i }o}{3}
-\contentsline {subsection}{\numberline {2.2}Gesti\IeC {\'o}n del socios}{3}
+\contentsline {subsection}{\numberline {2.2}Gesti\IeC {\'o}n de socios}{3}
 \contentsline {subsection}{\numberline {2.3}Gesti\IeC {\'o}n del transporte}{3}
 \contentsline {section}{\numberline {3}Glosario de t\IeC {\'e}rminos}{4}
