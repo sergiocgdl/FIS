@@ -37,10 +37,11 @@ Esta presente memoria recoge la descripción de los actores y los modelos de cas
 
 \section{Jerarquía de casos de uso}
 \subsection{Gestión del envío}	
+
 \textit{Descripción}: \newline
 Escenarios asociados con el envío de los paquetes. \newline
 \textit{Casos de uso}: \newline
- Identificar socio, Solicitar envío, Obtener coste, Ver datos del envío, Modificar un envío, Cancelar un envío, Seguir un pedido, Lozalizar un pedido, Valorar el envío. \newline
+ Identificar socio, Solicitar envío, Obtener coste, Ver datos del envío, Modificar un envío, Cancelar un envío, Seguir un envío (visualizar fase de envío), Lozalizar un envío, Valorar el envío. \newline
 \textit{Actores}: \newline
 Socio, Cliente, Empleado de oficina.
 \subsection{Gestión de socios}	
@@ -65,6 +66,11 @@ Empleado de oficina, Empleado de almacén, Transportista.
 		\item \textit{Ruta de envío}: Se trata de las oficinas y almacenes por los que pasa un paquete hasta llegar al destino.
 		\item \textit{Identificador de paquete}: Código que se le asigna a un paquete cuando entra al sistema de envíos de la empresa, permitiendo diferenciarlo de todos los demás y simplificar operaciones como la localización.
 		\item \textit{Coste de envío}: Coste variable del servicio de envío en función del peso del paquete, dimensiones, distancia, modo de envío (certificado, urgente, etc) y condición de socio.
+		\item \textit{Fase de envío}: El transporte de un paquete se divide en diversas fases: \newline - Recepción del paquete (en oficina)
+		\newline - Aceptación del envío (periodo antes de que el paquete salga para su transporte para modificar el envío)
+		\newline - Transporte del paquete (entre oficinas y almacenes hasta la oficina destino)
+		\newline - Llegada a oficina destino
+		\newline - Llegada a destino (llegada del paquete a la dirección destino)
 		\item \textit{Filtro}: Herramienta externa (ej. Google Maps) que se implementa  en el sistema para comprobar si hay algún error de entrada por parte del usuario que solicita una recogida/entrega de paquete.
 		\item \textit{Canal de comunicación}: Medio por el que se transmite la información sobre el envío siendo destinatario el usuario(via e-mail o SMS).
 		\item \textit{Valoraciones}: Calificación de 0 a 5 y comentarios respecto a el servicio prestado por parte de la empresa.
