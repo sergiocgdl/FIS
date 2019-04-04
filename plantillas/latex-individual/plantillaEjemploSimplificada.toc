@@ -1,7 +1,14 @@
-\select@language {spanish}
-\contentsline {section}{\numberline {1}Introducci\IeC {\'o}n}{3}
-\contentsline {section}{\numberline {2}Jerarqu\IeC {\'\i }a de casos de uso}{3}
-\contentsline {subsection}{\numberline {2.1}Gesti\IeC {\'o}n del env\IeC {\'\i }o}{3}
-\contentsline {subsection}{\numberline {2.2}Gesti\IeC {\'o}n de socios}{3}
-\contentsline {subsection}{\numberline {2.3}Gesti\IeC {\'o}n del transporte}{3}
-\contentsline {section}{\numberline {3}Glosario de t\IeC {\'e}rminos}{4}
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Introducci\IeC {\'o}n}{3}% 
+\contentsline {section}{\numberline {2}Jerarqu\IeC {\'\i }a de casos de uso}{3}% 
+\contentsline {subsection}{\numberline {2.1}Gesti\IeC {\'o}n del env\IeC {\'\i }o}{3}% 
+\contentsline {subsection}{\numberline {2.2}Gesti\IeC {\'o}n de socios}{3}% 
+\contentsline {subsection}{\numberline {2.3}Gesti\IeC {\'o}n del transporte}{3}% 
+\contentsline {section}{\numberline {3}Diagrama de paquetes}{4}% 
+\contentsline {section}{\numberline {4}Diagrama de casos de uso}{5}% 
+\contentsline {subsection}{\numberline {4.1}Gesti\IeC {\'o}n del env\IeC {\'\i }o}{5}% 
+\contentsline {subsection}{\numberline {4.2}Gesti\IeC {\'o}n de socios}{6}% 
+\contentsline {subsection}{\numberline {4.3}Gesti\IeC {\'o}n del transporte}{7}% 
+\contentsline {section}{\numberline {5}Descripci\IeC {\'o}n b\IeC {\'a}sica de actores}{8}% 
+\contentsline {section}{\numberline {6}Descripci\IeC {\'o}n b\IeC {\'a}sica de casos de uso}{9}% 
+\contentsline {section}{\numberline {7}Glosario de t\IeC {\'e}rminos}{14}% 
