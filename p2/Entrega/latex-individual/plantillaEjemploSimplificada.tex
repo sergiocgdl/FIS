@@ -1,0 +1,229 @@
+
+\input{preambuloSimple.tex}
+
+\graphicspath{{images/}}
+
+%----------------------------------------------------------------------------------------
+%	TÍTULO Y DATOS DEL ALUMNO
+%----------------------------------------------------------------------------------------
+
+\title{	
+\normalfont \normalsize 
+\textsc{\textbf{Fundamentos de Ingeniería del Software (2018-2019)} \\ Doble Grado en Ingeniería Informática Y Matemáticas \\ Universidad de Granada} \\ [25pt] % Your university, school and/or department name(s)
+\horrule{0.5pt} \\[0.4cm] % Thin top horizontal rule
+\huge \textbf{Práctica 2} \\ Modelo de casos de uso \\ % The assignment title
+\horrule{2pt} \\[0.5cm] % Thick bottom horizontal rule
+}
+
+\author{Javier Alcántara García\\ César Muñoz Reinoso \\ Sergio Cabezas González de Lara \\ Víctor García Carrera} % Nombre y apellidos
+
+\date{\normalsize\today} % Incluye la fecha actual
+
+
+%----------------------------------------------------------------------------------------
+% DOCUMENTO
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+\maketitle % Muestra el Título
+
+\newpage %inserta un salto de página
+
+\tableofcontents % para generar el índice de contenidos
+
+\newpage
+
+\section{Introducción}
+Esta presente memoria recoge la descripción de los actores y los modelos de casos de uso del sistema software de gestión de la empresa de transportes Envíamelo S.A como resultado del proceso de análisis del mismo. Estos modelos de uso se pueden agrupar en 3 grandes paquetes que recogen las funcionalidades principales del sistema, expuestas a continuación.
+
+\section{Jerarquía de casos de uso}
+\subsection{Gestión del envío}	
+\textit{Descripción}: \newline
+Escenarios asociados con el envío de los paquetes. \newline
+\textit{Casos de uso}: \newline
+ Identificar socio, Solicitar envío, Obtener coste, Ver datos del envío, Modificar un envío, Cancelar un envío, Seguir un envío (visualizar fase de envío), Lozalizar un envío, Valorar el envío. \newline
+\textit{Actores}: \newline
+Socio, Cliente, Empleado de oficina.
+\subsection{Gestión de socios}	
+\textit{Descripción}: \newline
+Escenarios asociados con la gestión de los socios. \newline
+\textit{Casos de uso}: \newline
+ Dar de alta, Dar de baja, Visualizar datos, Visualizar pedidos, Modificar datos, Identificar socio, Notificar descuentos, Valorar el envío, Ver valoraciones. \newline
+\textit{Actores}: \newline
+Socio, Cliente, Empleado de oficina.
+\subsection{Gestión del transporte}	
+\textit{Descripción}: \newline
+Escenarios asociados con la gestión del transporte de los paquetes. \newline
+\textit{Casos de uso}: \newline
+ Calcular ruta de envío, Modificar ruta de envío, Visualizar paquetes en almacén, Distribuir paquetes en furgonetas, Visualizar furgonetas, Visualizar itinerario de transportista. \newline
+\textit{Actores}: \newline
+Empleado de almacén, Transportista.
+
+\newpage
+
+\section{Diagrama de paquetes}
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=15cm]{diagra_paquetes}
+\end{figure}
+\newpage
+
+\section{Diagrama de casos de uso}
+\subsection{Gestión del envío}
+\begin{figure}[h]
+	\centering
+		\includegraphics[width=15cm]{diagr_envio}
+\end{figure}
+
+\newpage
+
+\subsection{Gestión de socios}
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=15cm]{Gestion_socios.png}
+\end{figure}
+
+\newpage
+
+\subsection{Gestión del transporte}
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=15cm]{diagr_trans.jpg}
+\end{figure}
+
+\newpage
+
+\section{Descripción básica de actores}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=16cm]{17}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=16cm]{18}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=16cm]{19}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=16cm]{20}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=16cm]{21}
+\end{figure}
+\newpage
+
+\section{Descripción básica de casos de uso}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=16cm]{1}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=16cm]{2}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=16cm]{3}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=16cm]{4}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=16cm]{5}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=16cm]{6}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=16cm]{7}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=16cm]{8}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=16cm]{9}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=16cm]{10}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=16cm]{11}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=16cm]{12}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=16cm]{13}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=16cm]{14}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=16cm]{15}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=16cm]{16}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=16cm]{22}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=16cm]{23}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=16cm]{24}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=16cm]{25}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=16cm]{26}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=16cm]{27}
+\end{figure}
+\newpage
+
+\section{Glosario de términos}
+	\begin{enumerate}
+		\item \textit{Ruta de envío}: Se trata de las oficinas y almacenes por los que pasa un paquete hasta llegar al destino.
+		\item \textit{Identificador de paquete}: Código que se le asigna a un paquete cuando entra al sistema de envíos de la empresa, permitiendo diferenciarlo de todos los demás y simplificar operaciones como la localización.
+		\item \textit{Coste de envío}: Coste variable del servicio de envío en función del peso del paquete, dimensiones, distancia, modo de envío (certificado, urgente, etc) y condición de socio.
+		\item \textit{Fase de envío}: El transporte de un paquete se divide en diversas fases: \newline - Recepción del paquete (en oficina)
+		\newline - Aceptación del envío (periodo antes de que el paquete salga para su transporte para modificar el envío)
+		\newline - Transporte del paquete (entre oficinas y almacenes hasta la oficina destino)
+		\newline - Llegada a oficina destino
+		\newline - Llegada a destino (llegada del paquete a la dirección destino)
+		\item \textit{Filtro}: Herramienta externa (ej. Google Maps) que se implementa  en el sistema para comprobar si hay algún error de entrada por parte del usuario que solicita una recogida/entrega de paquete.
+		\item \textit{Canal de comunicación}: Medio por el que se transmite la información sobre el envío siendo destinatario el usuario(via e-mail o SMS).
+		\item \textit{Valoraciones}: Calificación de 0 a 5 y comentarios respecto a el servicio prestado por parte de la empresa.
+		
+ 	\end{enumerate}
+\newpage
+%------------------------------------------------
+
+\end{document}
