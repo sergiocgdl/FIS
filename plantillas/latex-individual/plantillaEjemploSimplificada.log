@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.3.24)  22 APR 2019 19:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.3.24)  22 APR 2019 20:13
 entering extended mode
 **./plantillaEjemploSimplificada.tex
 (plantillaEjemploSimplificada.tex
@@ -943,26 +943,48 @@ Overfull \hbox (36.98853pt too wide) in paragraph at lines 188--189
  []
 
 [37 <./images/57.png>]
-<images/63.png, id=186, 451.6875pt x 377.15906pt>
-File: images/63.png Graphic file (type png)
-<use images/63.png>
-Package pdftex.def Info: images/63.png  used on input line 192.
-(pdftex.def)             Requested size: 455.24408pt x 380.15073pt.
+<images/61.png, id=186, 447.17062pt x 415.5525pt>
+File: images/61.png Graphic file (type png)
+<use images/61.png>
+Package pdftex.def Info: images/61.png  used on input line 192.
+(pdftex.def)             Requested size: 455.24408pt x 423.06534pt.
 
 Overfull \hbox (36.98853pt too wide) in paragraph at lines 192--193
  [][] 
  []
 
-[38 <./images/58.png>] [39 <./images/59.png>] [40 <./images/63.png>] [41]
+[38 <./images/58.png>]
+<images/62.png, id=191, 447.92343pt x 430.60875pt>
+File: images/62.png Graphic file (type png)
+<use images/62.png>
+Package pdftex.def Info: images/62.png  used on input line 196.
+(pdftex.def)             Requested size: 455.24408pt x 437.65788pt.
+
+Overfull \hbox (36.98853pt too wide) in paragraph at lines 196--197
+ [][] 
+ []
+
+[39 <./images/59.png>]
+<images/63.png, id=196, 451.6875pt x 377.15906pt>
+File: images/63.png Graphic file (type png)
+<use images/63.png>
+Package pdftex.def Info: images/63.png  used on input line 200.
+(pdftex.def)             Requested size: 455.24408pt x 380.15073pt.
+
+Overfull \hbox (36.98853pt too wide) in paragraph at lines 200--201
+ [][] 
+ []
+
+[40 <./images/61.png>] [41 <./images/62.png>] [42 <./images/63.png>] [43]
 (plantillaEjemploSimplificada.aux
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
 ) ) 
 Here is how much of TeX's memory you used:
- 7920 strings out of 492945
- 124802 string characters out of 3126252
+ 7930 strings out of 492945
+ 124956 string characters out of 3126252
  446764 words of memory out of 3000000
- 11647 multiletter control sequences out of 15000+200000
+ 11655 multiletter control sequences out of 15000+200000
  14775 words of font info for 37 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  51i,11n,58p,9137b,446s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -977,9 +999,9 @@ ocal\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk> <C:\Users\scabe
 sers\scabe\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1095
 .pk> <C:\Users\scabe\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi60
 0\ecxc1095.pk>
-Output written on plantillaEjemploSimplificada.pdf (41 pages, 2768856 bytes).
+Output written on plantillaEjemploSimplificada.pdf (43 pages, 2814372 bytes).
 PDF statistics:
- 464 PDF objects out of 1000 (max. 8388607)
+ 475 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 196 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 206 words of extra memory for PDF output out of 10000 (max. 10000000)
 
