@@ -1,35 +1,35 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.3.24)  22 APR 2019 19:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.22)  22 APR 2019 21:23
 entering extended mode
 **./plantillaEjemploSimplificada.tex
 (plantillaEjemploSimplificada.tex
 LaTeX2e <2018-12-01>
 (preambuloSimple.tex
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrart
-cl.cls"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrartc
+l.cls"
 Document Class: scrartcl 2019/02/01 v3.26b KOMA-Script document class (article)
 
 
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrkba
-se.sty"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrkbas
+e.sty"
 Package: scrkbase 2019/02/01 v3.26b KOMA-Script package (KOMA-Script-dependent 
 basics and keyval usage)
 
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrbas
-e.sty"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrbase
+.sty"
 Package: scrbase 2019/02/01 v3.26b KOMA-Script package (KOMA-Script-independent
  basics and keyval usage)
 
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
-y"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty
+"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrlfi
-le.sty"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrlfil
+e.sty"
 Package: scrlfile 2019/02/01 v3.26b KOMA-Script package (loading files)
 )))
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\tocbas
-ic.sty"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\tocbasi
+c.sty"
 Package: tocbasic 2019/02/01 v3.26b KOMA-Script package (handling toc-files)
 \scr@dte@tocline@numberwidth=\skip41
 \scr@dte@tocline@numbox=\box27
@@ -40,13 +40,13 @@ Package tocbasic Info: omitting babel extension for `toc'
 Class scrartcl Info: File `scrsize11pt.clo' used to setup font sizes on input l
 ine 2162.
 
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrsiz
-e11pt.clo"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrsize
+11pt.clo"
 File: scrsize11pt.clo 2019/02/01 v3.26b KOMA-Script font size class option (11p
 t)
 )
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\typear
-ea.sty"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\typeare
+a.sty"
 Package: typearea 2019/02/01 v3.26b KOMA-Script package (type area)
 \ta@bcor=\skip42
 \ta@div=\count80
@@ -122,20 +122,20 @@ Package tocbasic Info: omitting babel extension for `lot'
 Class scrartcl Info: Redefining `\numberline' on input line 5957.
 \bibindent=\dimen102
 )
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty"
 Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
 
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1enc.def"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1enc.def"
 File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty"
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks15
 \inpenc@posthook=\toks16
 )
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.
-sty"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.s
+ty"
 \lst@mode=\count89
 \lst@gtempboxa=\box29
 \lst@token=\toks17
@@ -149,30 +149,30 @@ sty"
 \lst@lineno=\count94
 \lst@maxwidth=\dimen106
 
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.s
-ty"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.st
+y"
 File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
 \c@lstnumber=\count95
 \lst@skipnumbers=\count96
 \lst@framebox=\box30
 )
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.
-cfg"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.c
+fg"
 File: listings.cfg 2019/02/27 1.8b listings configuration
 ))
 Package: listings 2019/02/27 1.8b (Carsten Heinz)
 
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color
-.cfg"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.
+cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
-x.def"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex
+.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
@@ -185,42 +185,42 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang1.
-sty"
-File: lstlang1.sty 2019/02/27 1.8b listings language file
-)
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang1.
-sty"
-File: lstlang1.sty 2019/02/27 1.8b listings language file
-)
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.s
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang1.s
 ty"
+File: lstlang1.sty 2019/02/27 1.8b listings language file
+)
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang1.s
+ty"
+File: lstlang1.sty 2019/02/27 1.8b listings language file
+)
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.st
+y"
 File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
 )
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty"
-Package: babel 2018/11/13 3.27 The Babel package
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.def
-"
-File: switch.def 2018/11/13 3.27 Babel switching mechanism
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2019/04/03 3.29 The Babel package
+
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.def"
+File: switch.def 2019/04/03 3.29 Babel switching mechanism
 )
 *************************************
 * Local config file bblopts.cfg used
 *
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-spanish\span
-ish.ldf"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-spanish\spani
+sh.ldf"
 Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
 
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
-File: babel.def 2018/11/13 3.27 Babel common definitions
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2019/04/03 3.29 Babel common definitions
 \babel@savecnt=\count97
 \U@D=\dimen107
 
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.d
-ef")
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.de
+f")
 \bbl@dirlevel=\count98
 )
 \es@quottoks=\toks18
@@ -229,34 +229,30 @@ Package babel Info: Making " an active character on input line 561.
 Package babel Info: Making . an active character on input line 662.
 Package babel Info: Making < an active character on input line 707.
 Package babel Info: Making > an active character on input line 707.
-)) ("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+)) ("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.st
-y"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty
+"
 Package: amsmath 2018/12/01 v2.17b AMS math features
 \@mathmargin=\skip57
 
 For additional information on amsmath, use the `?' option.
-
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.st
-y"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.sty
+"
 Package: amstext 2000/06/29 v2.01 AMS text
-
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
+ ("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
 "
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks19
 \ex@=\dimen108
 ))
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty
-"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen109
-)
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty
-"
+) ("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.st
+y"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count100
@@ -297,15 +293,15 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
 LaTeX Info: Redefining \[ on input line 2844.
 LaTeX Info: Redefining \] on input line 2845.
 )
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.
-sty"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.s
+ty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amscls\amsthm.sty"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amscls\amsthm.sty"
 Package: amsthm 2017/10/31 v2.20.4
 \thm@style=\toks24
 \thm@bodyfont=\toks25
@@ -317,26 +313,25 @@ Package: amsthm 2017/10/31 v2.20.4
 \thm@headsep=\skip62
 \dth@everypar=\toks29
 )
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
-sty"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.s
+ty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
-ics.cfg"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphi
+cs.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 )
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
-sty"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.s
+ty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 \Gin@req@height=\dimen117
 \Gin@req@width=\dimen118
-)
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+) ("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count112
 \float@exts=\toks30
@@ -344,21 +339,21 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks31
 \@floatcapt=\box34
 )
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multirow.
-sty"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multirow.s
+ty"
 Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
 \multirow@colwidth=\skip63
 \multirow@cntb=\count113
 \multirow@dima=\skip64
 \bigstrutjot=\dimen119
 )
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/threeparttable\thr
-eeparttable.sty"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/threeparttable\thre
+eparttable.sty"
 Package: threeparttable 2003/06/13  v 3.0
 \@tempboxb=\box35
 )
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/booktabs\booktabs.
-sty"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/booktabs\booktabs.s
+ty"
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \heavyrulewidth=\dimen120
 \lightrulewidth=\dimen121
@@ -393,8 +388,8 @@ Class scrartcl Warning: Usage of package `fancyhdr' together
 (scrartcl)              package `fancyhdr' on input line 53.
 
 
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr.
-sty"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr.s
+ty"
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
 s
 \f@nch@headwidth=\skip65
@@ -426,8 +421,8 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
 LaTeX Font Info:    ... okay on input line 27.
 \c@lstlisting=\count118
 
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
-df.mkii"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pd
+f.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count119
 \scratchdimen=\dimen133
@@ -441,50 +436,50 @@ df.mkii"
 \makeMPintoPDFobject=\count124
 \everyMPtoPDFconversion=\toks33
 )
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-
-base.sty"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-b
+ase.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infware
-rr.sty"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwarer
+r.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.st
-y"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty
+"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefin
-ekeys.sty"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefine
+keys.sty"
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds
-.sty"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.
+sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )))
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions
-.sty"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.
+sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetke
-ys.sty"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetkey
+s.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmd
-s.sty"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmds
+.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluate
-x.sty"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluatex
+.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 ))))
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexc
-mds.sty"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexcm
+ds.sty"
 Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.s
-ty"
+("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.st
+y"
 Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
@@ -502,22 +497,20 @@ G,.JBIG2,.JB2,.eps]
 LaTeX Info: Redefining \. on input line 27.
 LaTeX Info: Redefining \% on input line 27.
 LaTeX Font Info:    Try loading font information for T1+cmss on input line 30.
-
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1cmss.fd"
+ ("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1cmss.fd"
 File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Try loading font information for U+msa on input line 30.
-
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+ ("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 30.
-("C:\Users\scabe\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+ ("C:\Users\javi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 
-{C:/Users/scabe/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+{C:/Users/javi/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 (plantillaEjemploSimplificada.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
@@ -625,40 +618,40 @@ Overfull \hbox (36.98853pt too wide) in paragraph at lines 72--73
  []
 
 [9 <./images/7j.jpg>]
-<images/10j.jpg, id=54, 440.39531pt x 447.17062pt>
-File: images/10j.jpg Graphic file (type jpg)
-<use images/10j.jpg>
-Package pdftex.def Info: images/10j.jpg  used on input line 76.
-(pdftex.def)             Requested size: 455.24408pt x 462.26257pt.
+<images/10j.png, id=54, 441.14813pt x 458.46281pt>
+File: images/10j.png Graphic file (type png)
+<use images/10j.png>
+Package pdftex.def Info: images/10j.png  used on input line 76.
+(pdftex.def)             Requested size: 455.24408pt x 473.1314pt.
 
 Overfull \hbox (36.98853pt too wide) in paragraph at lines 76--77
  [][] 
  []
 
 [10 <./images/8j.jpg>]
-<images/11j.jpg, id=58, 442.65375pt x 275.52937pt>
+<images/11j.jpg, id=58, 438.8897pt x 451.6875pt>
 File: images/11j.jpg Graphic file (type jpg)
 <use images/11j.jpg>
 Package pdftex.def Info: images/11j.jpg  used on input line 80.
-(pdftex.def)             Requested size: 455.24408pt x 283.38219pt.
+(pdftex.def)             Requested size: 455.24408pt x 468.53088pt.
 
 Overfull \hbox (36.98853pt too wide) in paragraph at lines 80--81
  [][] 
  []
 
 [11 <./images/9j.jpg>]
-<images/12j.jpg, id=62, 438.8897pt x 273.27094pt>
-File: images/12j.jpg Graphic file (type jpg)
-<use images/12j.jpg>
-Package pdftex.def Info: images/12j.jpg  used on input line 84.
-(pdftex.def)             Requested size: 455.24408pt x 283.46117pt.
+<images/12j.png, id=62, 440.39531pt x 450.18187pt>
+File: images/12j.png Graphic file (type png)
+<use images/12j.png>
+Package pdftex.def Info: images/12j.png  used on input line 84.
+(pdftex.def)             Requested size: 455.24408pt x 465.37546pt.
 
 Overfull \hbox (36.98853pt too wide) in paragraph at lines 84--85
  [][] 
  []
 
-[12 <./images/10j.jpg>]
-<images/7.png, id=66, 642.4pt x 506.89375pt>
+[12 <./images/10j.png>]
+<images/7.png, id=67, 642.4pt x 506.89375pt>
 File: images/7.png Graphic file (type png)
 <use images/7.png>
 Package pdftex.def Info: images/7.png  used on input line 88.
@@ -668,7 +661,8 @@ Overfull \hbox (36.98853pt too wide) in paragraph at lines 88--89
  [][] 
  []
 
-<images/8.png, id=67, 642.4pt x 530.98375pt>
+[13 <./images/11j.jpg>]
+<images/8.png, id=72, 642.4pt x 530.98375pt>
 File: images/8.png Graphic file (type png)
 <use images/8.png>
 Package pdftex.def Info: images/8.png  used on input line 92.
@@ -678,8 +672,8 @@ Overfull \hbox (36.98853pt too wide) in paragraph at lines 92--93
  [][] 
  []
 
-[13 <./images/11j.jpg> <./images/12j.jpg>]
-<images/9.png, id=72, 638.385pt x 507.8975pt>
+[14 <./images/12j.png>]
+<images/9.png, id=77, 638.385pt x 507.8975pt>
 File: images/9.png Graphic file (type png)
 <use images/9.png>
 Package pdftex.def Info: images/9.png  used on input line 96.
@@ -689,8 +683,8 @@ Overfull \hbox (36.98853pt too wide) in paragraph at lines 96--97
  [][] 
  []
 
-[14 <./images/7.png>]
-<images/10.png, id=77, 641.39626pt x 507.8975pt>
+[15 <./images/7.png>]
+<images/10.png, id=82, 641.39626pt x 507.8975pt>
 File: images/10.png Graphic file (type png)
 <use images/10.png>
 Package pdftex.def Info: images/10.png  used on input line 100.
@@ -700,8 +694,8 @@ Overfull \hbox (36.98853pt too wide) in paragraph at lines 100--101
  [][] 
  []
 
-[15 <./images/8.png>]
-<images/11.png, id=82, 642.4pt x 555.07375pt>
+[16 <./images/8.png>]
+<images/11.png, id=87, 642.4pt x 555.07375pt>
 File: images/11.png Graphic file (type png)
 <use images/11.png>
 Package pdftex.def Info: images/11.png  used on input line 104.
@@ -711,8 +705,8 @@ Overfull \hbox (36.98853pt too wide) in paragraph at lines 104--105
  [][] 
  []
 
-[16 <./images/9.png>]
-<images/12.png, id=87, 645.41125pt x 502.87875pt>
+[17 <./images/9.png>]
+<images/12.png, id=92, 645.41125pt x 502.87875pt>
 File: images/12.png Graphic file (type png)
 <use images/12.png>
 Package pdftex.def Info: images/12.png  used on input line 108.
@@ -722,8 +716,8 @@ Overfull \hbox (36.98853pt too wide) in paragraph at lines 108--109
  [][] 
  []
 
-[17 <./images/10.png>]
-<images/13.png, id=92, 640.3925pt x 578.16pt>
+[18 <./images/10.png>]
+<images/13.png, id=97, 640.3925pt x 578.16pt>
 File: images/13.png Graphic file (type png)
 <use images/13.png>
 Package pdftex.def Info: images/13.png  used on input line 112.
@@ -733,8 +727,8 @@ Overfull \hbox (36.98853pt too wide) in paragraph at lines 112--113
  [][] 
  []
 
-[18 <./images/11.png>]
-<images/14.png, id=97, 640.3925pt x 583.17876pt>
+[19 <./images/11.png>]
+<images/14.png, id=103, 640.3925pt x 583.17876pt>
 File: images/14.png Graphic file (type png)
 <use images/14.png>
 Package pdftex.def Info: images/14.png  used on input line 116.
@@ -744,8 +738,8 @@ Overfull \hbox (36.98853pt too wide) in paragraph at lines 116--117
  [][] 
  []
 
-[19 <./images/12.png>]
-<images/15.png, id=103, 638.385pt x 616.3025pt>
+[20 <./images/12.png>]
+<images/15.png, id=108, 638.385pt x 616.3025pt>
 File: images/15.png Graphic file (type png)
 <use images/15.png>
 Package pdftex.def Info: images/15.png  used on input line 120.
@@ -755,8 +749,8 @@ Overfull \hbox (36.98853pt too wide) in paragraph at lines 120--121
  [][] 
  []
 
-[20 <./images/13.png>]
-<images/16.png, id=108, 641.39626pt x 489.83pt>
+[21 <./images/13.png>]
+<images/16.png, id=113, 641.39626pt x 489.83pt>
 File: images/16.png Graphic file (type png)
 <use images/16.png>
 Package pdftex.def Info: images/16.png  used on input line 124.
@@ -766,8 +760,8 @@ Overfull \hbox (36.98853pt too wide) in paragraph at lines 124--125
  [][] 
  []
 
-[21 <./images/14.png>]
-<images/39.jpg, id=113, 439.6425pt x 448.67625pt>
+[22 <./images/14.png>]
+<images/39.jpg, id=118, 439.6425pt x 448.67625pt>
 File: images/39.jpg Graphic file (type jpg)
 <use images/39.jpg>
 Package pdftex.def Info: images/39.jpg  used on input line 128.
@@ -777,8 +771,8 @@ Overfull \hbox (36.98853pt too wide) in paragraph at lines 128--129
  [][] 
  []
 
-[22 <./images/15.png>]
-<images/40.jpg, id=118, 439.6425pt x 528.47438pt>
+[23 <./images/15.png>]
+<images/40.jpg, id=123, 439.6425pt x 528.47438pt>
 File: images/40.jpg Graphic file (type jpg)
 <use images/40.jpg>
 Package pdftex.def Info: images/40.jpg  used on input line 132.
@@ -788,8 +782,8 @@ Overfull \hbox (36.98853pt too wide) in paragraph at lines 132--133
  [][] 
  []
 
-[23 <./images/16.png>]
-<images/42.jpg, id=123, 441.90094pt x 457.71pt>
+[24 <./images/16.png>]
+<images/42.jpg, id=128, 441.90094pt x 457.71pt>
 File: images/42.jpg Graphic file (type jpg)
 <use images/42.jpg>
 Package pdftex.def Info: images/42.jpg  used on input line 136.
@@ -799,8 +793,8 @@ Overfull \hbox (36.98853pt too wide) in paragraph at lines 136--137
  [][] 
  []
 
-[24 <./images/39.jpg>]
-<images/43.jpg, id=127, 440.39531pt x 438.8897pt>
+[25 <./images/39.jpg>]
+<images/43.jpg, id=133, 440.39531pt x 438.8897pt>
 File: images/43.jpg Graphic file (type jpg)
 <use images/43.jpg>
 Package pdftex.def Info: images/43.jpg  used on input line 140.
@@ -810,8 +804,8 @@ Overfull \hbox (36.98853pt too wide) in paragraph at lines 140--141
  [][] 
  []
 
-[25 <./images/40.jpg>]
-<images/44.jpg, id=132, 439.6425pt x 438.13687pt>
+[26 <./images/40.jpg>]
+<images/44.jpg, id=137, 439.6425pt x 438.13687pt>
 File: images/44.jpg Graphic file (type jpg)
 <use images/44.jpg>
 Package pdftex.def Info: images/44.jpg  used on input line 144.
@@ -821,8 +815,8 @@ Overfull \hbox (36.98853pt too wide) in paragraph at lines 144--145
  [][] 
  []
 
-[26 <./images/42.jpg>]
-<images/45.jpg, id=136, 438.8897pt x 438.13687pt>
+[27 <./images/42.jpg>]
+<images/45.jpg, id=141, 438.8897pt x 438.13687pt>
 File: images/45.jpg Graphic file (type jpg)
 <use images/45.jpg>
 Package pdftex.def Info: images/45.jpg  used on input line 148.
@@ -832,8 +826,8 @@ Overfull \hbox (36.98853pt too wide) in paragraph at lines 148--149
  [][] 
  []
 
-[27 <./images/43.jpg>]
-<images/46.jpg, id=140, 441.90094pt x 438.8897pt>
+[28 <./images/43.jpg>]
+<images/46.jpg, id=145, 441.90094pt x 438.8897pt>
 File: images/46.jpg Graphic file (type jpg)
 <use images/46.jpg>
 Package pdftex.def Info: images/46.jpg  used on input line 152.
@@ -843,8 +837,8 @@ Overfull \hbox (36.98853pt too wide) in paragraph at lines 152--153
  [][] 
  []
 
-[28 <./images/44.jpg>]
-<images/47.jpg, id=144, 440.39531pt x 438.8897pt>
+[29 <./images/44.jpg>]
+<images/47.jpg, id=149, 440.39531pt x 438.8897pt>
 File: images/47.jpg Graphic file (type jpg)
 <use images/47.jpg>
 Package pdftex.def Info: images/47.jpg  used on input line 156.
@@ -854,8 +848,8 @@ Overfull \hbox (36.98853pt too wide) in paragraph at lines 156--157
  [][] 
  []
 
-[29 <./images/45.jpg>]
-<images/48.jpg, id=148, 439.6425pt x 429.85594pt>
+[30 <./images/45.jpg>]
+<images/48.jpg, id=153, 439.6425pt x 429.85594pt>
 File: images/48.jpg Graphic file (type jpg)
 <use images/48.jpg>
 Package pdftex.def Info: images/48.jpg  used on input line 160.
@@ -865,8 +859,8 @@ Overfull \hbox (36.98853pt too wide) in paragraph at lines 160--161
  [][] 
  []
 
-[30 <./images/46.jpg>]
-<images/49.jpg, id=152, 441.14813pt x 427.5975pt>
+[31 <./images/46.jpg>]
+<images/49.jpg, id=158, 441.14813pt x 427.5975pt>
 File: images/49.jpg Graphic file (type jpg)
 <use images/49.jpg>
 Package pdftex.def Info: images/49.jpg  used on input line 164.
@@ -876,8 +870,8 @@ Overfull \hbox (36.98853pt too wide) in paragraph at lines 164--165
  [][] 
  []
 
-[31 <./images/47.jpg>]
-<images/54.png, id=157, 448.67625pt x 554.82281pt>
+[32 <./images/47.jpg>]
+<images/54.png, id=162, 448.67625pt x 554.82281pt>
 File: images/54.png Graphic file (type png)
 <use images/54.png>
 Package pdftex.def Info: images/54.png  used on input line 168.
@@ -887,8 +881,8 @@ Overfull \hbox (36.98853pt too wide) in paragraph at lines 168--169
  [][] 
  []
 
-[32 <./images/48.jpg>]
-<images/55.png, id=161, 444.91219pt x 400.49625pt>
+[33 <./images/48.jpg>]
+<images/55.png, id=166, 444.91219pt x 400.49625pt>
 File: images/55.png Graphic file (type png)
 <use images/55.png>
 Package pdftex.def Info: images/55.png  used on input line 172.
@@ -898,8 +892,8 @@ Overfull \hbox (36.98853pt too wide) in paragraph at lines 172--173
  [][] 
  []
 
-[33 <./images/49.jpg>]
-<images/56.png, id=165, 445.665pt x 432.86719pt>
+[34 <./images/49.jpg>]
+<images/56.png, id=170, 445.665pt x 432.86719pt>
 File: images/56.png Graphic file (type png)
 <use images/56.png>
 Package pdftex.def Info: images/56.png  used on input line 176.
@@ -909,8 +903,8 @@ Overfull \hbox (36.98853pt too wide) in paragraph at lines 176--177
  [][] 
  []
 
-[34 <./images/54.png>]
-<images/57.png, id=170, 446.41782pt x 449.42906pt>
+[35 <./images/54.png>]
+<images/57.png, id=175, 446.41782pt x 449.42906pt>
 File: images/57.png Graphic file (type png)
 <use images/57.png>
 Package pdftex.def Info: images/57.png  used on input line 180.
@@ -920,8 +914,8 @@ Overfull \hbox (36.98853pt too wide) in paragraph at lines 180--181
  [][] 
  []
 
-[35 <./images/55.png>]
-<images/58.png, id=175, 445.665pt x 437.38406pt>
+[36 <./images/55.png>]
+<images/58.png, id=180, 445.665pt x 437.38406pt>
 File: images/58.png Graphic file (type png)
 <use images/58.png>
 Package pdftex.def Info: images/58.png  used on input line 184.
@@ -931,8 +925,8 @@ Overfull \hbox (36.98853pt too wide) in paragraph at lines 184--185
  [][] 
  []
 
-[36 <./images/56.png>]
-<images/59.png, id=180, 453.19313pt x 399.74344pt>
+[37 <./images/56.png>]
+<images/59.png, id=186, 453.19313pt x 399.74344pt>
 File: images/59.png Graphic file (type png)
 <use images/59.png>
 Package pdftex.def Info: images/59.png  used on input line 188.
@@ -942,8 +936,8 @@ Overfull \hbox (36.98853pt too wide) in paragraph at lines 188--189
  [][] 
  []
 
-[37 <./images/57.png>]
-<images/63.png, id=186, 451.6875pt x 377.15906pt>
+[38 <./images/57.png>]
+<images/63.png, id=191, 451.6875pt x 377.15906pt>
 File: images/63.png Graphic file (type png)
 <use images/63.png>
 Package pdftex.def Info: images/63.png  used on input line 192.
@@ -953,33 +947,33 @@ Overfull \hbox (36.98853pt too wide) in paragraph at lines 192--193
  [][] 
  []
 
-[38 <./images/58.png>] [39 <./images/59.png>] [40 <./images/63.png>] [41]
+[39 <./images/58.png>] [40 <./images/59.png>] [41 <./images/63.png>] [42]
 (plantillaEjemploSimplificada.aux
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
 ) ) 
 Here is how much of TeX's memory you used:
- 7920 strings out of 492945
- 124802 string characters out of 3126252
- 446764 words of memory out of 3000000
- 11647 multiletter control sequences out of 15000+200000
+ 7928 strings out of 492902
+ 124721 string characters out of 3124273
+ 447070 words of memory out of 3000000
+ 11666 multiletter control sequences out of 15000+200000
  14775 words of font info for 37 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  51i,11n,58p,9137b,446s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\scabe\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600
-\ecti1095.pk> <C:\Users\scabe\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen
-/ec/dpi600\ecsx1095.pk> <C:\Users\scabe\AppData\Local\MiKTeX\2.9\fonts/pk/ljfou
-r/jknappen/ec/dpi600\ecsx1440.pk> <C:\Users\scabe\AppData\Local\MiKTeX\2.9\font
-s/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\scabe\AppData\Local\MiKTe
-X\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\scabe\AppData\L
-ocal\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk> <C:\Users\scabe
-\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\U
-sers\scabe\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1095
-.pk> <C:\Users\scabe\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi60
-0\ecxc1095.pk>
-Output written on plantillaEjemploSimplificada.pdf (41 pages, 2768856 bytes).
+ <C:\Users\javi\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
+ecti1095.pk> <C:\Users\javi\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/e
+c/dpi600\ecsx1095.pk> <C:\Users\javi\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/j
+knappen/ec/dpi600\ecsx1440.pk> <C:\Users\javi\AppData\Local\MiKTeX\2.9\fonts/pk
+/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\javi\AppData\Local\MiKTeX\2.9
+\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\javi\AppData\Local\M
+iKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk> <C:\Users\javi\AppDat
+a\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\Users\ja
+vi\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1095.pk> <C:
+\Users\javi\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecxc109
+5.pk>
+Output written on plantillaEjemploSimplificada.pdf (42 pages, 2656627 bytes).
 PDF statistics:
- 464 PDF objects out of 1000 (max. 8388607)
+ 469 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  196 words of extra memory for PDF output out of 10000 (max. 10000000)
 
