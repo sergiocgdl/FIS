@@ -1,0 +1,14 @@
+Cliente
+ - Cliente Registrado
+Oficina
+Modo recogida (Enum)
+Modo entrega (Enum)
+Estado envio (Enum)
+
+Empleado
+- Oficinista
+- Repartidor
+- Conductor
+- Almacenista
+Ruta
+Furgoneta

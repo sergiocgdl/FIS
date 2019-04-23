@@ -1,6 +1,0 @@
-Cliente
- - Cliente Registrado
-Oficina
-Modo recogida (Enum)
-Modo entrega (Enum)
-Estado envio (Enum)
