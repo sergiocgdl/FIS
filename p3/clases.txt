@@ -24,3 +24,17 @@ Furgoneta
 Pagar
 - En metálico
 - Con tarjeta
+
+** GESTION DE FLOTA **
+Clases:
+    Empleado, Oficinista, 
+    Flota furgonetas, Furgoneta, 
+    Ruta de Transporte, 
+    Conductor, Repartidor,
+    Paquete
+** GESTION DE ALMACENES **
+Clases:
+    Almacenes, Almacen,
+    Oficinista, Almacenista, Conductor, Repartidor,
+    Paquete, Furgoneta
+    Ubicación Almacen??,
