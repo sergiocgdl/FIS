@@ -1,10 +1,14 @@
-Cliente
+﻿Cliente
  - Cliente Registrado
 Sucursal
 - Oficina
 - Almacén
-Modo recogida (Enum)
-Modo entrega (Enum)
+Recodida
+	-Recogida Direccion
+	-Recogida Oficina
+Entrega
+	-Entrega Direccion
+	-Entrega Oficina
 Estado envio (Enum)
 
 Paquete
