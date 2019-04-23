@@ -1,9 +1,13 @@
 Cliente
  - Cliente Registrado
-Oficina
+Sucursal
+- Oficina
+- Almacén
 Modo recogida (Enum)
 Modo entrega (Enum)
 Estado envio (Enum)
+
+Paquete
 
 Empleado
 - Oficinista
@@ -12,3 +16,7 @@ Empleado
 - Almacenista
 Ruta
 Furgoneta
+
+Pagar
+- En metálico
+- Con tarjeta
