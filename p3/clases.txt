@@ -1,40 +1,40 @@
-﻿Cliente
+﻿Cliente	SERGIO
  - Cliente Registrado
 Sucursal
-- Oficina
-- Almacén
-Recodida
+- Oficina	SERGIO
+- Almacén	VICTOR
+-Recodida SERGIO
 	-Recogida Direccion
 	-Recogida Oficina
-Entrega
+Entrega SERGIO
 	-Entrega Direccion
 	-Entrega Oficina
-Estado envio (Enum)
+Estado envio (Enum) SERGIO
 
-Paquete
+Paquete	CESAR
 
 Empleado
-- Oficinista
-- Repartidor
-- Conductor
-- Almacenista
-Ruta
-Furgoneta
+- Oficinista	JAVI
+- Repartidor	CESAR
+- Conductor	CESAR
+- Almacenista	JAVI
+Ruta		CESAR
+Furgoneta	VICTOR
 
-Pagar
+Pagar JAVI 
 - En metálico
 - Con tarjeta
 
 ** GESTION DE FLOTA **
 Clases:
     Empleado, Oficinista, 
-    Flota furgonetas, Furgoneta, 
+    Flota furgonetas, Furgoneta,
     Ruta de Transporte, 
     Conductor, Repartidor,
     Paquete
 ** GESTION DE ALMACENES **
 Clases:
-    Almacenes, Almacen,
+    Almacenes, Almacen,	
     Oficinista, Almacenista, Conductor, Repartidor,
-    Paquete, Furgoneta
+    Paquete, Furgoneta 
     Ubicación Almacen??,
