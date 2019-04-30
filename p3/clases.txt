@@ -32,7 +32,7 @@ Clases:
     Ruta de Transporte, 
     Conductor, Repartidor,
     Paquete
-** GESTION DE ALMACENES **
+** GESTION DE ALMACEN **
 Clases:
     Almacenes, Almacen,	
     Oficinista, Almacenista, Conductor, Repartidor,
