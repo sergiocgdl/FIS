@@ -1,14 +1,40 @@
-Cliente
+﻿Cliente	SERGIO
  - Cliente Registrado
-Oficina
-Modo recogida (Enum)
-Modo entrega (Enum)
-Estado envio (Enum)
+Sucursal
+- Oficina	SERGIO
+- Almacén	VICTOR
+-Recodida SERGIO
+	-Recogida Direccion
+	-Recogida Oficina
+Entrega SERGIO
+	-Entrega Direccion
+	-Entrega Oficina
+Estado envio (Enum) SERGIO
+
+Paquete	CESAR
 
 Empleado
-- Oficinista
-- Repartidor
-- Conductor
-- Almacenista
-Ruta
-Furgoneta
+- Oficinista	JAVI
+- Repartidor	CESAR
+- Conductor	CESAR
+- Almacenista	JAVI
+Ruta		CESAR
+Furgoneta	VICTOR
+
+Pagar JAVI 
+- En metálico
+- Con tarjeta
+
+** GESTION DE FLOTA **
+Clases:
+    Empleado, Oficinista, 
+    Flota furgonetas, Furgoneta,
+    Ruta de Transporte, 
+    Conductor, Repartidor,
+    Paquete
+** GESTION DE ALMACEN **
+Clases:
+    Almacenes, Almacen,	
+    Oficinista, Almacenista, Conductor, Repartidor,
+    Paquete, Furgoneta 
+    Ubicación Almacen??,
