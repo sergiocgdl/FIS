@@ -1,18 +1,18 @@
-\babel@toc {spanish}{}
-\contentsline {section}{\numberline {1}Modelo conceptual}{3}% 
-\contentsline {section}{\numberline {2}Diagramas de secuencia del sistema}{4}% 
-\contentsline {subsection}{\numberline {2.1}Localizar servicios cercanos}{7}% 
-\contentsline {subsection}{\numberline {2.2}Pedir presupuesto Web de env\IeC {\'\i }o}{7}% 
-\contentsline {subsection}{\numberline {2.3}Seguimiento Web de estado de env\IeC {\'\i }o}{8}% 
-\contentsline {subsection}{\numberline {2.4}Registrarse}{9}% 
-\contentsline {subsection}{\numberline {2.5}Env\IeC {\'\i }o Web de paquete}{10}% 
-\contentsline {subsection}{\numberline {2.6}Elegir modo de recogida}{11}% 
-\contentsline {subsection}{\numberline {2.7}Pagar env\IeC {\'\i }o}{12}% 
-\contentsline {subsection}{\numberline {2.8}Pagar con tarjeta}{13}% 
-\contentsline {subsection}{\numberline {2.9}PayPal}{14}% 
-\contentsline {subsection}{\numberline {2.10}Elegir modo de entrega}{15}% 
-\contentsline {subsection}{\numberline {2.11}Darse de baja}{16}% 
-\contentsline {subsection}{\numberline {2.12}Identificarse}{17}% 
-\contentsline {subsection}{\numberline {2.13}Valorar env\IeC {\'\i }o}{18}% 
-\contentsline {subsection}{\numberline {2.14}Consultar valoraciones de clientes registrados}{19}% 
-\contentsline {section}{\numberline {3}Glosario de t\IeC {\'e}rminos}{20}% 
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Modelo conceptual}{3}
+\contentsline {section}{\numberline {2}Diagramas de secuencia del sistema}{4}
+\contentsline {subsection}{\numberline {2.1}Localizar servicios cercanos}{7}
+\contentsline {subsection}{\numberline {2.2}Pedir presupuesto Web de env\IeC {\'\i }o}{7}
+\contentsline {subsection}{\numberline {2.3}Seguimiento Web de estado de env\IeC {\'\i }o}{8}
+\contentsline {subsection}{\numberline {2.4}Registrarse}{9}
+\contentsline {subsection}{\numberline {2.5}Env\IeC {\'\i }o Web de paquete}{10}
+\contentsline {subsection}{\numberline {2.6}Elegir modo de recogida}{11}
+\contentsline {subsection}{\numberline {2.7}Pagar env\IeC {\'\i }o}{12}
+\contentsline {subsection}{\numberline {2.8}Pagar con tarjeta}{13}
+\contentsline {subsection}{\numberline {2.9}PayPal}{14}
+\contentsline {subsection}{\numberline {2.10}Elegir modo de entrega}{15}
+\contentsline {subsection}{\numberline {2.11}Darse de baja}{16}
+\contentsline {subsection}{\numberline {2.12}Identificarse}{17}
+\contentsline {subsection}{\numberline {2.13}Valorar env\IeC {\'\i }o}{18}
+\contentsline {subsection}{\numberline {2.14}Consultar valoraciones de clientes registrados}{19}
+\contentsline {section}{\numberline {3}Glosario de t\IeC {\'e}rminos}{20}
