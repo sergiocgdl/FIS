@@ -1,18 +1,34 @@
-\babel@toc {spanish}{}
+\babel@toc {nil}{}
 \contentsline {section}{\numberline {1}Modelo conceptual}{3}% 
 \contentsline {section}{\numberline {2}Diagramas de secuencia del sistema}{4}% 
-\contentsline {subsection}{\numberline {2.1}Localizar servicios cercanos}{7}% 
-\contentsline {subsection}{\numberline {2.2}Pedir presupuesto Web de env\IeC {\'\i }o}{7}% 
-\contentsline {subsection}{\numberline {2.3}Seguimiento Web de estado de env\IeC {\'\i }o}{8}% 
-\contentsline {subsection}{\numberline {2.4}Registrarse}{9}% 
-\contentsline {subsection}{\numberline {2.5}Env\IeC {\'\i }o Web de paquete}{10}% 
-\contentsline {subsection}{\numberline {2.6}Elegir modo de recogida}{11}% 
-\contentsline {subsection}{\numberline {2.7}Pagar env\IeC {\'\i }o}{12}% 
-\contentsline {subsection}{\numberline {2.8}Pagar con tarjeta}{13}% 
-\contentsline {subsection}{\numberline {2.9}PayPal}{14}% 
-\contentsline {subsection}{\numberline {2.10}Elegir modo de entrega}{15}% 
-\contentsline {subsection}{\numberline {2.11}Darse de baja}{16}% 
-\contentsline {subsection}{\numberline {2.12}Identificarse}{17}% 
-\contentsline {subsection}{\numberline {2.13}Valorar env\IeC {\'\i }o}{18}% 
-\contentsline {subsection}{\numberline {2.14}Consultar valoraciones de clientes registrados}{19}% 
-\contentsline {section}{\numberline {3}Glosario de t\IeC {\'e}rminos}{20}% 
+\contentsline {subsection}{\numberline {2.1}Alta empleado}{4}% 
+\contentsline {subsection}{\numberline {2.2}Baja empleado}{4}% 
+\contentsline {subsection}{\numberline {2.3}Modificar datos personales empleado}{5}% 
+\contentsline {subsection}{\numberline {2.4}Cambiar disponibilidad}{5}% 
+\contentsline {subsection}{\numberline {2.5}Asignar ruta de transporte}{6}% 
+\contentsline {subsection}{\numberline {2.6}Consultar estado conductor}{6}% 
+\contentsline {subsection}{\numberline {2.7}Crear ruta}{8}% 
+\contentsline {subsection}{\numberline {2.8}A\IeC {\~n}adir parada}{8}% 
+\contentsline {subsection}{\numberline {2.9}Cancelar ruta}{9}% 
+\contentsline {subsection}{\numberline {2.10}Modificar ruta}{9}% 
+\contentsline {subsection}{\numberline {2.11}Incluir paquete en ruta}{10}% 
+\contentsline {subsection}{\numberline {2.12}Calcular ruta m\IeC {\'a}s \IeC {\'o}ptima}{10}% 
+\contentsline {subsection}{\numberline {2.13}Registrar incidencia}{11}% 
+\contentsline {subsection}{\numberline {2.14}Sustituir furgoneta}{11}% 
+\contentsline {subsection}{\numberline {2.15}Registrar etapa completada}{12}% 
+\contentsline {subsection}{\numberline {2.16}Registrar conclusi\IeC {\'o}n ruta}{12}% 
+\contentsline {subsection}{\numberline {2.17}Localizar servicios cercanos}{13}% 
+\contentsline {subsection}{\numberline {2.18}Pedir presupuesto Web de env\IeC {\'\i }o}{14}% 
+\contentsline {subsection}{\numberline {2.19}Seguimiento Web de estado de env\IeC {\'\i }o}{14}% 
+\contentsline {subsection}{\numberline {2.20}Registrarse}{15}% 
+\contentsline {subsection}{\numberline {2.21}Env\IeC {\'\i }o Web de paquete}{16}% 
+\contentsline {subsection}{\numberline {2.22}Elegir modo de recogida}{17}% 
+\contentsline {subsection}{\numberline {2.23}Pagar env\IeC {\'\i }o}{18}% 
+\contentsline {subsection}{\numberline {2.24}Pagar con tarjeta}{19}% 
+\contentsline {subsection}{\numberline {2.25}PayPal}{20}% 
+\contentsline {subsection}{\numberline {2.26}Elegir modo de entrega}{21}% 
+\contentsline {subsection}{\numberline {2.27}Darse de baja}{22}% 
+\contentsline {subsection}{\numberline {2.28}Identificarse}{23}% 
+\contentsline {subsection}{\numberline {2.29}Valorar env\IeC {\'\i }o}{24}% 
+\contentsline {subsection}{\numberline {2.30}Consultar valoraciones de clientes registrados}{25}% 
+\contentsline {section}{\numberline {3}Glosario de t\IeC {\'e}rminos}{26}% 
