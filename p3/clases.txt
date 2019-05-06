@@ -19,7 +19,7 @@ Empleado
 - Conductor	CESAR
 - Almacenista	JAVI
 Ruta		CESAR
-Furgoneta	VICTOR
+
 
 ** GESTION DE TRANSPORTE**
 
