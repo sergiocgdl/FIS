@@ -11,7 +11,7 @@ Entrega SERGIO
 	-Entrega Oficina
 Estado envio (Enum) SERGIO
 
-Paquete	CESAR
+** GESTION DE PERSONAL**
 
 Empleado
 - Oficinista	JAVI
@@ -20,6 +20,16 @@ Empleado
 - Almacenista	JAVI
 Ruta		CESAR
 Furgoneta	VICTOR
+
+** GESTION DE TRANSPORTE**
+
+Empleado
+- Oficinista	JAVI
+- Conductor	CESAR
+- Almacenista	JAVI
+Ruta		CESAR
+Furgoneta	VICTOR
+Paquete
 
 Pagar JAVI 
 - En metálico
@@ -32,6 +42,7 @@ Clases:
     Ruta de Transporte, 
     Conductor, Repartidor,
     Paquete
+
 ** GESTION DE ALMACEN **
 Clases:
     Almacenes, Almacen,	
