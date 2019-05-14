@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.3.24)  6 MAY 2019 21:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.3.24)  11 MAY 2019 00:48
 entering extended mode
 **./plantillaEjemploSimplificada.tex
 (plantillaEjemploSimplificada.tex
@@ -527,767 +527,518 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 4.
 Package tocbasic Info: Using my definition of `\numberline' on input line 5.
 Package tocbasic Info: Using my definition of `\numberline' on input line 6.
 Package tocbasic Info: Using my definition of `\numberline' on input line 7.
-Package tocbasic Info: Using my definition of `\numberline' on input line 8.
-Package tocbasic Info: Using my definition of `\numberline' on input line 9.
-Package tocbasic Info: Using my definition of `\numberline' on input line 10.
-Package tocbasic Info: Using my definition of `\numberline' on input line 11.
-Package tocbasic Info: Using my definition of `\numberline' on input line 12.
-Package tocbasic Info: Using my definition of `\numberline' on input line 13.
-Package tocbasic Info: Using my definition of `\numberline' on input line 14.
-Package tocbasic Info: Using my definition of `\numberline' on input line 15.
-Package tocbasic Info: Using my definition of `\numberline' on input line 16.
-Package tocbasic Info: Using my definition of `\numberline' on input line 17.
-Package tocbasic Info: Using my definition of `\numberline' on input line 18.
-Package tocbasic Info: Using my definition of `\numberline' on input line 19.
-Package tocbasic Info: Using my definition of `\numberline' on input line 20.
-Package tocbasic Info: Using my definition of `\numberline' on input line 21.
-Package tocbasic Info: Using my definition of `\numberline' on input line 22.
-Package tocbasic Info: Using my definition of `\numberline' on input line 23.
-Package tocbasic Info: Using my definition of `\numberline' on input line 24.
-Package tocbasic Info: Using my definition of `\numberline' on input line 25.
-Package tocbasic Info: Using my definition of `\numberline' on input line 26.
-Package tocbasic Info: Using my definition of `\numberline' on input line 27.
-Package tocbasic Info: Using my definition of `\numberline' on input line 28.
-Package tocbasic Info: Using my definition of `\numberline' on input line 29.
-Package tocbasic Info: Using my definition of `\numberline' on input line 30.
-Package tocbasic Info: Using my definition of `\numberline' on input line 31.
-Package tocbasic Info: Using my definition of `\numberline' on input line 32.
-Package tocbasic Info: Using my definition of `\numberline' on input line 33.
-Package tocbasic Info: Using my definition of `\numberline' on input line 34.
-Package tocbasic Info: Using my definition of `\numberline' on input line 35.
-Package tocbasic Info: Using my definition of `\numberline' on input line 36.
-Package tocbasic Info: Using my definition of `\numberline' on input line 37.
-Package tocbasic Info: Using my definition of `\numberline' on input line 38.
-Package tocbasic Info: Using my definition of `\numberline' on input line 39.
-Package tocbasic Info: Using my definition of `\numberline' on input line 40.
-Package tocbasic Info: Using my definition of `\numberline' on input line 41.
-Package tocbasic Info: Using my definition of `\numberline' on input line 42.
-Package tocbasic Info: Using my definition of `\numberline' on input line 43.
- [2]
-Package tocbasic Info: Using my definition of `\numberline' on input line 44.
-Package tocbasic Info: Using my definition of `\numberline' on input line 45.
-Package tocbasic Info: Using my definition of `\numberline' on input line 46.
-Package tocbasic Info: Using my definition of `\numberline' on input line 47.
-Package tocbasic Info: Using my definition of `\numberline' on input line 48.
-Package tocbasic Info: Using my definition of `\numberline' on input line 49.
-Package tocbasic Info: Using my definition of `\numberline' on input line 50.
-Package tocbasic Info: Using my definition of `\numberline' on input line 51.
-Package tocbasic Info: Using my definition of `\numberline' on input line 52.
-Package tocbasic Info: Using my definition of `\numberline' on input line 53.
-Package tocbasic Info: Using my definition of `\numberline' on input line 54.
-Package tocbasic Info: Using my definition of `\numberline' on input line 55.
-Package tocbasic Info: Using my definition of `\numberline' on input line 56.
-Package tocbasic Info: Using my definition of `\numberline' on input line 57.
-Package tocbasic Info: Using my definition of `\numberline' on input line 58.
-Package tocbasic Info: Using my definition of `\numberline' on input line 59.
-Package tocbasic Info: Using my definition of `\numberline' on input line 60.
-Package tocbasic Info: Using my definition of `\numberline' on input line 61.
-Package tocbasic Info: Using my definition of `\numberline' on input line 62.
-Package tocbasic Info: Using my definition of `\numberline' on input line 63.
-Package tocbasic Info: Using my definition of `\numberline' on input line 64.
-Package tocbasic Info: Using my definition of `\numberline' on input line 65.
-Package tocbasic Info: Using my definition of `\numberline' on input line 66.
-Package tocbasic Info: Using my definition of `\numberline' on input line 67.
 )
 \tf@toc=\write3
 \openout3 = `plantillaEjemploSimplificada.toc'.
 
- [3]
-<images/clases.png, id=19, 985.6825pt x 736.7525pt>
-File: images/clases.png Graphic file (type png)
-<use images/clases.png>
-Package pdftex.def Info: images/clases.png  used on input line 40.
-(pdftex.def)             Requested size: 455.24408pt x 340.28177pt.
+ [2]
+<images/1.png, id=16, 450.9347pt x 202.50656pt>
+File: images/1.png Graphic file (type png)
+<use images/1.png>
+Package pdftex.def Info: images/1.png  used on input line 41.
+(pdftex.def)             Requested size: 455.24408pt x 204.45273pt.
 
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 40--41
+Overfull \hbox (36.98853pt too wide) in paragraph at lines 41--42
  [][] 
  []
 
-[4 <./images/clases.png>]
-<images/1.png, id=25, 430.60875pt x 143.03438pt>
-File: images/1.png Graphic file (type png)
-<use images/1.png>
-Package pdftex.def Info: images/1.png  used on input line 49.
-(pdftex.def)             Requested size: 455.24408pt x 151.22066pt.
+<images/2.png, id=18, 453.19313pt x 193.47281pt>
+File: images/2.png Graphic file (type png)
+<use images/2.png>
+Package pdftex.def Info: images/2.png  used on input line 45.
+(pdftex.def)             Requested size: 455.24408pt x 194.34912pt.
+
+Overfull \hbox (36.98853pt too wide) in paragraph at lines 45--46
+ [][] 
+ []
+
+<images/3.png, id=19, 450.18187pt x 172.39406pt>
+File: images/3.png Graphic file (type png)
+<use images/3.png>
+Package pdftex.def Info: images/3.png  used on input line 49.
+(pdftex.def)             Requested size: 455.24408pt x 174.34021pt.
 
 Overfull \hbox (36.98853pt too wide) in paragraph at lines 49--50
  [][] 
  []
 
-<images/2.png, id=26, 439.6425pt x 141.52875pt>
-File: images/2.png Graphic file (type png)
-<use images/2.png>
-Package pdftex.def Info: images/2.png  used on input line 54.
-(pdftex.def)             Requested size: 455.24408pt x 146.55583pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 54--55
- [][] 
- []
-
-<images/3.png, id=27, 253.69781pt x 139.27031pt>
-File: images/3.png Graphic file (type png)
-<use images/3.png>
-Package pdftex.def Info: images/3.png  used on input line 59.
-(pdftex.def)             Requested size: 455.24408pt x 249.91919pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 59--60
- [][] 
- []
-
-[5 <./images/1.png (PNG copy)> <./images/2.png (PNG copy)>]
-<images/4.png, id=32, 261.22594pt x 139.27031pt>
+<images/4.png, id=20, 451.6875pt x 168.63pt>
 File: images/4.png Graphic file (type png)
 <use images/4.png>
-Package pdftex.def Info: images/4.png  used on input line 64.
-(pdftex.def)             Requested size: 455.24408pt x 242.71513pt.
+Package pdftex.def Info: images/4.png  used on input line 53.
+(pdftex.def)             Requested size: 455.24408pt x 169.96758pt.
 
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 64--65
+Overfull \hbox (36.98853pt too wide) in paragraph at lines 53--54
  [][] 
  []
 
-<images/5.png, id=33, 261.22594pt x 139.27031pt>
+[3 <./images/1.png> <./images/2.png>]
+<images/5.png, id=27, 449.42906pt x 165.61874pt>
 File: images/5.png Graphic file (type png)
 <use images/5.png>
-Package pdftex.def Info: images/5.png  used on input line 69.
-(pdftex.def)             Requested size: 455.24408pt x 242.71513pt.
+Package pdftex.def Info: images/5.png  used on input line 57.
+(pdftex.def)             Requested size: 455.24408pt x 167.76892pt.
 
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 69--70
+Overfull \hbox (36.98853pt too wide) in paragraph at lines 57--58
  [][] 
  []
 
-[6 <./images/3.png (PNG copy)> <./images/4.png (PNG copy)>]
-<images/6.png, id=37, 259.7203pt x 139.27031pt>
+<images/6.png, id=28, 453.19313pt x 173.14688pt>
 File: images/6.png Graphic file (type png)
 <use images/6.png>
-Package pdftex.def Info: images/6.png  used on input line 74.
-(pdftex.def)             Requested size: 455.24408pt x 244.11555pt.
+Package pdftex.def Info: images/6.png  used on input line 61.
+(pdftex.def)             Requested size: 455.24408pt x 173.93112pt.
 
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 74--75
+Overfull \hbox (36.98853pt too wide) in paragraph at lines 61--62
  [][] 
  []
 
-<images/7.png, id=38, 791.95876pt x 313.17pt>
+<images/7.png, id=29, 450.18187pt x 166.37157pt>
 File: images/7.png Graphic file (type png)
 <use images/7.png>
-Package pdftex.def Info: images/7.png  used on input line 79.
-(pdftex.def)             Requested size: 455.24408pt x 180.02356pt.
+Package pdftex.def Info: images/7.png  used on input line 65.
+(pdftex.def)             Requested size: 455.24408pt x 168.24971pt.
 
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 79--80
+Overfull \hbox (36.98853pt too wide) in paragraph at lines 65--66
  [][] 
  []
 
-[7 <./images/5.png (PNG copy)> <./images/6.png (PNG copy)>]
-<images/8.png, id=43, 332.24126pt x 305.14pt>
-File: images/8.png Graphic file (type png)
-<use images/8.png>
-Package pdftex.def Info: images/8.png  used on input line 84.
-(pdftex.def)             Requested size: 455.24408pt x 418.13237pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 84--85
- [][] 
- []
-
-[8 <./images/7.png>]
-<images/9.png, id=48, 323.2075pt x 332.24126pt>
-File: images/9.png Graphic file (type png)
-<use images/9.png>
-Package pdftex.def Info: images/9.png  used on input line 89.
-(pdftex.def)             Requested size: 455.24408pt x 467.99382pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 89--90
- [][] 
- []
-
-[9 <./images/8.png>]
-<images/10.png, id=53, 311.1625pt x 350.30875pt>
-File: images/10.png Graphic file (type png)
-<use images/10.png>
-Package pdftex.def Info: images/10.png  used on input line 94.
-(pdftex.def)             Requested size: 455.24408pt x 512.52092pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 94--95
- [][] 
- []
-
-[10 <./images/9.png>]
-<images/11.png, id=58, 303.1325pt x 342.27875pt>
-File: images/11.png Graphic file (type png)
-<use images/11.png>
-Package pdftex.def Info: images/11.png  used on input line 99.
-(pdftex.def)             Requested size: 455.24408pt x 514.04356pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 99--100
- [][] 
- []
-
-[11 <./images/10.png>]
-<images/12.png, id=63, 317.185pt x 361.35pt>
-File: images/12.png Graphic file (type png)
-<use images/12.png>
-Package pdftex.def Info: images/12.png  used on input line 104.
-(pdftex.def)             Requested size: 455.24408pt x 518.67294pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 104--105
- [][] 
- []
-
-[12 <./images/11.png>]
-<images/13.jpg, id=68, 492.84125pt x 222.8325pt>
-File: images/13.jpg Graphic file (type jpg)
-<use images/13.jpg>
-Package pdftex.def Info: images/13.jpg  used on input line 109.
-(pdftex.def)             Requested size: 455.24408pt x 205.84482pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 109--110
- [][] 
- []
-
-[13 <./images/12.png>]
-<images/14.jpg, id=74, 836.12375pt x 255.95625pt>
-File: images/14.jpg Graphic file (type jpg)
-<use images/14.jpg>
-Package pdftex.def Info: images/14.jpg  used on input line 114.
-(pdftex.def)             Requested size: 455.24408pt x 139.36255pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 114--115
- [][] 
- []
-
-<images/15.jpg, id=75, 763.85374pt x 214.8025pt>
-File: images/15.jpg Graphic file (type jpg)
-<use images/15.jpg>
-Package pdftex.def Info: images/15.jpg  used on input line 119.
-(pdftex.def)             Requested size: 455.24408pt x 128.0172pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 119--120
- [][] 
- []
-
-<images/16.jpg, id=76, 762.85pt x 223.83624pt>
-File: images/16.jpg Graphic file (type jpg)
-<use images/16.jpg>
-Package pdftex.def Info: images/16.jpg  used on input line 124.
-(pdftex.def)             Requested size: 455.24408pt x 133.57869pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 124--125
- [][] 
- []
-
-[14 <./images/13.jpg> <./images/14.jpg> <./images/15.jpg>]
-<images/17.jpg, id=80, 762.85pt x 223.83624pt>
-File: images/17.jpg Graphic file (type jpg)
-<use images/17.jpg>
-Package pdftex.def Info: images/17.jpg  used on input line 129.
-(pdftex.def)             Requested size: 455.24408pt x 133.57869pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 129--130
- [][] 
- []
-
-<images/18.jpg, id=81, 487.8225pt x 223.83624pt>
-File: images/18.jpg Graphic file (type jpg)
-<use images/18.jpg>
-Package pdftex.def Info: images/18.jpg  used on input line 134.
-(pdftex.def)             Requested size: 455.24408pt x 208.88963pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 134--135
- [][] 
- []
-
-[15 <./images/16.jpg> <./images/17.jpg>]
-<images/19.jpg, id=85, 906.38625pt x 275.0275pt>
-File: images/19.jpg Graphic file (type jpg)
-<use images/19.jpg>
-Package pdftex.def Info: images/19.jpg  used on input line 139.
-(pdftex.def)             Requested size: 455.24408pt x 138.13449pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 139--140
- [][] 
- []
-
-<images/20.jpg, id=86, 547.04375pt x 222.8325pt>
-File: images/20.jpg Graphic file (type jpg)
-<use images/20.jpg>
-Package pdftex.def Info: images/20.jpg  used on input line 144.
-(pdftex.def)             Requested size: 455.24408pt x 185.44054pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 144--145
- [][] 
- []
-
-[16 <./images/18.jpg> <./images/19.jpg>]
-<images/21.jpg, id=90, 721.69624pt x 222.8325pt>
-File: images/21.jpg Graphic file (type jpg)
-<use images/21.jpg>
-Package pdftex.def Info: images/21.jpg  used on input line 149.
-(pdftex.def)             Requested size: 455.24408pt x 140.56203pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 149--150
- [][] 
- []
-
-<images/22.jpg, id=91, 852.18375pt x 350.30875pt>
-File: images/22.jpg Graphic file (type jpg)
-<use images/22.jpg>
-Package pdftex.def Info: images/22.jpg  used on input line 154.
-(pdftex.def)             Requested size: 455.24408pt x 187.14339pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 154--155
- [][] 
- []
-
-[17 <./images/20.jpg> <./images/21.jpg>]
-<images/23.jpg, id=95, 972.63374pt x 350.30875pt>
-File: images/23.jpg Graphic file (type jpg)
-<use images/23.jpg>
-Package pdftex.def Info: images/23.jpg  used on input line 159.
-(pdftex.def)             Requested size: 455.24408pt x 163.96094pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 159--160
- [][] 
- []
-
-<images/24.jpg, id=96, 796.9775pt x 280.04625pt>
-File: images/24.jpg Graphic file (type jpg)
-<use images/24.jpg>
-Package pdftex.def Info: images/24.jpg  used on input line 164.
-(pdftex.def)             Requested size: 455.24408pt x 159.96559pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 164--165
- [][] 
- []
-
-[18 <./images/22.jpg> <./images/23.jpg>]
-<images/25.jpg, id=100, 733.74126pt x 280.04625pt>
-File: images/25.jpg Graphic file (type jpg)
-<use images/25.jpg>
-Package pdftex.def Info: images/25.jpg  used on input line 169.
-(pdftex.def)             Requested size: 455.24408pt x 173.75507pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 169--170
- [][] 
- []
-
-<images/26.jpg, id=101, 796.9775pt x 244.915pt>
-File: images/26.jpg Graphic file (type jpg)
-<use images/26.jpg>
-Package pdftex.def Info: images/26.jpg  used on input line 174.
-(pdftex.def)             Requested size: 455.24408pt x 139.89821pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 174--175
- [][] 
- []
-
-<images/27.jpg, id=102, 796.9775pt x 244.915pt>
-File: images/27.jpg Graphic file (type jpg)
-<use images/27.jpg>
-Package pdftex.def Info: images/27.jpg  used on input line 179.
-(pdftex.def)             Requested size: 455.24408pt x 139.89821pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 179--180
- [][] 
- []
-
-[19 <./images/24.jpg> <./images/25.jpg> <./images/26.jpg>]
-<images/28.jpg, id=107, 796.9775pt x 244.915pt>
-File: images/28.jpg Graphic file (type jpg)
-<use images/28.jpg>
-Package pdftex.def Info: images/28.jpg  used on input line 184.
-(pdftex.def)             Requested size: 455.24408pt x 139.89821pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 184--185
- [][] 
- []
-
-<images/29.png, id=108, 475.7775pt x 161.85469pt>
-File: images/29.png Graphic file (type png)
-<use images/29.png>
-Package pdftex.def Info: images/29.png  used on input line 189.
-(pdftex.def)             Requested size: 455.24408pt x 154.87737pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 189--190
- [][] 
- []
-
-<images/30.png, id=109, 487.8225pt x 140.77594pt>
-File: images/30.png Graphic file (type png)
-<use images/30.png>
-Package pdftex.def Info: images/30.png  used on input line 194.
-(pdftex.def)             Requested size: 455.24408pt x 131.37564pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 194--195
- [][] 
- []
-
-[20 <./images/27.jpg> <./images/28.jpg> <./images/29.png (PNG copy)>]
-<images/31.png, id=113, 477.28313pt x 139.27031pt>
-File: images/31.png Graphic file (type png)
-<use images/31.png>
-Package pdftex.def Info: images/31.png  used on input line 199.
-(pdftex.def)             Requested size: 455.24408pt x 132.83943pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 199--200
- [][] 
- []
-
-<images/32.png, id=114, 501.37312pt x 124.96687pt>
-File: images/32.png Graphic file (type png)
-<use images/32.png>
-Package pdftex.def Info: images/32.png  used on input line 204.
-(pdftex.def)             Requested size: 455.24408pt x 113.47404pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 204--205
- [][] 
- []
-
-<images/33.png, id=115, 261.97874pt x 139.27031pt>
-File: images/33.png Graphic file (type png)
-<use images/33.png>
-Package pdftex.def Info: images/33.png  used on input line 209.
-(pdftex.def)             Requested size: 455.24408pt x 242.02022pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 209--210
- [][] 
- []
-
-[21 <./images/30.png (PNG copy)> <./images/31.png (PNG copy)> <./images/32.png 
-(PNG copy)>]
-<images/34.png, id=119, 301.8778pt x 139.27031pt>
-File: images/34.png Graphic file (type png)
-<use images/34.png>
-Package pdftex.def Info: images/34.png  used on input line 214.
-(pdftex.def)             Requested size: 455.24408pt x 210.02486pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 214--215
- [][] 
- []
-
-<images/35.png, id=120, 609.77812pt x 191.21437pt>
-File: images/35.png Graphic file (type png)
-<use images/35.png>
-Package pdftex.def Info: images/35.png  used on input line 219.
-(pdftex.def)             Requested size: 455.24408pt x 142.75977pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 219--220
- [][] 
- []
-
-[22 <./images/33.png (PNG copy)> <./images/34.png (PNG copy)>]
-<images/36.png, id=124, 460.72125pt x 184.43906pt>
-File: images/36.png Graphic file (type png)
-<use images/36.png>
-Package pdftex.def Info: images/36.png  used on input line 224.
-(pdftex.def)             Requested size: 455.24408pt x 182.24625pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 224--225
- [][] 
- []
-
-<images/37.png, id=125, 444.91219pt x 199.49532pt>
-File: images/37.png Graphic file (type png)
-<use images/37.png>
-Package pdftex.def Info: images/37.png  used on input line 229.
-(pdftex.def)             Requested size: 455.24408pt x 204.12785pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 229--230
- [][] 
- []
-
-[23 <./images/35.png (PNG copy)> <./images/36.png (PNG copy)>]
-<images/38.png, id=129, 327.47343pt x 121.95563pt>
-File: images/38.png Graphic file (type png)
-<use images/38.png>
-Package pdftex.def Info: images/38.png  used on input line 234.
-(pdftex.def)             Requested size: 455.24408pt x 169.54013pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 234--235
- [][] 
- []
-
-<images/39.png, id=130, 552.0625pt x 399.4925pt>
-File: images/39.png Graphic file (type png)
-<use images/39.png>
-Package pdftex.def Info: images/39.png  used on input line 239.
-(pdftex.def)             Requested size: 455.24408pt x 329.44516pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 239--240
- [][] 
- []
-
-[24 <./images/37.png (PNG copy)> <./images/38.png (PNG copy)>]
-<images/40.png, id=134, 511.9125pt x 584.1825pt>
-File: images/40.png Graphic file (type png)
-<use images/40.png>
-Package pdftex.def Info: images/40.png  used on input line 244.
-(pdftex.def)             Requested size: 455.24408pt x 519.51074pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 244--245
- [][] 
- []
-
-[25 <./images/39.png>]
-<images/41.png, id=140, 559.08875pt x 433.62pt>
-File: images/41.png Graphic file (type png)
-<use images/41.png>
-Package pdftex.def Info: images/41.png  used on input line 249.
-(pdftex.def)             Requested size: 455.24408pt x 353.08951pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 249--250
- [][] 
- []
-
-[26 <./images/40.png>]
-<images/42.png, id=145, 556.0775pt x 425.59pt>
-File: images/42.png Graphic file (type png)
-<use images/42.png>
-Package pdftex.def Info: images/42.png  used on input line 254.
-(pdftex.def)             Requested size: 455.24408pt x 348.42107pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 254--255
- [][] 
- []
-
-[27 <./images/41.png>]
-<images/43.png, id=150, 593.21625pt x 552.0625pt>
-File: images/43.png Graphic file (type png)
-<use images/43.png>
-Package pdftex.def Info: images/43.png  used on input line 259.
-(pdftex.def)             Requested size: 455.24408pt x 423.67424pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 259--260
- [][] 
- []
-
-[28 <./images/42.png>]
-<images/44.png, id=155, 563.10374pt x 538.01pt>
-File: images/44.png Graphic file (type png)
-<use images/44.png>
-Package pdftex.def Info: images/44.png  used on input line 264.
-(pdftex.def)             Requested size: 455.24408pt x 434.95657pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 264--265
- [][] 
- []
-
-[29 <./images/43.png>]
-<images/45.png, id=160, 640.3925pt x 483.8075pt>
-File: images/45.png Graphic file (type png)
-<use images/45.png>
-Package pdftex.def Info: images/45.png  used on input line 269.
-(pdftex.def)             Requested size: 455.24408pt x 343.9339pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 269--270
- [][] 
- []
-
-[30 <./images/44.png>]
-<images/46.png, id=165, 796.9775pt x 312.16624pt>
-File: images/46.png Graphic file (type png)
-<use images/46.png>
-Package pdftex.def Info: images/46.png  used on input line 274.
-(pdftex.def)             Requested size: 455.24408pt x 178.3129pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 274--275
- [][] 
- []
-
-<images/47.png, id=166, 541.02126pt x 421.575pt>
-File: images/47.png Graphic file (type png)
-<use images/47.png>
-Package pdftex.def Info: images/47.png  used on input line 279.
-(pdftex.def)             Requested size: 455.24408pt x 354.74455pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 279--280
- [][] 
- []
-
-[31 <./images/45.png> <./images/46.png>]
-<images/48.png, id=173, 586.19pt x 562.1pt>
-File: images/48.png Graphic file (type png)
-<use images/48.png>
-Package pdftex.def Info: images/48.png  used on input line 284.
-(pdftex.def)             Requested size: 455.24408pt x 436.53217pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 284--285
- [][] 
- []
-
-[32 <./images/47.png>]
-<images/49.png, id=178, 584.1825pt x 551.05875pt>
-File: images/49.png Graphic file (type png)
-<use images/49.png>
-Package pdftex.def Info: images/49.png  used on input line 289.
-(pdftex.def)             Requested size: 455.24408pt x 429.4457pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 289--290
- [][] 
- []
-
-[33 <./images/48.png>]
-<images/50.png, id=183, 285.31593pt x 130.98938pt>
-File: images/50.png Graphic file (type png)
-<use images/50.png>
-Package pdftex.def Info: images/50.png  used on input line 294.
-(pdftex.def)             Requested size: 455.24408pt x 209.00563pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 294--295
- [][] 
- []
-
-[34 <./images/49.png>]
-<images/51.png, id=188, 284.56313pt x 130.98938pt>
-File: images/51.png Graphic file (type png)
-<use images/51.png>
-Package pdftex.def Info: images/51.png  used on input line 299.
-(pdftex.def)             Requested size: 455.24408pt x 209.57927pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 299--300
- [][] 
- []
-
-<images/52.png, id=189, 286.06876pt x 130.98938pt>
-File: images/52.png Graphic file (type png)
-<use images/52.png>
-Package pdftex.def Info: images/52.png  used on input line 304.
-(pdftex.def)             Requested size: 455.24408pt x 208.45598pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 304--305
- [][] 
- []
-
-[35 <./images/50.png> <./images/51.png>]
-<images/53.png, id=193, 285.31593pt x 213.04594pt>
-File: images/53.png Graphic file (type png)
-<use images/53.png>
-Package pdftex.def Info: images/53.png  used on input line 309.
-(pdftex.def)             Requested size: 455.24408pt x 339.93446pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 309--310
- [][] 
- []
-
-[36 <./images/52.png>]
-<images/54.png, id=197, 285.31593pt x 313.17pt>
-File: images/54.png Graphic file (type png)
-<use images/54.png>
-Package pdftex.def Info: images/54.png  used on input line 314.
-(pdftex.def)             Requested size: 455.24408pt x 499.69165pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 314--315
- [][] 
- []
-
-[37 <./images/53.png>]
-<images/55.png, id=202, 288.3272pt x 212.29312pt>
-File: images/55.png Graphic file (type png)
-<use images/55.png>
-Package pdftex.def Info: images/55.png  used on input line 319.
-(pdftex.def)             Requested size: 455.24408pt x 335.2089pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 319--320
- [][] 
- []
-
-[38 <./images/54.png>]
-<images/56.png, id=206, 286.06876pt x 211.54031pt>
-File: images/56.png Graphic file (type png)
-<use images/56.png>
-Package pdftex.def Info: images/56.png  used on input line 324.
-(pdftex.def)             Requested size: 455.24408pt x 336.64442pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 324--325
- [][] 
- []
-
-[39 <./images/55.png>]
-<images/57.png, id=210, 283.81032pt x 261.22594pt>
-File: images/57.png Graphic file (type png)
-<use images/57.png>
-Package pdftex.def Info: images/57.png  used on input line 329.
-(pdftex.def)             Requested size: 455.24408pt x 419.05818pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 329--330
- [][] 
- []
-
-[40 <./images/56.png>]
-<images/58.png, id=214, 285.31593pt x 261.22594pt>
-File: images/58.png Graphic file (type png)
-<use images/58.png>
-Package pdftex.def Info: images/58.png  used on input line 334.
-(pdftex.def)             Requested size: 455.24408pt x 416.81009pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 334--335
- [][] 
- []
-
-[41 <./images/57.png>]
-<images/59.png, id=218, 286.06876pt x 211.54031pt>
-File: images/59.png Graphic file (type png)
-<use images/59.png>
-Package pdftex.def Info: images/59.png  used on input line 339.
-(pdftex.def)             Requested size: 455.24408pt x 336.64442pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 339--340
- [][] 
- []
-
-[42 <./images/58.png>]
-<images/60.png, id=222, 309.40594pt x 212.29312pt>
-File: images/60.png Graphic file (type png)
-<use images/60.png>
-Package pdftex.def Info: images/60.png  used on input line 344.
-(pdftex.def)             Requested size: 455.24408pt x 312.3846pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 344--345
- [][] 
- []
-
-[43 <./images/59.png>]
-<images/61.png, id=227, 309.40594pt x 130.98938pt>
-File: images/61.png Graphic file (type png)
-<use images/61.png>
-Package pdftex.def Info: images/61.png  used on input line 349.
-(pdftex.def)             Requested size: 455.24408pt x 192.74792pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 349--350
- [][] 
- []
-
-<images/62.png, id=228, 311.66437pt x 213.04594pt>
-File: images/62.png Graphic file (type png)
-<use images/62.png>
-Package pdftex.def Info: images/62.png  used on input line 354.
-(pdftex.def)             Requested size: 455.24408pt x 311.20052pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 354--355
- [][] 
- []
-
-[44 <./images/60.png> <./images/61.png>]
-<images/63.png, id=232, 291.33844pt x 132.495pt>
-File: images/63.png Graphic file (type png)
-<use images/63.png>
-Package pdftex.def Info: images/63.png  used on input line 359.
-(pdftex.def)             Requested size: 455.24408pt x 207.05322pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 359--360
- [][] 
- []
-
-[45 <./images/62.png> <./images/63.png>] [46] [47]
-(plantillaEjemploSimplificada.aux
+[4 <./images/3.png> <./images/4.png> <./images/5.png>] [5 <./images/6.png> <./i
+mages/7.png>]
+
+! LaTeX Error: File `8' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.71 	\includegraphics[width=16cm]{8}
+                                     
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `9' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.75 	\includegraphics[width=16cm]{9}
+                                     
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `10' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.79 	\includegraphics[width=16cm]{10}
+                                      
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `11' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.83 	\includegraphics[width=16cm]{11}
+                                      
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `12' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.87 	\includegraphics[width=16cm]{12}
+                                      
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `13' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 	\includegraphics[width=16cm]{13}
+                                      
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `14' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.95 	\includegraphics[width=16cm]{14}
+                                      
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `15' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.99 	\includegraphics[width=16cm]{15}
+                                      
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `16' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.103 	\includegraphics[width=16cm]{16}
+                                       
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `17' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.107 	\includegraphics[width=16cm]{17}
+                                       
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `18' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.111 	\includegraphics[width=16cm]{18}
+                                       
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[6]
+
+! LaTeX Error: File `19' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.117 	\includegraphics[width=16cm]{19}
+                                       
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `20' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.121 	\includegraphics[width=16cm]{20}
+                                       
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `21' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.125 	\includegraphics[width=16cm]{21}
+                                       
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `22' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.129 	\includegraphics[width=16cm]{22}
+                                       
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `23' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.133 	\includegraphics[width=16cm]{23}
+                                       
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `24' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.137 	\includegraphics[width=16cm]{24}
+                                       
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `25' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.141 	\includegraphics[width=16cm]{25}
+                                       
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `26' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.145 	\includegraphics[width=16cm]{26}
+                                       
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `27' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.149 	\includegraphics[width=16cm]{27}
+                                       
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `28' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.153 	\includegraphics[width=16cm]{28}
+                                       
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `29' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.157 	\includegraphics[width=16cm]{29}
+                                       
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `30' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.161 	\includegraphics[width=16cm]{30}
+                                       
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[7]
+
+! LaTeX Error: File `31' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.167 	\includegraphics[width=16cm]{31}
+                                       
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `32' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.171 	\includegraphics[width=16cm]{32}
+                                       
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `33' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.175 	\includegraphics[width=16cm]{33}
+                                       
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `34' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.179 	\includegraphics[width=16cm]{34}
+                                       
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `35' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.183 	\includegraphics[width=16cm]{35}
+                                       
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `36' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.187 	\includegraphics[width=16cm]{36}
+                                       
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `37' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.191 	\includegraphics[width=16cm]{37}
+                                       
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[8] [9] [10] (plantillaEjemploSimplificada.aux
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
 ) ) 
 Here is how much of TeX's memory you used:
- 8072 strings out of 492945
- 127079 string characters out of 3126252
- 451764 words of memory out of 3000000
- 11767 multiletter control sequences out of 15000+200000
+ 7828 strings out of 492945
+ 122788 string characters out of 3126252
+ 447764 words of memory out of 3000000
+ 11539 multiletter control sequences out of 15000+200000
  19894 words of font info for 55 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 51i,11n,58p,9137b,545s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,11n,58p,9137b,503s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\scabe\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600
 \ecti1095.pk> <C:\Users\scabe\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen
 /ec/dpi600\ecsx1200.pk> <C:\Users\scabe\AppData\Local\MiKTeX\2.9\fonts/pk/ljfou
@@ -1300,9 +1051,9 @@ sers\scabe\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074
 .pk> <C:\Users\scabe\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi60
 0\eccc1095.pk> <C:\Users\scabe\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappe
 n/ec/dpi600\ecxc1095.pk>
-Output written on plantillaEjemploSimplificada.pdf (47 pages, 1008045 bytes).
+Output written on plantillaEjemploSimplificada.pdf (10 pages, 171818 bytes).
 PDF statistics:
- 584 PDF objects out of 1000 (max. 8388607)
+ 351 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 321 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 

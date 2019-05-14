@@ -1,67 +1,7 @@
 \babel@toc {spanish}{}
-\contentsline {section}{\numberline {1}Modelo conceptual}{4}% 
-\contentsline {section}{\numberline {2}Diagramas de secuencia del sistema}{5}% 
-\contentsline {subsection}{\numberline {2.1}Alta empleado}{5}% 
-\contentsline {subsection}{\numberline {2.2}Baja empleado}{5}% 
-\contentsline {subsection}{\numberline {2.3}Modificar datos personales empleado}{6}% 
-\contentsline {subsection}{\numberline {2.4}Cambiar disponibilidad}{6}% 
-\contentsline {subsection}{\numberline {2.5}Asignar ruta de transporte}{7}% 
-\contentsline {subsection}{\numberline {2.6}Consultar estado conductor}{7}% 
-\contentsline {subsection}{\numberline {2.7}Consultar sucursal}{8}% 
-\contentsline {subsection}{\numberline {2.8}Modificar sucursal}{9}% 
-\contentsline {subsection}{\numberline {2.9}Baja sucursal}{10}% 
-\contentsline {subsection}{\numberline {2.10}Alta sucursal}{11}% 
-\contentsline {subsection}{\numberline {2.11}Alta oficina}{12}% 
-\contentsline {subsection}{\numberline {2.12}Alta almac\IeC {\'e}n}{13}% 
-\contentsline {subsection}{\numberline {2.13}Consultar furgoneta}{14}% 
-\contentsline {subsection}{\numberline {2.14}Alta furgoneta}{14}% 
-\contentsline {subsection}{\numberline {2.15}Baja furgoneta}{14}% 
-\contentsline {subsection}{\numberline {2.16}Modificar furgoneta}{15}% 
-\contentsline {subsection}{\numberline {2.17}Establecer disponibilidad de furgoneta}{15}% 
-\contentsline {subsection}{\numberline {2.18}Consultar estado de furgoneta}{16}% 
-\contentsline {subsection}{\numberline {2.19}Asignar ruta de transporte a furgoneta}{16}% 
-\contentsline {subsection}{\numberline {2.20}Consultar estado de paquete}{17}% 
-\contentsline {subsection}{\numberline {2.21}Depositar paquete a enviar}{17}% 
-\contentsline {subsection}{\numberline {2.22}Descargar paquetes transportados}{18}% 
-\contentsline {subsection}{\numberline {2.23}Cargar paquetes a transportar}{18}% 
-\contentsline {subsection}{\numberline {2.24}Retirar paquetes a enviar}{19}% 
-\contentsline {subsection}{\numberline {2.25}Depositar paquetes recogido a cliente}{19}% 
-\contentsline {subsection}{\numberline {2.26}Asignar ubicaci\IeC {\'o}n a paquete}{19}% 
-\contentsline {subsection}{\numberline {2.27}Cambiar ubicaci\IeC {\'o}n a paquete}{20}% 
-\contentsline {subsection}{\numberline {2.28}Consultar ubicaci\IeC {\'o}n a paquete}{20}% 
-\contentsline {subsection}{\numberline {2.29}Crear ruta}{20}% 
-\contentsline {subsection}{\numberline {2.30}A\IeC {\~n}adir parada}{21}% 
-\contentsline {subsection}{\numberline {2.31}Cancelar ruta}{21}% 
-\contentsline {subsection}{\numberline {2.32}Modificar ruta}{21}% 
-\contentsline {subsection}{\numberline {2.33}Incluir paquete en ruta}{22}% 
-\contentsline {subsection}{\numberline {2.34}Calcular ruta m\IeC {\'a}s \IeC {\'o}ptima}{22}% 
-\contentsline {subsection}{\numberline {2.35}Registrar incidencia}{23}% 
-\contentsline {subsection}{\numberline {2.36}Sustituir furgoneta}{23}% 
-\contentsline {subsection}{\numberline {2.37}Registrar etapa completada}{24}% 
-\contentsline {subsection}{\numberline {2.38}Registrar conclusi\IeC {\'o}n ruta}{24}% 
-\contentsline {subsection}{\numberline {2.39}Pedir presupuesto env\IeC {\'\i }o}{25}% 
-\contentsline {subsection}{\numberline {2.40}Enviar paquete}{26}% 
-\contentsline {subsection}{\numberline {2.41}Elegir modo de entrega}{27}% 
-\contentsline {subsection}{\numberline {2.42}Pagar env\IeC {\'\i }o}{28}% 
-\contentsline {subsection}{\numberline {2.43}Pagar con tarjeta}{29}% 
-\contentsline {subsection}{\numberline {2.44}Pagar en met\IeC {\'a}lico}{30}% 
-\contentsline {subsection}{\numberline {2.45}Pedir datos estado env\IeC {\'\i }o}{31}% 
-\contentsline {subsection}{\numberline {2.46}Recoger paquete para enviar}{31}% 
-\contentsline {subsection}{\numberline {2.47}Recibir paquete}{32}% 
-\contentsline {subsection}{\numberline {2.48}En oficina}{33}% 
-\contentsline {subsection}{\numberline {2.49}En domicilio de entrega}{34}% 
-\contentsline {subsection}{\numberline {2.50}Localizar servicios cercanos}{35}% 
-\contentsline {subsection}{\numberline {2.51}Pedir presupuesto Web de env\IeC {\'\i }o}{35}% 
-\contentsline {subsection}{\numberline {2.52}Seguimiento Web de estado de env\IeC {\'\i }o}{36}% 
-\contentsline {subsection}{\numberline {2.53}Registrarse}{37}% 
-\contentsline {subsection}{\numberline {2.54}Env\IeC {\'\i }o Web de paquete}{38}% 
-\contentsline {subsection}{\numberline {2.55}Elegir modo de recogida}{39}% 
-\contentsline {subsection}{\numberline {2.56}Pagar env\IeC {\'\i }o}{40}% 
-\contentsline {subsection}{\numberline {2.57}Pagar con tarjeta}{41}% 
-\contentsline {subsection}{\numberline {2.58}PayPal}{42}% 
-\contentsline {subsection}{\numberline {2.59}Elegir modo de entrega}{43}% 
-\contentsline {subsection}{\numberline {2.60}Darse de baja}{44}% 
-\contentsline {subsection}{\numberline {2.61}Identificarse}{44}% 
-\contentsline {subsection}{\numberline {2.62}Valorar env\IeC {\'\i }o}{45}% 
-\contentsline {subsection}{\numberline {2.63}Consultar valoraciones de clientes registrados}{45}% 
-\contentsline {section}{\numberline {3}Glosario de t\IeC {\'e}rminos}{46}% 
+\contentsline {section}{\numberline {1}Contratos}{3}% 
+\contentsline {subsection}{\numberline {1.1}Gesti\IeC {\'o}n de flota}{3}% 
+\contentsline {subsection}{\numberline {1.2}Gesti\IeC {\'o}n de Almac\IeC {\'e}n}{6}% 
+\contentsline {subsection}{\numberline {1.3}Gesti\IeC {\'o}n transporte}{7}% 
+\contentsline {subsection}{\numberline {1.4}Atenci\IeC {\'o}n a clientes}{8}% 
+\contentsline {section}{\numberline {2}Glosario de t\IeC {\'e}rminos}{9}% 
