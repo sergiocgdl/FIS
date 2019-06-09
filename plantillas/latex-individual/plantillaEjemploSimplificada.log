@@ -1,58 +1,65 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.15)  20 MAY 2019 22:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2019.3.12)  9 JUN 2019 13:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **plantillaEjemploSimplificada.tex
 (./plantillaEjemploSimplificada.tex
-LaTeX2e <2017-04-15>
-Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
 (./preambuloSimple.tex
 (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrartcl.cls
-Document Class: scrartcl 2017/09/07 v3.24 KOMA-Script document class (article)
+Document Class: scrartcl 2015/10/03 v3.19a KOMA-Script document class (article)
+
 (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty
-Package: scrkbase 2017/09/07 v3.24 KOMA-Script package (KOMA-Script-dependent b
-asics and keyval usage)
+Package: scrkbase 2015/10/03 v3.19a KOMA-Script package (KOMA-Script-dependent 
+basics and keyval usage)
 
 (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
-Package: scrbase 2017/09/07 v3.24 KOMA-Script package (KOMA-Script-independent 
-basics and keyval usage)
+Package: scrbase 2015/10/03 v3.19a KOMA-Script package (KOMA-Script-independent
+ basics and keyval usage)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
 (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
-Package: scrlfile 2017/09/07 v3.24 KOMA-Script package (loading files)
-)))
-(/usr/share/texlive/texmf-dist/tex/latex/koma-script/tocbasic.sty
-Package: tocbasic 2017/09/07 v3.24 KOMA-Script package (handling toc-files)
-\scr@dte@tocline@numberwidth=\skip41
-\scr@dte@tocline@numbox=\box26
+Package: scrlfile 2015/10/03 v3.19a KOMA-Script package (loading files)
+
+Package scrlfile, 2015/10/03 v3.19a KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+))) (/usr/share/texlive/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2015/10/03 v3.19a KOMA-Script package (handling toc-files)
 )
 Package tocbasic Info: omitting babel extension for `toc'
 (tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `toc' on input line 133.
+(tocbasic)             for `toc' on input line 123.
 Package tocbasic Info: omitting babel extension for `lof'
 (tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `lof' on input line 135.
+(tocbasic)             for `lof' on input line 124.
 Package tocbasic Info: omitting babel extension for `lot'
 (tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `lot' on input line 136.
+(tocbasic)             for `lot' on input line 125.
 Class scrartcl Info: File `scrsize11pt.clo' used to setup font sizes on input l
-ine 2080.
+ine 2033.
 
 (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
-File: scrsize11pt.clo 2017/09/07 v3.24 KOMA-Script font size class option (11pt
-)
+File: scrsize11pt.clo 2015/10/03 v3.19a KOMA-Script font size class option (11p
+t)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/koma-script/typearea.sty
-Package: typearea 2017/09/07 v3.24 KOMA-Script package (type area)
-\ta@bcor=\skip42
+Package: typearea 2015/10/03 v3.19a KOMA-Script package (type area)
+
+Package typearea, 2015/10/03 v3.19a KOMA-Script package (type area)
+                  Copyright (C) Frank Neukam, 1992-1994
+                  Copyright (C) Markus Kohm, 1994-
+
+\ta@bcor=\skip41
 \ta@div=\count79
-\ta@hblk=\skip43
-\ta@vblk=\skip44
-\ta@temp=\skip45
-\footheight=\skip46
+\ta@hblk=\skip42
+\ta@vblk=\skip43
+\ta@temp=\skip44
+\footheight=\skip45
 Package typearea Info: These are the values describing the layout:
 (typearea)             DIV  = 10
 (typearea)             BCOR = 0.0pt
@@ -69,7 +76,7 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              \topskip        = 11.0pt
 (typearea)              \footskip       = 47.6pt
 (typearea)              \baselineskip   = 13.6pt
-(typearea)              on input line 1686.
+(typearea)              on input line 1509.
 )
 \c@part=\count80
 \c@section=\count81
@@ -77,26 +84,18 @@ Package typearea Info: These are the values describing the layout:
 \c@subsubsection=\count83
 \c@paragraph=\count84
 \c@subparagraph=\count85
-\scr@dte@part@maxnumwidth=\skip47
-\scr@dte@section@maxnumwidth=\skip48
-\scr@dte@subsection@maxnumwidth=\skip49
-\scr@dte@subsubsection@maxnumwidth=\skip50
-\scr@dte@paragraph@maxnumwidth=\skip51
-\scr@dte@subparagraph@maxnumwidth=\skip52
-LaTeX Info: Redefining \textsubscript on input line 4161.
-\abovecaptionskip=\skip53
-\belowcaptionskip=\skip54
-\c@pti@nb@sid@b@x=\box27
+LaTeX Info: Redefining \textsubscript on input line 3906.
+\abovecaptionskip=\skip46
+\belowcaptionskip=\skip47
+\c@pti@nb@sid@b@x=\box26
 \c@figure=\count86
 \c@table=\count87
-Class scrartcl Info: Redefining `\numberline' on input line 5319.
 \bibindent=\dimen102
-)
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
-File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
@@ -105,14 +104,14 @@ Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@posthook=\toks16
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
-File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
+File: utf8.def 2015/12/03 v1.1r UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
-File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+File: t1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -324,17 +323,11 @@ File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+0219 (decimal 537)
    defining Unicode char U+021A (decimal 538)
    defining Unicode char U+021B (decimal 539)
-   defining Unicode char U+0232 (decimal 562)
-   defining Unicode char U+0233 (decimal 563)
-   defining Unicode char U+1E02 (decimal 7682)
-   defining Unicode char U+1E03 (decimal 7683)
+   defining Unicode char U+01E02 (decimal 7682)
+   defining Unicode char U+01E03 (decimal 7683)
    defining Unicode char U+200C (decimal 8204)
-   defining Unicode char U+2010 (decimal 8208)
-   defining Unicode char U+2011 (decimal 8209)
-   defining Unicode char U+2012 (decimal 8210)
    defining Unicode char U+2013 (decimal 8211)
    defining Unicode char U+2014 (decimal 8212)
-   defining Unicode char U+2015 (decimal 8213)
    defining Unicode char U+2018 (decimal 8216)
    defining Unicode char U+2019 (decimal 8217)
    defining Unicode char U+201A (decimal 8218)
@@ -346,14 +339,12 @@ File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+2039 (decimal 8249)
    defining Unicode char U+203A (decimal 8250)
    defining Unicode char U+2423 (decimal 9251)
-   defining Unicode char U+1E20 (decimal 7712)
-   defining Unicode char U+1E21 (decimal 7713)
 )
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
-File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+File: ot1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -394,7 +385,7 @@ Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
-File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+File: omsenc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
    defining Unicode char U+00B7 (decimal 183)
@@ -419,7 +410,7 @@ Now handling font encoding U ...
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
 \lst@mode=\count88
-\lst@gtempboxa=\box28
+\lst@gtempboxa=\box27
 \lst@token=\toks17
 \lst@length=\count89
 \lst@currlwidth=\dimen103
@@ -435,7 +426,7 @@ Now handling font encoding U ...
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
 \c@lstnumber=\count94
 \lst@skipnumbers=\count95
-\lst@framebox=\box29
+\lst@framebox=\box28
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2015/06/04 1.6 listings configuration
@@ -443,25 +434,33 @@ File: listings.cfg 2015/06/04 1.6 listings configuration
 Package: listings 2015/06/04 1.6 (Carsten Heinz)
 
 (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
-Package xcolor Info: Model `RGB' extended on input line 1364.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count96
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
@@ -473,36 +472,30 @@ File: lstlang1.sty 2015/06/04 1.6 listings language file
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2018/02/14 3.18 The Babel package
+Package: babel 2016/02/24 3.9q The Babel package
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
-File: switch.def 2018/02/14 3.18 Babel switching mechanism
-)
 (/usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
-Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+Language: spanish.ldf 2016/01/15 v5.0o Spanish support from the babel system
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2018/02/14 3.18 Babel common definitions
-\babel@savecnt=\count96
+File: babel.def 2016/02/24 3.9q Babel common definitions
+\babel@savecnt=\count97
 \U@D=\dimen107
-
-(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
-\bbl@dirlevel=\count97
 )
 \es@quottoks=\toks18
 \es@quotdepth=\count98
-Package babel Info: Making " an active character on input line 561.
-Package babel Info: Making . an active character on input line 662.
-Package babel Info: Making < an active character on input line 707.
-Package babel Info: Making > an active character on input line 707.
+Package babel Info: Making " an active character on input line 533.
+Package babel Info: Making . an active character on input line 634.
+Package babel Info: Making < an active character on input line 679.
+Package babel Info: Making > an active character on input line 679.
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2017/09/02 v2.17a AMS math features
-\@mathmargin=\skip55
+Package: amsmath 2016/03/03 v2.15a AMS math features
+\@mathmargin=\skip48
 
 For additional information on amsmath, use the `?' option.
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -518,23 +511,23 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen109
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
-Package: amsopn 2016/03/08 v2.02 operator names
+Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count99
-LaTeX Info: Redefining \frac on input line 213.
+LaTeX Info: Redefining \frac on input line 199.
 \uproot@=\count100
 \leftroot@=\count101
-LaTeX Info: Redefining \overline on input line 375.
+LaTeX Info: Redefining \overline on input line 297.
 \classnum@=\count102
 \DOTSCASE@=\count103
-LaTeX Info: Redefining \ldots on input line 472.
-LaTeX Info: Redefining \dots on input line 475.
-LaTeX Info: Redefining \cdots on input line 596.
-\Mathstrutbox@=\box30
-\strutbox@=\box31
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
 \big@size=\dimen110
-LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
 \macc@depth=\count104
 \c@MaxMatrixCols=\count105
 \dotsspace@=\muskip11
@@ -552,11 +545,11 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 \totwidth@=\dimen115
 \lineht@=\dimen116
 \@envbody=\toks22
-\multlinegap=\skip56
-\multlinetaggap=\skip57
+\multlinegap=\skip49
+\multlinetaggap=\skip50
 \mathdisplay@stack=\toks23
-LaTeX Info: Redefining \[ on input line 2817.
-LaTeX Info: Redefining \] on input line 2818.
+LaTeX Info: Redefining \[ on input line 2735.
+LaTeX Info: Redefining \] on input line 2736.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
@@ -566,30 +559,30 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
-Package: amsthm 2017/10/31 v2.20.4
+Package: amsthm 2015/03/04 v2.20.2
 \thm@style=\toks24
 \thm@bodyfont=\toks25
 \thm@headfont=\toks26
 \thm@notefont=\toks27
 \thm@headpunct=\toks28
-\thm@preskip=\skip58
-\thm@postskip=\skip59
-\thm@headsep=\skip60
+\thm@preskip=\skip51
+\thm@postskip=\skip52
+\thm@headsep=\skip53
 \dth@everypar=\toks29
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
-Package graphics Info: Driver file: pdftex.def on input line 99.
+Package graphics Info: Driver file: pdftex.def on input line 95.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 \Gin@req@height=\dimen117
 \Gin@req@width=\dimen118
 )
@@ -597,23 +590,19 @@ Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count111
 \float@exts=\toks30
-\float@box=\box32
+\float@box=\box31
 \@float@everytoks=\toks31
-\@floatcapt=\box33
+\@floatcapt=\box32
 )
 (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
-Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
-\multirow@colwidth=\skip61
-\multirow@cntb=\count112
-\multirow@dima=\skip62
 \bigstrutjot=\dimen119
 )
 (/usr/share/texlive/texmf-dist/tex/latex/threeparttable/threeparttable.sty
 Package: threeparttable 2003/06/13  v 3.0
-\@tempboxb=\box34
+\@tempboxb=\box33
 )
 (/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
-Package: booktabs 2016/04/27 v1.618033 publication quality tables
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \heavyrulewidth=\dimen120
 \lightrulewidth=\dimen121
 \cmidrulewidth=\dimen122
@@ -624,44 +613,55 @@ Package: booktabs 2016/04/27 v1.618033 publication quality tables
 \cmidrulesep=\dimen127
 \cmidrulekern=\dimen128
 \defaultaddspace=\dimen129
-\@cmidla=\count113
-\@cmidlb=\count114
+\@cmidla=\count112
+\@cmidlb=\count113
 \@aboverulesep=\dimen130
 \@belowrulesep=\dimen131
-\@thisruleclass=\count115
-\@lastruleclass=\count116
+\@thisruleclass=\count114
+\@lastruleclass=\count115
 \@thisrulewidth=\dimen132
 )
 
 Class scrartcl Warning: Usage of package `fancyhdr' together
 (scrartcl)              with a KOMA-Script class is not recommended.
 (scrartcl)              I'd suggest to use 
-(scrartcl)              package `scrlayer' or `scrlayer-scrpage', because
-(scrartcl)              they support KOMA-Script classes.
-(scrartcl)              With `fancyhdr' several features of class `scrartcl'
-(scrartcl)              like options `headsepline', `footsepline' or command
-(scrartcl)              `\MakeMarkcase' and the commands `\setkomafont' and
-(scrartcl)              `\addtokomafont' for the page style elements need
-(scrartcl)              explicite user intervention to work.
+(scrartcl)              package `scrlayer-scrpage'.
 (scrartcl)              Nevertheless, using requested
 (scrartcl)              package `fancyhdr' on input line 53.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
-s
-\f@nch@headwidth=\skip63
-\f@nch@O@elh=\skip64
-\f@nch@O@erh=\skip65
-\f@nch@O@olh=\skip66
-\f@nch@O@orh=\skip67
-\f@nch@O@elf=\skip68
-\f@nch@O@erf=\skip69
-\f@nch@O@olf=\skip70
-\f@nch@O@orf=\skip71
+\fancy@headwidth=\skip54
+\f@ncyO@elh=\skip55
+\f@ncyO@erh=\skip56
+\f@ncyO@olh=\skip57
+\f@ncyO@orh=\skip58
+\f@ncyO@elf=\skip59
+\f@ncyO@erf=\skip60
+\f@ncyO@olf=\skip61
+\f@ncyO@orf=\skip62
 ))
 (./plantillaEjemploSimplificada.aux
-LaTeX Info: Redefining \. on input line 7.
-LaTeX Info: Redefining \% on input line 7.
+! Undefined control sequence.
+l.7 \babel@aux
+              {spanish}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 \babel@aux{s
+                panish}{}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 )
 \openout1 = `plantillaEjemploSimplificada.aux'.
 
@@ -677,79 +677,74 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
 LaTeX Font Info:    ... okay on input line 27.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
 LaTeX Font Info:    ... okay on input line 27.
-\c@lstlisting=\count117
-
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+\c@lstlisting=\count116
+ (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count118
+\scratchcounter=\count117
 \scratchdimen=\dimen133
-\scratchbox=\box35
-\nofMPsegments=\count119
-\nofMParguments=\count120
+\scratchbox=\box34
+\nofMPsegments=\count118
+\nofMParguments=\count119
 \everyMPshowfont=\toks32
-\MPscratchCnt=\count121
+\MPscratchCnt=\count120
 \MPscratchDim=\dimen134
-\MPnumerator=\count122
-\makeMPintoPDFobject=\count123
+\MPnumerator=\count121
+\makeMPintoPDFobject=\count122
 \everyMPtoPDFconversion=\toks33
-) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)))
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+LaTeX Info: Redefining \. on input line 27.
+LaTeX Info: Redefining \% on input line 27.
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
-)
-
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-38.
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
 Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
+(grfext)             \AppendGraphicsExtensions on input line 452.
 
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \. on input line 27.
-LaTeX Info: Redefining \% on input line 27.
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Try loading font information for T1+cmss on input line 30.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
@@ -764,414 +759,305 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 30.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+) [2
+
+]
+(./plantillaEjemploSimplificada.toc
+! Undefined control sequence.
+l.1 \babel@toc
+               {spanish}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./plantillaEjemploSimplif
-icada.toc
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-Package tocbasic Info: Using my definition of `\numberline' on input line 2.
-Package tocbasic Info: Using my definition of `\numberline' on input line 3.
-Package tocbasic Info: Using my definition of `\numberline' on input line 4.
-Package tocbasic Info: Using my definition of `\numberline' on input line 5.
-Package tocbasic Info: Using my definition of `\numberline' on input line 6.
-Package tocbasic Info: Using my definition of `\numberline' on input line 7.
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...line {section}{\numberline {1}Contratos}{3}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...line {section}{\numberline {1}Contratos}{3}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 )
 \tf@toc=\write3
 \openout3 = `plantillaEjemploSimplificada.toc'.
 
+ [3]
 
-[2]
-<images/1.png, id=17, 450.9347pt x 202.50656pt>
-File: images/1.png Graphic file (type png)
-<use images/1.png>
-Package pdftex.def Info: images/1.png  used on input line 41.
-(pdftex.def)             Requested size: 455.24408pt x 204.45273pt.
+! LaTeX Error: File `1' not found.
 
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 41--42
- [][] 
- []
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 	\includegraphics[width=16cm]{1}
+                                     
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-<images/2.png, id=19, 453.19313pt x 193.47281pt>
-File: images/2.png Graphic file (type png)
-<use images/2.png>
-Package pdftex.def Info: images/2.png  used on input line 45.
-(pdftex.def)             Requested size: 455.24408pt x 194.34912pt.
 
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 45--46
- [][] 
- []
+! LaTeX Error: File `2' not found.
 
-<images/3.png, id=20, 450.18187pt x 172.39406pt>
-File: images/3.png Graphic file (type png)
-<use images/3.png>
-Package pdftex.def Info: images/3.png  used on input line 49.
-(pdftex.def)             Requested size: 455.24408pt x 174.34021pt.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 	\includegraphics[width=16cm]{2}
+                                     
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 49--50
- [][] 
- []
 
-<images/4.png, id=21, 451.6875pt x 168.63pt>
-File: images/4.png Graphic file (type png)
-<use images/4.png>
-Package pdftex.def Info: images/4.png  used on input line 53.
-(pdftex.def)             Requested size: 455.24408pt x 169.96758pt.
+! LaTeX Error: File `3' not found.
 
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 53--54
- [][] 
- []
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 	\includegraphics[width=16cm]{3}
+                                     
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-[3 <./images/1.png> <./images/2.png>]
-<images/5.png, id=28, 449.42906pt x 165.61874pt>
+
+! LaTeX Error: File `4' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.53 	\includegraphics[width=16cm]{4}
+                                     
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<images/5.png, id=20, 574.39594pt x 278.54062pt>
 File: images/5.png Graphic file (type png)
-<use images/5.png>
-Package pdftex.def Info: images/5.png  used on input line 57.
-(pdftex.def)             Requested size: 455.24408pt x 167.76892pt.
+ <use images/5.png>
+Package pdftex.def Info: images/5.png used on input line 57.
+(pdftex.def)             Requested size: 455.24408pt x 220.7672pt.
 
 Overfull \hbox (36.98853pt too wide) in paragraph at lines 57--58
  [][] 
  []
 
-<images/6.png, id=29, 453.19313pt x 173.14688pt>
+<images/6.png, id=21, 770.12718pt x 393.72093pt>
 File: images/6.png Graphic file (type png)
-<use images/6.png>
-Package pdftex.def Info: images/6.png  used on input line 61.
-(pdftex.def)             Requested size: 455.24408pt x 173.93112pt.
+ <use images/6.png>
+Package pdftex.def Info: images/6.png used on input line 61.
+(pdftex.def)             Requested size: 455.24408pt x 232.7379pt.
 
 Overfull \hbox (36.98853pt too wide) in paragraph at lines 61--62
  [][] 
  []
 
-<images/7.png, id=30, 450.18187pt x 167.12437pt>
+<images/7.png, id=22, 296.60812pt x 258.21469pt>
 File: images/7.png Graphic file (type png)
-<use images/7.png>
-Package pdftex.def Info: images/7.png  used on input line 65.
-(pdftex.def)             Requested size: 455.24408pt x 169.01102pt.
+ <use images/7.png>
+Package pdftex.def Info: images/7.png used on input line 65.
+(pdftex.def)             Requested size: 455.24408pt x 396.33192pt.
 
 Overfull \hbox (36.98853pt too wide) in paragraph at lines 65--66
  [][] 
  []
 
-[4 <./images/3.png> <./images/4.png> <./images/5.png>] [5 <./images/6.png> <./i
-mages/7.png>]
-<images/8.png, id=42, 598.235pt x 242.9075pt>
+[4 <./images/5.png (PNG copy)>]
+<images/8.png, id=27, 660.96938pt x 305.64188pt>
 File: images/8.png Graphic file (type png)
-<use images/8.png>
-Package pdftex.def Info: images/8.png  used on input line 71.
-(pdftex.def)             Requested size: 455.24408pt x 184.84882pt.
+ <use images/8.png>
+Package pdftex.def Info: images/8.png used on input line 69.
+(pdftex.def)             Requested size: 455.24408pt x 210.52pt.
 
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 71--72
+Overfull \hbox (36.98853pt too wide) in paragraph at lines 69--70
  [][] 
  []
 
-<images/9.png, id=43, 606.265pt x 290.08376pt>
-File: images/9.png Graphic file (type png)
-<use images/9.png>
-Package pdftex.def Info: images/9.png  used on input line 75.
-(pdftex.def)             Requested size: 455.24408pt x 217.82785pt.
+[5 <./images/6.png (PNG copy)>]
 
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 75--76
- [][] 
- []
+! LaTeX Error: File `9' not found.
 
-<images/10.png, id=44, 607.26875pt x 368.37625pt>
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.73 	\includegraphics[width=16cm]{9}
+                                     
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[6 <./images/7.png (PNG copy)>]
+<images/10.png, id=34, 407.27156pt x 333.49594pt>
 File: images/10.png Graphic file (type png)
-<use images/10.png>
-Package pdftex.def Info: images/10.png  used on input line 79.
-(pdftex.def)             Requested size: 455.24408pt x 276.16345pt.
+ <use images/10.png>
+Package pdftex.def Info: images/10.png used on input line 77.
+(pdftex.def)             Requested size: 455.24408pt x 372.79538pt.
 
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 79--80
+Overfull \hbox (36.98853pt too wide) in paragraph at lines 77--78
  [][] 
  []
 
-<images/11.png, id=45, 610.28pt x 297.11pt>
+<images/11.png, id=35, 481.04718pt x 283.0575pt>
 File: images/11.png Graphic file (type png)
-<use images/11.png>
-Package pdftex.def Info: images/11.png  used on input line 83.
-(pdftex.def)             Requested size: 455.24408pt x 221.63963pt.
+ <use images/11.png>
+Package pdftex.def Info: images/11.png used on input line 81.
+(pdftex.def)             Requested size: 455.24408pt x 267.87946pt.
 
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 83--84
+Overfull \hbox (36.98853pt too wide) in paragraph at lines 81--82
  [][] 
  []
 
-[6 <./images/8.png> <./images/9.png>]
-<images/12.png, id=51, 605.26125pt x 349.305pt>
+[7 <./images/8.png (PNG copy)>]
+<images/12.png, id=40, 421.575pt x 341.02406pt>
 File: images/12.png Graphic file (type png)
-<use images/12.png>
-Package pdftex.def Info: images/12.png  used on input line 87.
-(pdftex.def)             Requested size: 455.24408pt x 262.72961pt.
+ <use images/12.png>
+Package pdftex.def Info: images/12.png used on input line 85.
+(pdftex.def)             Requested size: 455.24408pt x 368.26927pt.
 
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 87--88
+Overfull \hbox (36.98853pt too wide) in paragraph at lines 85--86
  [][] 
  []
 
-<images/13.png, id=52, 622.325pt x 540.0175pt>
-File: images/13.png Graphic file (type png)
-<use images/13.png>
-Package pdftex.def Info: images/13.png  used on input line 91.
-(pdftex.def)             Requested size: 455.24408pt x 395.0335pt.
+[8 <./images/10.png (PNG copy)>] [9 <./images/11.png (PNG copy)>] [10 <./images
+/12.png (PNG copy)>]
 
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 91--92
- [][] 
- []
+! LaTeX Error: File `13' not found.
 
-[7 <./images/10.png> <./images/11.png>]
-<images/14.png, id=59, 601.24625pt x 348.30125pt>
-File: images/14.png Graphic file (type png)
-<use images/14.png>
-Package pdftex.def Info: images/14.png  used on input line 95.
-(pdftex.def)             Requested size: 455.24408pt x 263.72849pt.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 	\includegraphics[width=16cm]{13}
+                                      
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 95--96
- [][] 
- []
 
-[8 <./images/12.png>]
-<images/15.png, id=64, 623.32875pt x 344.28625pt>
-File: images/15.png Graphic file (type png)
-<use images/15.png>
-Package pdftex.def Info: images/15.png  used on input line 99.
-(pdftex.def)             Requested size: 455.24408pt x 251.45294pt.
+! LaTeX Error: File `14' not found.
 
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 99--100
- [][] 
- []
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.95 	\includegraphics[width=16cm]{14}
+                                      
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-[9 <./images/13.png>]
-<images/16.jpg, id=69, 18.66501pt x 14.36864pt>
-File: images/16.jpg Graphic file (type jpg)
-<use images/16.jpg>
-Package pdftex.def Info: images/16.jpg  used on input line 103.
-(pdftex.def)             Requested size: 455.24408pt x 350.61787pt.
 
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 103--104
- [][] 
- []
+! LaTeX Error: File `15' not found.
 
-<images/17.jpg, id=70, 20.77051pt x 15.84819pt>
-File: images/17.jpg Graphic file (type jpg)
-<use images/17.jpg>
-Package pdftex.def Info: images/17.jpg  used on input line 107.
-(pdftex.def)             Requested size: 455.24408pt x 347.69986pt.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.99 	\includegraphics[width=16cm]{15}
+                                      
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 107--108
- [][] 
- []
 
-[10 <./images/14.png> <./images/15.png>]
-<images/18.png, id=76, 600.2425pt x 314.17375pt>
-File: images/18.png Graphic file (type png)
-<use images/18.png>
-Package pdftex.def Info: images/18.png  used on input line 111.
-(pdftex.def)             Requested size: 455.24408pt x 238.28554pt.
+! LaTeX Error: File `16' not found.
 
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 111--112
- [][] 
- []
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.103 	\includegraphics[width=16cm]{16}
+                                       
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-[11 <./images/16.jpg>] [12 <./images/17.jpg>] [13 <./images/18.png>]
-<images/19.png, id=88, 604.2575pt x 348.30125pt>
-File: images/19.png Graphic file (type png)
-<use images/19.png>
-Package pdftex.def Info: images/19.png  used on input line 117.
-(pdftex.def)             Requested size: 455.24408pt x 262.41046pt.
 
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 117--118
- [][] 
- []
+! LaTeX Error: File `17' not found.
 
-<images/20.png, id=89, 669.50125pt x 381.425pt>
-File: images/20.png Graphic file (type png)
-<use images/20.png>
-Package pdftex.def Info: images/20.png  used on input line 121.
-(pdftex.def)             Requested size: 455.24408pt x 259.37138pt.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.107 	\includegraphics[width=16cm]{17}
+                                       
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 121--122
- [][] 
- []
 
-<images/21.png, id=90, 729.72626pt x 419.5675pt>
-File: images/21.png Graphic file (type png)
-<use images/21.png>
-Package pdftex.def Info: images/21.png  used on input line 125.
-(pdftex.def)             Requested size: 455.24408pt x 261.74889pt.
+! LaTeX Error: File `18' not found.
 
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 125--126
- [][] 
- []
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.111 	\includegraphics[width=16cm]{18}
+                                       
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-<images/22.png, id=91, 678.535pt x 319.1925pt>
-File: images/22.png Graphic file (type png)
-<use images/22.png>
-Package pdftex.def Info: images/22.png  used on input line 129.
-(pdftex.def)             Requested size: 455.24408pt x 214.15009pt.
+[11]
 
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 129--130
- [][] 
- []
+! LaTeX Error: File `19' not found.
 
-[14 <./images/19.png> <./images/20.png>]
-<images/23.png, id=97, 728.7225pt x 419.5675pt>
-File: images/23.png Graphic file (type png)
-<use images/23.png>
-Package pdftex.def Info: images/23.png  used on input line 133.
-(pdftex.def)             Requested size: 455.24408pt x 262.10739pt.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.117 	\includegraphics[width=16cm]{19}
+                                       
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 133--134
- [][] 
- []
-
-<images/24.png, id=98, 727.71875pt x 394.47375pt>
-File: images/24.png Graphic file (type png)
-<use images/24.png>
-Package pdftex.def Info: images/24.png  used on input line 137.
-(pdftex.def)             Requested size: 455.24408pt x 246.78023pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 137--138
- [][] 
- []
-
-[15 <./images/21.png> <./images/22.png>]
-<images/25.png, id=104, 671.50874pt x 302.12875pt>
-File: images/25.png Graphic file (type png)
-<use images/25.png>
-Package pdftex.def Info: images/25.png  used on input line 141.
-(pdftex.def)             Requested size: 455.24408pt x 204.82707pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 141--142
- [][] 
- []
-
-<images/26.png, id=105, 667.49374pt x 358.33875pt>
-File: images/26.png Graphic file (type png)
-<use images/26.png>
-Package pdftex.def Info: images/26.png  used on input line 145.
-(pdftex.def)             Requested size: 455.24408pt x 244.39981pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 145--146
- [][] 
- []
-
-[16 <./images/23.png> <./images/24.png>]
-<images/27.png, id=111, 729.72626pt x 391.4625pt>
-File: images/27.png Graphic file (type png)
-<use images/27.png>
-Package pdftex.def Info: images/27.png  used on input line 149.
-(pdftex.def)             Requested size: 455.24408pt x 244.21545pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 149--150
- [][] 
- []
-
-<images/28.png, id=112, 660.4675pt x 332.24126pt>
-File: images/28.png Graphic file (type png)
-<use images/28.png>
-Package pdftex.def Info: images/28.png  used on input line 153.
-(pdftex.def)             Requested size: 455.24408pt x 229.0135pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 153--154
- [][] 
- []
-
-[17 <./images/25.png> <./images/26.png>]
-<images/29.png, id=118, 611.28375pt x 411.5375pt>
-File: images/29.png Graphic file (type png)
-<use images/29.png>
-Package pdftex.def Info: images/29.png  used on input line 157.
-(pdftex.def)             Requested size: 455.24408pt x 306.48592pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 157--158
- [][] 
- []
-
-<images/30.png, id=119, 725.71124pt x 417.56pt>
-File: images/30.png Graphic file (type png)
-<use images/30.png>
-Package pdftex.def Info: images/30.png  used on input line 161.
-(pdftex.def)             Requested size: 455.24408pt x 261.9428pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 161--162
- [][] 
- []
-
-[18 <./images/27.png> <./images/28.png>] [19 <./images/29.png> <./images/30.png
->]
-<images/31.png, id=131, 898.35625pt x 396.48125pt>
-File: images/31.png Graphic file (type png)
-<use images/31.png>
-Package pdftex.def Info: images/31.png  used on input line 167.
-(pdftex.def)             Requested size: 455.24408pt x 200.91414pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 167--168
- [][] 
- []
-
-<images/32.png, id=132, 904.37875pt x 566.115pt>
-File: images/32.png Graphic file (type png)
-<use images/32.png>
-Package pdftex.def Info: images/32.png  used on input line 171.
-(pdftex.def)             Requested size: 455.24408pt x 284.96585pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 171--172
- [][] 
- []
-
-<images/34.png, id=133, 900.36375pt x 454.69875pt>
-File: images/34.png Graphic file (type png)
-<use images/34.png>
-Package pdftex.def Info: images/34.png  used on input line 175.
-(pdftex.def)             Requested size: 455.24408pt x 229.90898pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 175--176
- [][] 
- []
-
-<images/35.png, id=134, 898.35625pt x 428.60126pt>
-File: images/35.png Graphic file (type png)
-<use images/35.png>
-Package pdftex.def Info: images/35.png  used on input line 179.
-(pdftex.def)             Requested size: 455.24408pt x 217.19073pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 179--180
- [][] 
- []
-
-[20 <./images/31.png> <./images/32.png>]
-<images/36.png, id=140, 903.375pt x 419.5675pt>
-File: images/36.png Graphic file (type png)
-<use images/36.png>
-Package pdftex.def Info: images/36.png  used on input line 183.
-(pdftex.def)             Requested size: 455.24408pt x 211.44136pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 183--184
- [][] 
- []
-
-<images/37.png, id=141, 902.37125pt x 418.56375pt>
-File: images/37.png Graphic file (type png)
-<use images/37.png>
-Package pdftex.def Info: images/37.png  used on input line 187.
-(pdftex.def)             Requested size: 455.24408pt x 211.16545pt.
-
-Overfull \hbox (36.98853pt too wide) in paragraph at lines 187--188
- [][] 
- []
-
-[21 <./images/34.png> <./images/35.png>] [22 <./images/36.png> <./images/37.png
->] [23] [24] (./plantillaEjemploSimplificada.aux
-LaTeX Info: Redefining \. on input line 7.
-LaTeX Info: Redefining \% on input line 7.
+[12] [13] [14] (./plantillaEjemploSimplificada.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 8133 strings out of 492982
- 120745 string characters out of 6134896
- 284296 words of memory out of 5000000
- 11513 multiletter control sequences out of 15000+600000
+ 7511 strings out of 493029
+ 105886 string characters out of 6136234
+ 244573 words of memory out of 5000000
+ 10873 multiletter control sequences out of 15000+600000
  19894 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 51i,11n,58p,8867b,489s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 47i,11n,58p,326b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf
 /fonts/type1/public/cm-super/sfbx2074.pfb></usr/share/texmf/fonts/type1/public/
 cm-super/sfcc1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pf
@@ -1181,10 +1067,10 @@ m-super/sfsx1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1200.pfb
 ></usr/share/texmf/fonts/type1/public/cm-super/sfsx1440.pfb></usr/share/texmf/f
 onts/type1/public/cm-super/sfti1095.pfb></usr/share/texmf/fonts/type1/public/cm
 -super/sfxc1095.pfb>
-Output written on plantillaEjemploSimplificada.pdf (24 pages, 1621173 bytes).
+Output written on plantillaEjemploSimplificada.pdf (14 pages, 321677 bytes).
 PDF statistics:
- 193 PDF objects out of 1000 (max. 8388607)
- 86 compressed objects within 1 object stream
+ 98 PDF objects out of 1000 (max. 8388607)
+ 64 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 181 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 

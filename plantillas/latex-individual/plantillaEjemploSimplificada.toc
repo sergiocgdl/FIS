@@ -1,7 +1,6 @@
-\babel@toc {spanish}{}
-\contentsline {section}{\numberline {1}Contratos}{3}
-\contentsline {subsection}{\numberline {1.1}Gesti\IeC {\'o}n de flota}{3}
-\contentsline {subsection}{\numberline {1.2}Gesti\IeC {\'o}n de Almac\IeC {\'e}n}{6}
-\contentsline {subsection}{\numberline {1.3}Gesti\IeC {\'o}n transporte}{14}
-\contentsline {subsection}{\numberline {1.4}Atenci\IeC {\'o}n a clientes}{20}
-\contentsline {section}{\numberline {2}Glosario de t\IeC {\'e}rminos}{23}
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Contratos}{4}
+\contentsline {subsection}{\numberline {1.1}Gesti\IeC {\'o}n de transporte}{4}
+\contentsline {subsection}{\numberline {1.2}Atenci\IeC {\'o}n al cliente}{11}
+\contentsline {subsection}{\numberline {1.3}Gesti\IeC {\'o}n transporte}{12}
+\contentsline {section}{\numberline {2}Glosario de t\IeC {\'e}rminos}{13}
